@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{% block description %}{{ SITE_DESCTIPTION }}{% endblock %}" />
+    <meta name="author" content="{{ AUTHOR_NAME }}">
+
+    <meta name="tags" content="thats, awesome" />
+    <meta name="date" content="2012-07-09 22:28" />
+    <meta name="modified" content="2012-07-10 20:14" />
+    <meta name="category" content="yeah" />
+    <meta name="summary" content="Short version for index and feeds" />
+
+    {% if FEED_ALL_ATOM %}
+    <link type="application/atom+xml" rel="alternate" href="/{{ FEED_ALL_ATOM }}"  title="{{ SITE_DESCTIPTION }} - Atom Feed">
+    {% endif %}
+    {% if FEED_ALL_RSS %}
+    <link type="application/rss+xml" rel="alternate" href="/{{ FEED_ALL_RSS }}" title="{{ SITE_DESCTIPTION }} - RSS Feed">
+    {% endif %}
+
+    <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+    <link rel="stylesheet" href="/theme/css/{{ CSS_FILE }}" type="text/css"/>
+    <link rel="shortcut icon" href="/theme/static/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/theme/static/favicon.ico" type="image/x-icon">
+    
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:image" content="/theme/static/images/me.jpg" />
+    <meta name="twitter:title" content="{% block twitter_title %}{{ SITENAME }}{% endblock %}" />
+    <meta name="twitter:description" content="{% block twitter_description %}{{ SITE_DESCTIPTION }}{% endblock %}" />
+
+    <meta name="facebook:" />
+  </head>
+  <body>
+    <div class="page-wrapper">
+      <nav class="no-print">
+        <header><a href="/">{{ SITENAME }}</a></header>
+        <ul>
+          <li><a href="/">Blog</a></li>
+          <li><a href="/about/">About me</a></li>
+        </ul>
+      </nav>
+      {% block content %}
+      {% endblock %}
+      <div class="footer no-print">
+        <div class="copyright">This work is <a href="https://creativecommons.org/publicdomain/zero/1.0/">public domain</a> (<a href="https://github.com/filipgorczynski/blog.filipgorczynski.me/">source</a>)</div>
+      </div>
+    </div>
+
+    {% include 'google_tracking.html' %}
+  </body>
+</html>
