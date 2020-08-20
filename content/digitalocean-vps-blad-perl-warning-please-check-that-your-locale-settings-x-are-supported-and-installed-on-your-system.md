@@ -5,9 +5,7 @@ Category: Programowanie
 Slug: digitalocean-vps-blad-perl-warning-please-check-that-your-locale-settings-x-are-supported-and-installed-on-your-system
 Status: draft
 
-```
-
-```` {.bbcode_code}
+````
 perl: warning: Setting locale failed.
 perl: warning: Please check that your locale settings:
     LANGUAGE = (unset),
@@ -21,8 +19,8 @@ locale: Cannot set LC_ALL to default locale: No such file or directory
 ```
 ````
 
-locale-gen en\_US en\_US.UTF-8 pl\_PL pl\_PL.UTF-8
+locale-gen en_US en_US.UTF-8 pl_PL pl_PL.UTF-8
 
-``` {.bbcode_code}
+```
 dpkg-reconfigure locales
 ```

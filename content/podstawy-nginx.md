@@ -7,17 +7,12 @@ Status: draft
 
 Dyrektywy = Option name + Option value
 
-\[code language="text"\]
-
-\<span class="k"\>worker\_processes\</span\> \<span class="mi"\>5\</span\>\<span class="p"\>;\</span\>
-
-\<span class="k"\>error\_log\</span\> \<span class="s"\>logs/error.log\</span\>\<span class="p"\>;\</span\>
-
-\<span class="k"\>pid\</span\> \<span class="s"\>logs/nginx.pid\</span\>\<span class="p"\>;\</span\>
-
-\<span class="k"\>worker\_rlimit\_nofile\</span\> \<span class="mi"\>8192\</span\>\<span class="p"\>;\</span\>
-
-\[/code\]
+[code language="text"]
+<span class="k">worker_processes</span> <span class="mi">5</span><span class="p">;</span>
+<span class="k">error_log</span> <span class="s">logs/error.log</span><span class="p">;</span>
+<span class="k">pid</span> <span class="s">logs/nginx.pid</span><span class="p">;</span>
+<span class="k">worker_rlimit_nofile</span> <span class="mi">8192</span><span class="p">;</span>
+[/code]
 
 Contexts: main - najwyższy poziom w pliku, events, http \> server \> location
 

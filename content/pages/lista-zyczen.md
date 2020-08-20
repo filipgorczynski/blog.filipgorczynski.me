@@ -3,6 +3,7 @@ Date: 2010-01-04 08:33
 Author: filipgorczynski
 Category: Luźne
 Slug: lista-zyczen
+Lang: pl
 Status: published
 
 -   [Nóż Ka-Bar USMC The Legend (1217)](https://www.militaria.pl/ka-bar/noz_ka-bar_usmc_the_legend_1217_p73096.xml)

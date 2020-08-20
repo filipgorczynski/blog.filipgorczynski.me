@@ -1,8 +1,8 @@
 Title: Technika M.I.T.
 Date: 2019-04-25 13:42
 Author: filipgorczynski
-Category: Dobre praktyki, Luźne, Programowanie
-Tags: mit, Produktywność, zadania
+Category: Luźne
+Tags: mit, produktywność, zadania
 Slug: technika-m-i-t
 Status: draft
 

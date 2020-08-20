@@ -15,9 +15,9 @@ W oknie VirtualBox dodajemy nową maszynę wirtualną, wpisujemy Fedora-template
 
 Przed włączeniem konfigurujemy maszynę wirtualną:
 
-Ustawienia \> System \> Processor na 2
+Ustawienia > System > Processor na 2
 
-Ustawienia \> Sieci \> Bridged Adapter
+Ustawienia > Sieci > Bridged Adapter
 
 Uruchamiamy: login i hasło to domyślnie osboxes:osboxes.org, aktualna informacja na zakładce Info podczas pobierania obrazu
 

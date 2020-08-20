@@ -1,8 +1,8 @@
-Title: Ścieżka do zainstalowanego pakietu Pythona
+Title: Szukanie lokalizacji katalogu z zainstalowanymi pakietami Pythona
 Date: 2020-07-31 11:22
 Author: filipgorczynski
 Category: Programowanie
-Slug: sciezka-do-zainstalowanego-pakietu-pythona
+Slug: szukanie-lokalizacji-katalogu-z-zainstalowanymi-pakietami-pythona
 Status: draft
 
 `python -m site`

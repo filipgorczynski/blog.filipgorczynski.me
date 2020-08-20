@@ -6,7 +6,6 @@ Slug: ack-czyli-grep-dla-programisty
 Status: draft
 
  
-
 https://beyondgrep.com/
 
 https://beyondgrep.com/install/

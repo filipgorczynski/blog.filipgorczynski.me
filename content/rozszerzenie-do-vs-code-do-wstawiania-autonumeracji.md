@@ -5,6 +5,5 @@ Category: Programowanie
 Slug: rozszerzenie-do-vs-code-do-wstawiania-autonumeracji
 Status: draft
 
-<!-- wp:paragraph -->pretty-edit -\> cefour.pretty-edit
+pretty-edit -\> cefour.pretty-edit
 
-<!-- /wp:paragraph -->

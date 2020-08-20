@@ -5,8 +5,6 @@ Category: Bazy danych, Dobre praktyki, Programowanie
 Slug: ceny-w-aplikacjach
 Status: draft
 
-<!-- wp:paragraph -->
-
 formatowanie, przechowywanie w bazie danych,
 
 `https://gist.github.com/rgs/6509585`
@@ -22,7 +20,3 @@ formatowanie, przechowywanie w bazie danych,
 `https://github.com/kdeldycke/awesome-falsehood\#business`
 
 `https://github.com/kdeldycke/awesome-falsehood\#internationalization`
-
- 
-
-<!-- /wp:paragraph -->

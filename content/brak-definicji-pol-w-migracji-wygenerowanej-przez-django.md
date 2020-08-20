@@ -6,3 +6,4 @@ Slug: brak-definicji-pol-w-migracji-wygenerowanej-przez-django
 Status: draft
 
 
+Warto przyjrzeć się czy na końcu definicji pola nie znajduje się przecinek

@@ -1,8 +1,9 @@
-Title: [en] DRY in YAML files
+Title: DRY in YAML files
 Date: 2020-07-02 10:45
 Author: filipgorczynski
 Category: Dobre praktyki, Programowanie, Rozwiązania
-Slug: en-dry-in-yaml-files
+Slug: dry-in-yaml-files
+Lang: en
 Status: draft
 
 `https://dmitryrck.com/how-to-use-inheritance-in-yaml-files/`
