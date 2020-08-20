@@ -6,7 +6,7 @@ Tags: case, django, django rest framework, drf, order_by, when
 Slug: sortowanie-po-wirtualnej-kolumnie-w-django
 Status: published
 
-![](https://filipgorczynski.files.wordpress.com/2015/10/django-logo-positive.png?w=128){.alignleft .wp-image-1153 .size-thumbnail width="128" height="45"}
+![Django Logo](https://filipgorczynski.files.wordpress.com/2015/10/django-logo-positive.png?w=128){.alignleft .wp-image-1153 .size-thumbnail width="128" height="45"}
 
 Nie tak dawno temu w ramach jednego z zadań w Django było uporządkowanie wyników wg innego klucza niż najprostsze `ORDER BY`. Chodziło o nadanie pewnego rodzaju wag dla wierszy, które możliwie najlepiej wpasowały się w poniższe kryteria:
 

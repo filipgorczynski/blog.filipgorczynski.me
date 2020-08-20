@@ -6,11 +6,11 @@ Tags: formatowanie kodu, gist, GitHub, kod źródłowy, kolorowanie składni, wo
 Slug: publikowanie-kodu-zrodlowego-z-kolorowaniem-skladni-w-postach-na-wordpress-com
 Status: published
 
-![](https://filipgorczynski.files.wordpress.com/2015/04/python1.png){.alignleft .wp-image-1002 .size-full width="128" height="128"}
+![Python Logo](https://filipgorczynski.files.wordpress.com/2015/04/python1.png){.alignleft .wp-image-1002 .size-full width="128" height="128"}
 
 Post ten skierowany jest do ludzi trzymających swoje blogi bezpośrednio na Wordpress.com i/lub którzy od czasu do czasu zmuszeni są opublikować kawałek kodu źródłowego.
 
-Do wstawienia kolorowanego i sformatowanego kodu [oficjalna dokumentacja](https://en.support.wordpress.com/code/posting-source-code/) wspomina o wykorzystaniu znacznika \`code\` (w nawiasach kwadratowych) bezpośrednio we wpisie. Dodatkowo dysponujemy kilkoma parametrami konfiguracyjnymi co daje całkiem ciekawe możliwości:
+Do wstawienia kolorowanego i sformatowanego kodu [oficjalna dokumentacja](https://en.support.wordpress.com/code/posting-source-code/) wspomina o wykorzystaniu znacznika `code` (w nawiasach kwadratowych) bezpośrednio we wpisie. Dodatkowo dysponujemy kilkoma parametrami konfiguracyjnymi co daje całkiem ciekawe możliwości:
 
 \[code language="python" autolinks="true" title="Public source code for guess the number game" highlight="11,21"\]  
 """  
@@ -40,7 +40,7 @@ print 'Nope. The number I was thinking of was {0}'.format(number)\</pre\>
 
 Minusem tego rozwiązania jest jednak ograniczona liczba wspieranych języków (do przejrzenia na stronie oficjalnej dokumentacji). Jednak jeśli nie używamy niczego egzotycznego to do naszych potrzeb powinno to w zupełności wystarczyć.
 
-Kolejnym sposobem w dokumentacji nie wspomnianym (ale wspomnianym na innej stronie dotyczącej samego Wordpressa) jest użycie narzędzia od GitHuba - [Gist](https://gist.github.com/). I jedyne co należy zrobić to po prostu wkleić URL gista, np. wklejenie adresu \`https://gist.github.com/filipgorczynski/04f4b97613da6970c44f5c4c8c115d72\` bezpośrednio do posta będzie skutkowało "załadowaniem" okienka jak poniżej:
+Kolejnym sposobem w dokumentacji nie wspomnianym (ale wspomnianym na innej stronie dotyczącej samego Wordpressa) jest użycie narzędzia od GitHuba - [Gist](https://gist.github.com/). I jedyne co należy zrobić to po prostu wkleić URL gista, np. wklejenie adresu `https://gist.github.com/filipgorczynski/04f4b97613da6970c44f5c4c8c115d72` bezpośrednio do posta będzie skutkowało "załadowaniem" okienka jak poniżej:
 
 https://gist.github.com/filipgorczynski/04f4b97613da6970c44f5c4c8c115d72
 

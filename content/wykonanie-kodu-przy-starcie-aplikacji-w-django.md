@@ -6,7 +6,7 @@ Tags: application, apps, django, format_html, has_change_permissions, has_delete
 Slug: wykonanie-kodu-przy-starcie-aplikacji-w-django
 Status: published
 
-![](https://filipgorczynski.files.wordpress.com/2015/10/django-logo-positive.png?w=128){.alignleft .wp-image-1153 .size-thumbnail width="128" height="45"}
+![Django Logo](https://filipgorczynski.files.wordpress.com/2015/10/django-logo-positive.png?w=128){.alignleft .wp-image-1153 .size-thumbnail width="128" height="45"}
 
 Wielokrotnie zdarzyło mi się (i pewnie nie tylko mi) musieć uzupełnić jakimiś wartościami bazę danych w trakcie zmian w projekcie. Chodziło konkretnie o dane, które powinny się pojawić po wdrożeniu zmian i nie powinny dawać możliwości ich zmiany bądź usunięcia ze względu na potencjalny wpływ na działanie całej aplikacji.
 

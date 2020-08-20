@@ -20,6 +20,8 @@ W pliku `config/dev.env.js`:
 
 https://gist.github.com/filipgorczynski/0923d45ea68f9b3d3f7ce1114777759d
 
+[gist:id=0923d45ea68f9b3d3f7ce1114777759d]
+
 Pliki `src/assets/logo.png` i `src/components/HelloWorld.vue` możemy wyrzucić, jako w tej chwili nie używane.
 
 W backendzie natomiast, w pliku `views.py` naszej aplikacji (`movies`):

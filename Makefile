@@ -8,6 +8,10 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
+FTP_HOST=filipgorczynski.me
+FTP_USER=publisher@filipgorczynski.me
+FTP_TARGET_DIR=/
+
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -32,6 +36,7 @@ help:
 	@echo '   make devserver [PORT=8000]          serve and regenerate together      '
 	@echo '   make ssh_upload                     upload the web site via SSH        '
 	@echo '   make rsync_upload                   upload the web site via rsync+ssh  '
+	@echo '   make ftp_upload                     upload the web site via FTP        '
 	@echo '                                                                          '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   '
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
@@ -71,5 +76,8 @@ endif
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
+ftp_upload: publish
+	lftp ftp://$(FTP_USER)@$(FTP_HOST) -e "mirror -R $(OUTPUTDIR) $(FTP_TARGET_DIR) ; quit"
 
-.PHONY: html help clean regenerate serve serve-global devserver publish 
+
+.PHONY: html help clean regenerate serve serve-global devserver publish ftp_upload

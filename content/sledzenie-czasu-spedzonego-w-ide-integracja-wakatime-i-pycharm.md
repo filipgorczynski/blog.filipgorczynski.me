@@ -6,7 +6,7 @@ Tags: PyCharm, timetracking, wakatime, śledzenie czasu
 Slug: sledzenie-czasu-spedzonego-w-ide-integracja-wakatime-i-pycharm
 Status: published
 
-![](https://filipgorczynski.files.wordpress.com/2018/03/wakatime_logo1.png){.alignleft .wp-image-1679 .size-full width="128" height="128"}
+![WakaTime Logo](https://filipgorczynski.files.wordpress.com/2018/03/wakatime_logo1.png){.alignleft .wp-image-1679 .size-full width="128" height="128"}
 
 Nie tak dawno temu w ramach kolejnych prób ze śledzeniem swojego czasu spędzonego na pisaniu kodu trafiłem na [WakaTime](https://wakatime.com/).  
 Dla moich potrzeb wystarczyła instalacja w PyCharm, ale inne wspierane środowiska programowania wraz z instrukcjami instalacji przejrzeć możemy na stronie [WakaTime Editors](https://wakatime.com/editors).

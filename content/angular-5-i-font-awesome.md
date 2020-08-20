@@ -8,7 +8,7 @@ Status: published
 
 ![](https://filipgorczynski.files.wordpress.com/2018/02/angular1-e1517653581617.png){.alignleft .wp-image-1487 .size-full width="120" height="128"}
 
-Jedną z możliwości integracji [font-awesome](https://fontawesome.com/) z [Angular](https://angular.io/) jest użycie gotowych paczek z repozytoriów npm. Przegląd kilku - oraz szybki rzut oka na datę publikacji ostatnich zmian w tych paczkach wyłonił \`angular-font-awesome'. I o ile instrukcja instalacji dostępna jest na stronie repozytorium tej paczki - nie jestem zwolennikiem ponownego szukania samej nazwy paczki ani jak jej użyć.
+Jedną z możliwości integracji [font-awesome](https://fontawesome.com/) z [Angular](https://angular.io/) jest użycie gotowych paczek z repozytoriów npm. Przegląd kilku - oraz szybki rzut oka na datę publikacji ostatnich zmian w tych paczkach wyłonił `angular-font-awesome'. I o ile instrukcja instalacji dostępna jest na stronie repozytorium tej paczki - nie jestem zwolennikiem ponownego szukania samej nazwy paczki ani jak jej użyć.
 
 Dla porządku tworzymy sobie czysty projekt w Angularze:
 

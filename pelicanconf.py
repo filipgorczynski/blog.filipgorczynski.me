@@ -8,7 +8,7 @@ SITEURL = ''
 
 PATH = 'content'
 
-THEME = 'theme'
+THEME = '/home/filip/src/Vendors/pelican-themes/pelican-blue'
 
 TIMEZONE = 'Europe/Warsaw'
 
@@ -35,3 +35,13 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# https://www.seyiobaweya.tech/articles/2020-01-20/personal-website-setup/
+STATIC_PATHS = [
+    'images', 'content', 'featured', 'logos' 'pdfs', 'static', 'zipfiles'
+]
+
+PLUGIN_PATHS = ['/home/filip/src/Vendors/pelican-plugins']
+PLUGINS = [
+    'pelican_gist', 'pelican_youtube',
+]

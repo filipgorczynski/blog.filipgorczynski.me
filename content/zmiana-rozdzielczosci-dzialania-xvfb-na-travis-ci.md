@@ -6,7 +6,7 @@ Tags: automation tests, ci, e2e, resolution, robot framework, rozdzielczość, s
 Slug: zmiana-rozdzielczosci-dzialania-xvfb-na-travis-ci
 Status: published
 
-![](https://filipgorczynski.files.wordpress.com/2018/03/travisci-logo.png){.alignleft .wp-image-1752 .size-full width="128" height="128"}
+![Travis CI Logo](https://filipgorczynski.files.wordpress.com/2018/03/travisci-logo.png){.alignleft .wp-image-1752 .size-full width="128" height="128"}
 
 O ile uruchamianie "zwykłych" testów w ramach ciągłej integracji (Jenkins, Travis CI, Circle CI) raczej nie jest problematyczne - bo przecież uruchamiamy je tylko przeciwko konkretnym fragmentom kodu - to testy wymagające Xvfb (X virtual framebuffer) już takie oczywiste nie są.
 

@@ -1,0 +1,79 @@
+Title: Sumowanie elementów tablicy w oparciu o klucz
+Date: 2013-10-12 12:39
+Author: filipgorczynski
+Category: Programowanie, Rozwiązania
+Slug: sumowanie-elementow-tablicy-w-oparciu-o-klucz
+Status: draft
+
+    W odpowiedzi na pytanie znalezione na StackOverflow
+
+    http://stackoverflow.com/questions/1496682/how-to-sum-values-of-the-array-of-the-same-key
+
+    może komuś przyda się kawałek kodu sumujący
+
+    [code language="php"]
+
+    <?php
+
+    function array_sum_values(array $input, $key) {
+
+       $sum = 0;
+
+       array_walk($input, function($item, $index, $params) {
+
+          if (!empty($item[$params[1]]))
+
+             $params[0] += $item[$params[1]];
+
+       }, array(&$sum, $key));
+
+       return $sum;
+
+    }
+    $arr = array(
+
+     array
+
+     (
+
+     'gozhi' => 2,
+
+     'uzorong' => 1,
+
+     'ngangla' => 4,
+
+     'langthel' => 5,
+
+     ),
+
+     array
+
+     (
+
+     'gozhi' => 5,
+
+     'uzorong' => 0,
+
+     'ngangla' => 3,
+
+     'langthel' => 2,
+
+     ),
+
+     array
+
+     (
+
+     'gozhi' => 3,
+
+     'uzorong' => 0,
+
+     'ngangla' => 1,
+
+     'langthel' => 3,
+
+     )
+
+    );
+    var_dump(array_sum_values($arr, 'gozhi'));
+    [/code]

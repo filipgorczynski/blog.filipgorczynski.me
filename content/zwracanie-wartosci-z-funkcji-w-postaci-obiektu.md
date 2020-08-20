@@ -1,7 +1,7 @@
 Title: Zwracanie wartości z funkcji w postaci obiektu
 Date: 2011-11-14 22:05
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania
+Category: Programowanie
 Tags: ErrorReporting, raportowanie błędów, return
 Slug: zwracanie-wartosci-z-funkcji-w-postaci-obiektu
 Status: published

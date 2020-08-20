@@ -6,7 +6,7 @@ Tags: Cabextract, Consolas, Consolas Bold Italic, Font, Font Manager, Ubuntu
 Slug: instalacja-czcionki-consolas-w-ubuntu
 Status: published
 
-[![](https://filipgorczynski.files.wordpress.com/2017/06/ubuntulogo.png?w=150){.alignleft .wp-image-1313 .size-thumbnail width="150" height="150"}](https://filipgorczynski.files.wordpress.com/2017/06/ubuntulogo.png)Instalacja fontu Consolas w Ubuntu została bardzo dobrze opisana na [kilku stronach](https://goo.gl/G5i0Yg), ale dla kompletności pozwolę sobie powtórzyć i skrócić.
+[![Ubuntu Logo](https://filipgorczynski.files.wordpress.com/2017/06/ubuntulogo.png?w=150){.alignleft .wp-image-1313 .size-thumbnail width="150" height="150"}](https://filipgorczynski.files.wordpress.com/2017/06/ubuntulogo.png)Instalacja fontu Consolas w Ubuntu została bardzo dobrze opisana na [kilku stronach](https://goo.gl/G5i0Yg), ale dla kompletności pozwolę sobie powtórzyć i skrócić.
 
 Instalujemy odpowiednie pakiety
 

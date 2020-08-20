@@ -10,6 +10,7 @@ black==19.3b0
 blinker==1.4
 celery==4.3.0
 certifi==2020.6.20
+chardet==3.0.4
 Click==7.0
 coverage==4.5.4
 decorator==4.4.0
@@ -24,6 +25,7 @@ feedgenerator==1.9.1
 gitdb2==2.0.5
 GitPython==3.0.2
 gunicorn==19.9.0
+idna==2.10
 importlib-metadata==0.19
 ipdb==0.12.2
 ipython==7.7.0
@@ -41,6 +43,7 @@ pandoc==1.0.2
 parso==0.5.1
 pbr==5.4.2
 pelican==4.2.0
+pelican-gist==0.3.4
 pexpect==4.7.0
 pickleshare==0.7.5
 pip-tools==4.1.0
@@ -63,6 +66,7 @@ pytest-django==3.5.1
 python-dateutil==2.8.1
 pytz==2019.2
 PyYAML==5.1.2
+requests==2.24.0
 rstcheck==3.3.1
 sentry-sdk==0.16.5
 six==1.12.0

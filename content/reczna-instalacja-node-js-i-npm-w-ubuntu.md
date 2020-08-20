@@ -6,7 +6,7 @@ Tags: instalacja, ln, node, Node.js, NodeJs, npm, PATH, Ubuntu
 Slug: reczna-instalacja-node-js-i-npm-w-ubuntu
 Status: published
 
-![](https://filipgorczynski.files.wordpress.com/2017/03/nodejs-new-pantone-black-e1489221708700.png){.alignleft .wp-image-1281 .size-full width="150" height="92"}
+![NodeJS Logo](https://filipgorczynski.files.wordpress.com/2017/03/nodejs-new-pantone-black-e1489221708700.png){.alignleft .wp-image-1281 .size-full width="150" height="92"}
 
 Standardowa instalacja node.js w Ubuntu z dostępnych repozytoriów poprzez `sudo apt-get install nodejs` nie zawsze pozwala uzyskać nam najświeższą wersję. Dla Ubuntu 16.04 zapytanie o paczkę nodejs zwraca nam wersję `4.2.6`:
 

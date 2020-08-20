@@ -1,0 +1,15 @@
+Title: ESLint i ostrzeżenie no-irregular-whietespace w VueJS
+Date: 2019-04-26 09:37
+Author: filipgorczynski
+Category: Programowanie
+Slug: eslint-i-ostrzezenie-no-irregular-whietespace-w-vuejs
+Status: draft
+
+Aby ograniczyć regułę ESling w ramach pliku, w znaczniku template dodajemy
+
+`\<template\>  
+\<!-- eslint-disable no-irregular-whitespace --\>`
+
+i przed zakończeniem
+
+`[\<!--]{.pl-c} eslint-enable no-irregular-whitespace [--\>`]{.pl-c}

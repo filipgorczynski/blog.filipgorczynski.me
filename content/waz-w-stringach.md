@@ -6,7 +6,7 @@ Tags: f-string, format, interpolacja, pep-0798, string
 Slug: waz-w-stringach
 Status: published
 
-![](https://filipgorczynski.files.wordpress.com/2015/04/python1.png){.alignleft .wp-image-1002 .size-full width="128" height="128"}
+![Python Logo](https://filipgorczynski.files.wordpress.com/2015/04/python1.png){.alignleft .wp-image-1002 .size-full width="128" height="128"}
 
 Jednym z pierwszych typów danych o których uczymy się w ramach najróżniejszych kursów programowania jest **typ łańcuchowy** - często określany jako `string`. Nie bez powodu jest to jeden z najczęściej używanych w programowaniu typów. A dlaczego? Ponieważ jako ludzie głównie działamy na tekście: czytamy książki, piszemy listy, ostrzegamy o wysokim napięciu, opisujemy substancje chemiczne, gryzmolimy tagi na rozkładach jazdy (kto wracał komunikacją nocną i nie mógł odczytać rozkładu przez głupie tagi wie, że tego typu teksty są najmniej lubiane) - w dużym skrócie - tekstu używamy wszędzie.
 

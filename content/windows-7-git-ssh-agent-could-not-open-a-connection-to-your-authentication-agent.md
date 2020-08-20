@@ -13,7 +13,7 @@ otrzymujemy komunikat:
 
 \[code language="text"\]Could not open a connection to your authentication agent.\[/code\]
 
-W sieci znalazłem kilka propozycji rozwiązania problemu, ale większość działa jedynie na środowiskach nie Windowsowych i kończy się wykonaniem polecenia eval \`ssh-agent\`, które na Windowsie oczywiście nie działa.
+W sieci znalazłem kilka propozycji rozwiązania problemu, ale większość działa jedynie na środowiskach nie Windowsowych i kończy się wykonaniem polecenia eval `ssh-agent`, które na Windowsie oczywiście nie działa.
 
 Moja propozycja rozwiązania.  
 Pobieramy i instalujemy PuTTY, szczególnie będzie nas interesował PuTTY i Pageant. Jeśli już posiadamy zainstalowaną wersję PuTTY mogliśmy wykorzystywać PuTTYgen do stworzenia pary naszych kluczy.

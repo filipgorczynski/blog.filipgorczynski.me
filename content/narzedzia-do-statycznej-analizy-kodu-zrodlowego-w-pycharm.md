@@ -24,7 +24,7 @@ https://gist.github.com/filipgorczynski/0794a41c5ba09061c24fcf67eb6911c4
 
 flake8 zostanie zainstalowany jako zależność podczas instalacji radon-a.
 
-[![](https://filipgorczynski.files.wordpress.com/2018/03/pycharm-settings-external-tools.png?w=76){.aligncenter .size-thumbnail .wp-image-1722 width="76" height="128"}](https://filipgorczynski.files.wordpress.com/2018/03/pycharm-settings-external-tools.png)
+[![PyCharm Settings External Tools](https://filipgorczynski.files.wordpress.com/2018/03/pycharm-settings-external-tools.png?w=76){.aligncenter .size-thumbnail .wp-image-1722 width="76" height="128"}](https://filipgorczynski.files.wordpress.com/2018/03/pycharm-settings-external-tools.png)
 
 Klikamy "+" aby dodać nowe narzędzie. W otwartym okienku uzupełniamy jak poniżej:
 
