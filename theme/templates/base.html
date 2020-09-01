@@ -9,7 +9,7 @@
     <meta name="tags" content="thats, awesome" />
     <meta name="date" content="2012-07-09 22:28" />
     <meta name="modified" content="2012-07-10 20:14" />
-    <meta name="category" content="yeah" />
+    <meta name="category" content="{{ CATEGORY }}" />
     <meta name="summary" content="Short version for index and feeds" />
 
     {% if FEED_ALL_ATOM %}
@@ -20,21 +20,18 @@
     {% endif %}
 
     <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
-    <link rel="stylesheet" href="/theme/css/{{ CSS_FILE }}" type="text/css"/>
-    <link rel="shortcut icon" href="/theme/static/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="/theme/static/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/{{ CSS_FILE }}" type="text/css"/>
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" href="/static/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/static/favicon.ico" type="image/x-icon">
     
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:image" content="/theme/static/images/me.jpg" />
-    <meta name="twitter:title" content="{% block twitter_title %}{{ SITENAME }}{% endblock %}" />
-    <meta name="twitter:description" content="{% block twitter_description %}{{ SITE_DESCTIPTION }}{% endblock %}" />
-
+    {% include 'meta_twitter.html' %}
     <meta name="facebook:" />
   </head>
   <body>
     <div class="page-wrapper">
       <nav class="no-print">
-        <header><a href="/">{{ SITENAME }}</a></header>
+        <header><a href="/">Filip Górczyński</a></header>
         <ul>
           <li><a href="/">Blog</a></li>
           <li><a href="/about/">About me</a></li>
@@ -48,5 +45,6 @@
     </div>
 
     {% include 'google_tracking.html' %}
+    {% include 'common/mailchimp.html'}
   </body>
 </html>

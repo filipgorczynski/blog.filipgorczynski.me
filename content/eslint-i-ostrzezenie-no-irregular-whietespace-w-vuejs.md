@@ -7,9 +7,12 @@ Status: draft
 
 Aby ograniczyć regułę ESling w ramach pliku, w znaczniku template dodajemy
 
-`\<template\>  
-\<!-- eslint-disable no-irregular-whitespace --\>`
-
+```html
+<template>
+<!-- eslint-disable no-irregular-whitespace -->
+```
 i przed zakończeniem
 
-`[\<!--]{.pl-c} eslint-enable no-irregular-whitespace [--\>`]{.pl-c}
+```html
+<!-- eslint-enable no-irregular-whitespace -->
+```

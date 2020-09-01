@@ -4,6 +4,11 @@
 {% block twitter_title %}{{ article.title|striptags }}{% endblock %}
 {% block twitter_description %}{{ article.summary|striptags }}{% endblock %}
 {% block content %}
+
+<div class="article-meta">
+  {{ article.published|"dd-mm-YYYY HH:ii" | {% trans 'by' %} Filip Górczyński | {% trans 'in' %} Category name | 460 {% trans 'words' %} | {% trans '%d minutes to read' %}
+  {% include 'common/tags.html' %}
+</div>
 <h2 class="article-title">
   {{ article.title }}
 </h2>

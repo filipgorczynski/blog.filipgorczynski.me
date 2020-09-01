@@ -3,9 +3,9 @@ Date: 2020-06-02 06:34
 Author: filipgorczynski
 Category: Programowanie
 Slug: nie-instaluj-postgresql-w-systemie
+Lang: pl
 Status: draft
 
-<!-- wp:paragraph -->
 
 Od zawsze jednym z podstawowych programów, które instalowałem w systemie był PostgreSQL. Baza danych używana praktycznie w każdym moim projekcie. Jednak dużo zaczęło się komplikować, gdy pracowałem z innymi programistami albo z pewnymi wymaganiami stawianymi przez projekt.
 
@@ -13,13 +13,13 @@ Od zawsze jednym z podstawowych programów, które instalowałem w systemie był
 
 <!-- wp:syntaxhighlighter/code -->
 
-``` {.wp-block-syntaxhighlighter-code}
-docker run -p 5432:5432   
-  -e POSTGRES_PASSWORD=postgres   
-  -e POSTGRES_USER=postgres   
-  -e POSTGRES_DB=djobeet_dev   
-  -v pgdata:/var/lib/postgresql/data   
-  --name djobeet_db_dev   
+```
+docker run -p 5432:5432
+  -e POSTGRES_PASSWORD=postgres
+  -e POSTGRES_USER=postgres
+  -e POSTGRES_DB=djobeet_dev
+  -v pgdata:/var/lib/postgresql/data
+  --name djobeet_db_dev
   -d postgres;
 2a2692d0a2531dd3289c0fd25f9c05e0ee7febec2ef13f8ee40e38df8657f9fd
 

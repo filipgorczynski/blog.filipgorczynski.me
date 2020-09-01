@@ -1,0 +1,8 @@
+{% trans 'tags' %}: 
+{% if tags %}
+    {% for tag in article.tags %}
+    <a href="/{{ tag.url }}">{{ tag.name }}</a>
+    {% endfor %}
+{% else %}
+    {% trans 'No tags found' %}
+{% endif %}

@@ -2,16 +2,14 @@ Title: Pożegnanie taty
 Date: 2019-11-14 12:11
 Author: filipgorczynski
 Category: Luźne
-Tags: pożegnanie, prywatne, tata, żałoba
+Tags: tata, żałoba
 Slug: pozegnanie-taty
-Status: published
+Status: draft
 
 ![Black Ribbon](https://filipgorczynski.files.wordpress.com/2019/11/128px-black_ribbon.png?w=83){.alignleft .size-thumbnail .wp-image-2415 width="83" height="128"}Ten wpis jest całkowicie nietechniczny a związany z życiem prywatnym. Można nawet śmiało powiedzieć, że z życiem prywatnym każdego z nas - w mniejszym lub większym stopniu - ale jednak. Jeśli więc poszukujesz treści *stricte* technicznych, to nic takiego ciekawego tutaj się nie pojawi.
 
-**07.11.2019** byłem na pogrzebie taty i później postanowiłem popełnić krótki wpis z moimi przemyśleniami na facebookowej grupie *"Jestem tatą"*.  
+**07.11.2019** byłem na pogrzebie taty i później postanowiłem popełnić krótki wpis z moimi przemyśleniami na facebookowej grupie *"Jestem tatą"*.
 Po komentarzach i reakcjach członków tej grupy uznałem, że spotkał się z całkiem pozytywnym odzewem (wpis, chociaż tata chyba też) i pomyślałem, że może nie byłoby głupim pomysłem podzielić się nim w innej społeczności.
-
-<!--more-->
 
 A oto i oryginalna treść całego wpisu:
 

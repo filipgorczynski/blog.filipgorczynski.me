@@ -4,11 +4,13 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Filip Górczyński'
 SITENAME = 'Yet Another Developer Blog'
-SITEURL = ''
+SITEURL = 'blog.filipgorczynski.me'
 
 PATH = 'content'
 
-THEME = '/home/filip/src/Vendors/pelican-themes/pelican-blue'
+# THEME = '/home/filip/src/Vendors/pelican-themes/pelican-blue'
+# THEME = '/home/filip/src/SynApps/blog.filipgorczynski.me/theme'
+THEME = '/home/filip/src/SynApps/blog.filipgorczynski.me/theme'
 
 TIMEZONE = 'Europe/Warsaw'
 
@@ -21,15 +23,17 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+CSS_FILE = 'main.css'
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
-
+# LINKS = (('Pelican', 'http://getpelican.com/'),
+#          ('Python.org', 'http://python.org/'),
+#          ('Jinja2', 'http://jinja.pocoo.org/'),
+#          ('You can modify those links in your config file', '#'),)
+LINKS = ()
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+# SOCIAL = (('You can add links in your config file', '#'),
+#           ('Another social link', '#'),)
+SOCIAL = ()
 
 DEFAULT_PAGINATION = 10
 
