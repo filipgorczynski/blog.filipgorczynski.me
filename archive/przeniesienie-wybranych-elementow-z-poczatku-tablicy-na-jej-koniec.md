@@ -3,7 +3,7 @@ Date: 2011-04-26 16:24
 Author: filipgorczynski
 Category: Programowanie, Rozwiązania
 Slug: przeniesienie-wybranych-elementow-z-poczatku-tablicy-na-jej-koniec
-Status: hidden
+Status: archive
 
 \[code language="javascript"\]  
 var t = \['jeden', 'dwa', 'trzy', 'cztery', 'pięć', 'sześć'\];  

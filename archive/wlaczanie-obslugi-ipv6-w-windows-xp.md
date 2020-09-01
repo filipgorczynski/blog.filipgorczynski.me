@@ -3,7 +3,7 @@ Date: 2010-12-23 09:42
 Author: filipgorczynski
 Category: Rozwiązania, Systemy Operacyjne
 Slug: wlaczanie-obslugi-ipv6-w-windows-xp
-Status: hidden
+Status: archive
 
 Szacowany czas do "końca internetu", czyli wyczerpania się puli adresów IPv4 na chwile obecną to około 55 dni.  
 Żeby się nagle nie okazało, że "nie działa Internet" można zainstalować w Windows XP nowy protokół.  

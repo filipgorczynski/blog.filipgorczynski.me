@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Luźne
 Slug: lista-zyczen
 Lang: pl
-Status: hidden
+Status: archive
 
 -   [Nóż Ka-Bar USMC The Legend (1217)](https://www.militaria.pl/ka-bar/noz_ka-bar_usmc_the_legend_1217_p73096.xml)
 -   [Fotel dla programisty - Fotel Ergohuman Plus Elite BS KMD31](https://www.centrumkrzesel.pl/fotel-ergohuman-plus-elite-bs-kmd31/3294/p)

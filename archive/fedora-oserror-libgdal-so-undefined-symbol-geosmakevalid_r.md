@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Programowanie
 Tags: dnf, dnf history, fedora, Fedora 29, gdal, gdal30, GEOSMakeValid_r, libgdal, OSError
 Slug: fedora-oserror-libgdal-so-undefined-symbol-geosmakevalid_r
-Status: hidden
+Status: archive
 
 ![Fedora Logo](https://filipgorczynski.files.wordpress.com/2019/11/fedora_logo-e1573723036788.png){.alignleft .wp-image-2381 .size-full width="128" height="128"}
 

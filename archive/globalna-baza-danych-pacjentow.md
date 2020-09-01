@@ -3,7 +3,7 @@ Date: 2010-04-02 08:46
 Author: filipgorczynski
 Category: Luźne
 Slug: globalna-baza-danych-pacjentow
-Status: hidden
+Status: archive
 
 Ostatnio w pracy zaczęliśmy się zastanawiać, dlaczego NFZ nie przeznaczy części pieniędzy na stworzenie oprogramowania służącego do zarządzania pacjentami, recepturami czy lekami (także ich dostępnością w lokalnych aptekach)? Od kiedy pamiętam idąc do lekarza/szpitala, wszędzie obecne są komunistyczne karteczki skrupulatnie wypełniane przy każdej wizycie. To dość komiczne w XXI wieku, aby wszelkie historie choroby wypisane były "ręcznie" na pożółkłych kserach walających się chaotycznie w "teczce pacjenta".
 

@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Dobre praktyki, Programowanie, Rozwiązania
 Tags: f-string, format, interpolacja, pep-0798, string
 Slug: waz-w-stringach
-Status: hidden
+Status: archive
 
 ![Python Logo](https://filipgorczynski.files.wordpress.com/2015/04/python1.png){.alignleft .wp-image-1002 .size-full width="128" height="128"}
 

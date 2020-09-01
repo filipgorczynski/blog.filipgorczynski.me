@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Dobre praktyki, Programowanie, Rozwiązania
 Tags: config, development, env, production, vue, vuejs
 Slug: vuejs-2-dostep-do-konfiguracji-srodowiska
-Status: hidden
+Status: archive
 
 ![vuejs logo](https://filipgorczynski.files.wordpress.com/2017/11/vuejs_logo-e1519284315108.png){.alignleft .wp-image-1359 .size-full width="64" height="64"}W każdym co bardziej złożonym projekcie zachodzi potrzeba przechowywania różnych konfiguracji w zależności od środowiska: developerskiego, produkcyjnego, testowego, eksperymentalnego, niebieskiego i każdego innego. Oczywiście framework VueJS nie odstaje od normy i również oferuje możliwość takiej konfiguracji.
 

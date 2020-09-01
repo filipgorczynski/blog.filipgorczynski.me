@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Dobre praktyki, Programowanie, Rozwiązania
 Tags: Chrome, devtools, drag &amp; drop, narzędzia programisty
 Slug: zmiana-kolejnosci-zakladek-w-chrome-devtools
-Status: hidden
+Status: archive
 
 ![Chrome Logo](https://filipgorczynski.files.wordpress.com/2018/02/chrome-logo-e1518598798564.png){.alignleft .wp-image-1552 .size-full width="64" height="64"}
 

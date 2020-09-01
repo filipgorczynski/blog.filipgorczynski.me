@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Programowanie, Rozwiązania
 Tags: instalacja, ln, node, Node.js, NodeJs, npm, PATH, Ubuntu
 Slug: reczna-instalacja-node-js-i-npm-w-ubuntu
-Status: hidden
+Status: archive
 
 ![NodeJS Logo](https://filipgorczynski.files.wordpress.com/2017/03/nodejs-new-pantone-black-e1489221708700.png){.alignleft .wp-image-1281 .size-full width="150" height="92"}
 

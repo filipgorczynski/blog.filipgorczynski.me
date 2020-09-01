@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Bazy danych, Dobre praktyki, Luźne, Programowanie
 Tags: pomysły, programowanie
 Slug: znam-jezyk-programowania-x-ale-nie-mam-pomyslu-na-aplikacje
-Status: hidden
+Status: archive
 
 ![Python Logo](https://filipgorczynski.files.wordpress.com/2015/04/python1.png){.alignleft .wp-image-1002 .size-full width="128" height="128"}Tym razem temat trochę bardziej na luzie. Na grupach dyskusyjnych pojawia się często pytanie od początkujących programistów o pomysły na aplikację: a to na prywatny projekt, a to na jakąś pracę inżynierską czy magisterską, itp. Pytania te są **dziwne**, ponieważ bardzo często przyczyną rozpoczęcia nauki programowania jest niezadowolenie z używanych aktualnie narzędzi albo potrzeba zautomatyzowania sobie pracy. Oczywiście, jest jeszcze druga grupa ludzi, którzy usłyszeli/przeczytali, że "programowania można się nauczyć przerabiając tutorial i wtedy co miesiąc dostaje się górę kasy" - ale to w sumie temat na inny wpis :)
 

@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Programowanie, Rozwiązania
 Tags: Access-Control-Allow-Origin, cors, django, django rest framework, drf, Same Origin Policy, SOP, vuejs
 Slug: cors-headers-komunikacja-vuejs-i-django
-Status: hidden
+Status: archive
 
 [![vuejs logo](https://filipgorczynski.files.wordpress.com/2017/11/vuejs_logo.png?w=150){.alignleft .wp-image-1359 .size-thumbnail width="150" height="150"}Cross-Origin Resource Sharing ([CORS](https://developer.mozilla.org/en-US/docs/Glossary/CORS "CORS: CORS (Cross-Origin Resource Sharing) is a system, consisting of transmitting HTTP headers, that determines whether to block or fulfill requests for restricted resources on a web page from another domain outside the domain from which the resource originated."){.glossaryLink}) to mechanizm wykorzystujący dodatkowe nagłówki HTTP pozwalające różnym agentom (np. przeglądarkom) na dostęp do zasobów znajdujących się na innej domenie, porcie czy protokole niż aktualna. ]{.seoSummary}
 

@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Dobre praktyki, Programowanie, Rozwiązania
 Tags: Narzędzia, PyCharm, Python, tools
 Slug: narzedzia-do-statycznej-analizy-kodu-zrodlowego-w-pycharm
-Status: hidden
+Status: archive
 
 ![PyCharm](https://filipgorczynski.files.wordpress.com/2018/03/pycharm_logo.png){.alignleft .wp-image-1675 .size-full width="128" height="128"}
 

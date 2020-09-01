@@ -3,7 +3,7 @@ Date: 2018-04-27 07:30
 Author: filipgorczynski
 Category: Luźne
 Slug: wersje-oryginalne-i-pirackie-filmow
-Status: hidden
+Status: archive
 
 **UWAGA: Poniżej wyrażone opinie są moimi osobistymi i każdy ma prawo się z nimi nie zgadzać. Jeśli tak właśnie jest i chcesz złożyć skargę - naciśnij krzyżyk zamykający przeglądarkę.**
 

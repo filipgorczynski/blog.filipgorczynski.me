@@ -3,7 +3,7 @@ Date: 2010-05-02 12:57
 Author: filipgorczynski
 Category: Programowanie
 Slug: subversion-cant-open-file-next-ids
-Status: hidden
+Status: archive
 
 Gdy przy próbie dodania plików do repozytorium, wszystko idzie dość gładko, natomiast w pewnych niby losowych momentach pojawia się ten błąd:
 

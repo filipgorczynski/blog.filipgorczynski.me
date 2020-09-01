@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Bezpieczeństwo, Dobre praktyki, Programowanie, Rozwiązania, Systemy Operacyjne
 Tags: Atakowanie i Ochrona Webaplikacji, Niebezpiecznik
 Slug: szkolenie-pod-tytulem-atakowanie-i-ochrona-webaplikacji-od-niebezpiecznika
-Status: hidden
+Status: archive
 
 [![Niebezpiecznik](https://filipgorczynski.files.wordpress.com/2017/06/3-niebezpiecznik-logo-on-white-252x250.png?w=150){.alignleft .wp-image-1289 .size-thumbnail width="150" height="150"}](https://filipgorczynski.files.wordpress.com/2017/06/3-niebezpiecznik-logo-on-white-252x250.png)Dzięki współpracy z STXNext, w dniach 01-02.06 miałem możliwość uczestnictwa w szkoleniu pod tytułem: "[Atakowanie i Ochrona Webaplikacji](https://niebezpiecznik.pl/szkolenia/atakowanie-ochrona-www/?st)" prowadzonego przez Piotra Koniecznego z serwisu [niebezpiecznik.pl](https://niebezpiecznik.pl/).
 

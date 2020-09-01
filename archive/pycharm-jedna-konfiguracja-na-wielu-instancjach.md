@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Programowanie, Rozwiązania
 Tags: GitHub, PyCharm, repository, settings
 Slug: pycharm-jedna-konfiguracja-na-wielu-instancjach
-Status: hidden
+Status: archive
 
 ![PyCharm Logo](https://filipgorczynski.files.wordpress.com/2018/03/pycharm_logo.png){.alignleft .wp-image-1675 .size-full width="128" height="128"}Ponownie chciałbym pochwalić PyCharma - w sumie to wszystkie IDE od JetBrains.
 

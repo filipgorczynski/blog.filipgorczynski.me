@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Programowanie, Rozwiązania
 Tags: application, apps, django, format_html, has_change_permissions, has_delete_permission, migracja, ready, short_description
 Slug: wykonanie-kodu-przy-starcie-aplikacji-w-django
-Status: hidden
+Status: archive
 
 ![Django Logo](https://filipgorczynski.files.wordpress.com/2015/10/django-logo-positive.png?w=128){.alignleft .wp-image-1153 .size-thumbnail width="128" height="45"}
 

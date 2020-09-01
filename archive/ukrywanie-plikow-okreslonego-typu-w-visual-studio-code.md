@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Dobre praktyki, Programowanie
 Tags: TypeScript, ukrywanie plików, vscode
 Slug: ukrywanie-plikow-okreslonego-typu-w-visual-studio-code
-Status: hidden
+Status: archive
 
 ![](https://filipgorczynski.files.wordpress.com/2018/03/visual_studio_code_1-18_icon.png){.alignleft .wp-image-1664 .size-full width="128" height="128"}
 

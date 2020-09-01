@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Programowanie, Rozwiązania, Systemy Operacyjne
 Tags: Apache Tomcat, SolR
 Slug: solr-4-w-windows-7-na-tomcat-8
-Status: hidden
+Status: archive
 
 [![Apache Solr](https://filipgorczynski.files.wordpress.com/2014/10/solr.png?w=150){.alignleft .wp-image-910 .size-thumbnail width="150" height="82"}](http://filipgorczynski.wordpress.com/2014/10/18/solr-4-w-windows-7-na-tomcat-8/ "Solr 4 w Windows 7 na Tomcat 8")Poniżej przedstawiam czynności jakie musiałem wykonać w celu zainstalowania Solr4 w Windows 7 na serwerze Apache Tomcat 8.
 

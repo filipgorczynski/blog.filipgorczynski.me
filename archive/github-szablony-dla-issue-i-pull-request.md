@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Dobre praktyki, Rozwiązania
 Tags: GitHub, issu, issue_template, pull request, pull request_template, templates
 Slug: github-szablony-dla-issue-i-pull-request
-Status: hidden
+Status: archive
 
 ![Octocat](https://filipgorczynski.files.wordpress.com/2018/03/octocat.png){.alignleft .wp-image-1742 .size-full width="128" height="128"}
 

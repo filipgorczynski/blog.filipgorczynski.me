@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Dobre praktyki, Programowanie, Rozwiązania
 Tags: automation tests, ci, e2e, resolution, robot framework, rozdzielczość, selenium, testowanie automatyczne, travis, xvfb
 Slug: zmiana-rozdzielczosci-dzialania-xvfb-na-travis-ci
-Status: hidden
+Status: archive
 
 ![Travis CI Logo](https://filipgorczynski.files.wordpress.com/2018/03/travisci-logo.png){.alignleft .wp-image-1752 .size-full width="128" height="128"}
 

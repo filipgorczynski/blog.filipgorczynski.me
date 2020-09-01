@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Dobre praktyki, Programowanie, Rozwiązania
 Tags: eslint, eslintrc, semi, vuejs, średnik
 Slug: czysty-projekt-vuejs-2-i-uzywanie-srednikow-a-zgodnosc-ze-standardami-eslint
-Status: hidden
+Status: archive
 
 ![vuejs logo](https://filipgorczynski.files.wordpress.com/2017/11/vuejs_logo-e1519284315108.png){.alignleft .wp-image-1359 .size-full width="64" height="64"}
 

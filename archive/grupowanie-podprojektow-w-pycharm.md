@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Dobre praktyki, Programowanie, Rozwiązania
 Tags: grupowanie, Projekty, PyCharm
 Slug: grupowanie-podprojektow-w-pycharm
-Status: hidden
+Status: archive
 
 ![PyCharm Logo](https://filipgorczynski.files.wordpress.com/2018/03/pycharm_logo.png){.alignleft .wp-image-1675 .size-full width="128" height="128"}
 

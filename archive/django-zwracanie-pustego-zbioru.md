@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Bazy danych, Dobre praktyki, Programowanie, Rozwiązania
 Tags: django, empty, filter, get_queryset, none, params, pusty wynik, queryset
 Slug: django-zwracanie-pustego-zbioru
-Status: hidden
+Status: archive
 
 ![Django Logo](https://filipgorczynski.files.wordpress.com/2015/10/django-logo-positive.png?w=150){.alignleft .wp-image-1153 .size-thumbnail width="150" height="52"}[QuerySet](https://docs.djangoproject.com/en/dev/ref/models/querysets/#django.db.models.query.QuerySet) to jedna z podstawowych klas, z którą będziemy pracować w trakcie pisania aplikacji w Django. Trafiłem ostatnio na problem, w którym należało zwrócić inne wyniki w zależności od tego, czy w żądaniu do serwera przesłana została zmienna w postaci pustego łańcucha znaków czy nie została wysłana w ogóle. Drobna różnica mająca ogromne znaczenie. Aby dokładniej zobrazować zaistniały problem postaram się to opisać z przykładami:
 

@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Rozwiązania
 Tags: 8000, django, fuser, pdb, serwer wbudowany, zatrzymanie
 Slug: wymuszenie-zatrzymania-wbudowanego-serwera-django-na-konkretnym-porcie
-Status: hidden
+Status: archive
 
 [![Djanglo Logo](https://filipgorczynski.files.wordpress.com/2015/10/django-logo-positive.png?w=150){.alignleft .wp-image-1153 .size-thumbnail width="150" height="52"}](https://filipgorczynski.files.wordpress.com/2015/10/django-logo-positive.png)Korzystając z wbudowanego serwera Django oraz debuggera pdb doprowadziłem do sytuacji, w której w żadnej konsoli ten serwer nie był uruchomiony - próba jego ponownego odpalenia skutkowała komunikatem:
 

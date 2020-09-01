@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Luźne, Programowanie
 Tags: informatyka, it, książki, programowanie
 Slug: wyprzedaje-ksiazki
-Status: hidden
+Status: archive
 
 Od pewnego czasu chcę wyprzedać większość książek, które posiadam a które w dużej mierze dotyczą branży IT. Nazbierało się trochę tego przez te wszystkie lata, a przy przeprowadzkach to wyjątkowe utrudnienie.
 

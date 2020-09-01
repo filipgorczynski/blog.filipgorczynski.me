@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Systemy Operacyjne
 Tags: Chrome, pobieranie zasobów, problem
 Slug: chrome-problem-z-wczytywaniem-zasobow-obrazkow-css
-Status: hidden
+Status: archive
 
 ![Chrome Icon](http://filipgorczynski.files.wordpress.com/2013/11/chrome-icon.jpg){.alignleft .size-full .wp-image-811 width="128" height="128"}Kilka instalacji temu pojawiła się w Google Chrome dziwna przypadłość, że nie zawsze wczytuje zasoby, a pomaga dopiero kilkukrotne odświeżenie strony. Proponowane rozwiązania to m. in.: włączenie trybu incognito, czyszczenie cache całego Chrome'a, zmiany w konfiguracji związane z pobieraniem treści stron "na zapas" (przewidywanie?), wyłączanie rozszerzeń, wszelakie kombinacje z ustawieniami proxy, z ustawieniami firewall i antywirusa, ponowne uruchamianie komputera w "safe mode", reinstalacje sterowników i wiele innych.
 

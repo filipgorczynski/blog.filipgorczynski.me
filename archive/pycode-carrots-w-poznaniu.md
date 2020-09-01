@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Dobre praktyki, Luźne, Programowanie
 Tags: carrots, pycode, PyCode Carrots, Python, Warsztaty
 Slug: pycode-carrots-w-poznaniu
-Status: hidden
+Status: archive
 
 [![PyCode Carrots logo](https://filipgorczynski.files.wordpress.com/2015/12/pycodecarrots.png?w=300){.aligncenter .wp-image-1197 .size-medium width="300" height="75"}](https://filipgorczynski.files.wordpress.com/2015/12/pycodecarrots.png)
 

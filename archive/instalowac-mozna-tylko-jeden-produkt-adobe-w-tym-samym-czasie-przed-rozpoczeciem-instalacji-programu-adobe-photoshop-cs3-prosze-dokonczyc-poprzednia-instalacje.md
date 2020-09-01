@@ -3,7 +3,7 @@ Date: 2010-10-30 20:08
 Author: filipgorczynski
 Category: Rozwiązania
 Slug: instalowac-mozna-tylko-jeden-produkt-adobe-w-tym-samym-czasie-przed-rozpoczeciem-instalacji-programu-adobe-photoshop-cs3-prosze-dokonczyc-poprzednia-instalacje
-Status: hidden
+Status: archive
 
 Istnieje niewielkie prawdopodobieństwo, że kiedyś uda Wam się otrzymać komunikat **Instalować można tylko jeden produkt Adobe w tym samym czasie. Przed rozpoczęciem instalacji programu Adobe Photoshop CS3, proszę dokończyć poprzednią instalację.** podczas instalacji programy Adobe Photoshop CS3 Extended PL (nie wiem, czy inne wersje/języki też robią takie problemy).  
 W moim przypadku pomogły poniższe zabiegi.  

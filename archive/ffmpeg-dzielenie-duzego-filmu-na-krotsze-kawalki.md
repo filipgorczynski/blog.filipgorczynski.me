@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Programowanie, Rozwiązania, Systemy Operacyjne
 Tags: cięcie filmu, ffmpeg, konwersja wideo, podział filmu
 Slug: ffmpeg-dzielenie-duzego-filmu-na-krotsze-kawalki
-Status: hidden
+Status: archive
 
 [![ffmpeg](https://filipgorczynski.files.wordpress.com/2017/06/ffmpeg-logo.png?w=150){.alignleft .wp-image-1307 .size-thumbnail width="150" height="108"}](https://filipgorczynski.files.wordpress.com/2017/06/ffmpeg-logo.png)Z nieznanych mi do końca przyczyn tańsze odtwarzacze DVD (ale te posiadające port USB) nie radzą sobie za dobrze z systemami plików innymi niż FAT32. Oczywiście, nie byłoby to aż tak problematyczne, gdyby nie fakt, że w takim systemie plików nie da się umieścić pliku większego niż 4 GB. Jak wiadomo filmy w dobrej jakości to dużo gigabajtów. Jedną z alternatyw jest podłączenie do telewizora laptopa lub Raspberry Pi i odtwarzanie bezpośrednio z tego urządzenia - większość ludzi posiada już NTFS lub ext3/ext4, więc większy plik nie będzie problemem.
 

@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Dobre praktyki, Luźne, Programowanie
 Tags: kurs Python, nauka programowania, poznań, pyladies, Python
 Slug: pytrening-z-pyladies-vol-2-poznan
-Status: hidden
+Status: archive
 
 [![pyladies](https://filipgorczynski.files.wordpress.com/2015/10/pyladies.png?w=150 "PyLadies Logo"){.alignleft .wp-image-1171 .size-thumbnail width="150" height="150"}](https://filipgorczynski.files.wordpress.com/2015/10/pyladies.png)
 

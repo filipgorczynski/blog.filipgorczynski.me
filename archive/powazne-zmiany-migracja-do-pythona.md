@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Dobre praktyki, Luźne, Programowanie
 Tags: Python
 Slug: powazne-zmiany-migracja-do-pythona
-Status: hidden
+Status: archive
 
 ![Python logo](https://filipgorczynski.files.wordpress.com/2011/11/python-logo.png?w=150){.alignleft .wp-image-449 .size-thumbnail width="150" height="150"}
 

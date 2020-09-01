@@ -3,7 +3,7 @@ Date: 2018-05-28 13:26
 Author: filipgorczynski
 Category: Dobre praktyki, Luźne, Rozwiązania
 Slug: jak-odzyskac-troche-czasu-dzieki-porzadkom-w-telefonie
-Status: hidden
+Status: archive
 
 ![](https://filipgorczynski.files.wordpress.com/2018/05/android_robot.png?w=107){.alignleft .wp-image-1901 .size-thumbnail width="107" height="128"}
 

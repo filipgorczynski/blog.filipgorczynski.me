@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Dobre praktyki, Programowanie, Rozwiązania
 Tags: PyCharm, timetracking, wakatime, śledzenie czasu
 Slug: sledzenie-czasu-spedzonego-w-ide-integracja-wakatime-i-pycharm
-Status: hidden
+Status: archive
 
 ![WakaTime Logo](https://filipgorczynski.files.wordpress.com/2018/03/wakatime_logo1.png){.alignleft .wp-image-1679 .size-full width="128" height="128"}
 

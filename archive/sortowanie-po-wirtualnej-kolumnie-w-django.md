@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Dobre praktyki, Programowanie, Rozwiązania
 Tags: case, django, django rest framework, drf, order_by, when
 Slug: sortowanie-po-wirtualnej-kolumnie-w-django
-Status: hidden
+Status: archive
 
 ![Django Logo](https://filipgorczynski.files.wordpress.com/2015/10/django-logo-positive.png?w=128){.alignleft .wp-image-1153 .size-thumbnail width="128" height="45"}
 

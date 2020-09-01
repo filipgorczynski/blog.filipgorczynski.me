@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Dobre praktyki, Luźne, Programowanie
 Tags: Atom, edytor, Emacs, geany, gedit, IDE, Mirosław Zelent, PyCharm, Sublime Text, Vim, VS Code
 Slug: ktory-edytor-do-programowania-w-jezyku-python-jest-najlepszy
-Status: hidden
+Status: archive
 
 ![](https://filipgorczynski.files.wordpress.com/2018/01/pycharm_logo-e1518636607333.png){.alignleft .wp-image-1399 .size-full width="64" height="64"}PyCharm, Vim, Sublime Text, Emacs, VS Code, Atom, gedit, geany, Komodo Edit - to chyba najczęściej pojawiające się propozycje edytorów dla programistów Pythona we wszelakich wątkach w sieci w odpowiedzi na pytanie: **Który edytor powinienem używać do programowania w Pythonie?**
 

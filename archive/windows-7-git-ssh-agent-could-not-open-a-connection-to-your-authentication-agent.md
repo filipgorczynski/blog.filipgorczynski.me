@@ -3,7 +3,7 @@ Date: 2014-09-17 20:14
 Author: filipgorczynski
 Category: Programowanie, Rozwiązania, Systemy Operacyjne
 Slug: windows-7-git-ssh-agent-could-not-open-a-connection-to-your-authentication-agent
-Status: hidden
+Status: archive
 
 [![Git](http://filipgorczynski.files.wordpress.com/2014/09/gitlogo.png?w=150){.alignleft .wp-image-886 width="125" height="125"}](https://filipgorczynski.files.wordpress.com/2014/09/gitlogo.png)Po zainstalowaniu Git, stworzeniu nowych kluczy prywatnego i publicznego oraz dodaniu ich do Bitbucketa, mimo wykonania polecenia:
 

@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Luźne, Rozwiązania
 Tags: aktywne subskrypcje, aktywne usługi, plus
 Slug: plus-wylaczanie-niechcianych-uslug-i-subskrypcji
-Status: hidden
+Status: archive
 
 Jeśli jesteśmy w sieci Plus to od czasu do czasu otrzymujemy różne SMS. Nie szkodzą nam, ale też w  niczym nie pomagają. Zamiast odwiedzać najbliższy punkt obsługi Plus można część rzeczy wykonać samodzielnie. Istnieje część usług, które można samodzielnie wyłączyć. [Wszystkie SMS są bezpłatne. Oczywiście treści SMS należy wpisywać bez znaków ". Rozmiar znaków nie ma znaczenia]{style="text-decoration:underline;"}.
 

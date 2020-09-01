@@ -4,7 +4,7 @@ Author: filipgorczynski
 Category: Dobre praktyki
 Tags: cd, cmd, go-tool
 Slug: cd-na-sterydach-narzedzie-do-szybkiej-zmiany-katalogow-w-konsoli
-Status: hidden
+Status: archive
 
 Przeglądając dziś RSSy natrafiłem na genialne w swej prostocie narzędzie - przydatne szczególnie dla osób spędzających dużo czasu w konsoli. Narzędzie to nosi prostą nazwę "go-tool" i dostępne jest pod adresem <http://code.google.com/p/go-tool/>, a jego jedynym zadaniem jest skrócić czas dostępu do najczęściej odwiedzanych katalogów poprzez tworzenie skrótów.
 
