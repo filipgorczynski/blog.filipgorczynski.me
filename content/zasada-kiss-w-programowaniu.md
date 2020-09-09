@@ -1,7 +1,7 @@
 Title: Zasada KISS w programowaniu
 Date: 2019-04-26 09:42
 Author: filipgorczynski
-Category: Dobre praktyki, Luźne, Programowanie
+Category: Programowanie
 Slug: zasada-kiss-w-programowaniu
 Status: draft
 

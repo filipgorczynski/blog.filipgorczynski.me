@@ -1,7 +1,7 @@
 Title: Słowniki, listy i krotki
 Date: 2020-04-07 15:43
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania
+Category: Programowanie
 Slug: slowniki-listy-i-krotki
 Status: draft
 

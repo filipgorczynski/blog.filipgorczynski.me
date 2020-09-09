@@ -1,7 +1,7 @@
 Title: Docker - polowanie na niebieskiego walenia
 Date: 2019-05-06 08:12
 Author: filipgorczynski
-Category: Bazy danych, Bezpieczeństwo, Dobre praktyki, Programowanie, Rozwiązania, Sieci komputerowe, Systemy Operacyjne
+Category: Programowanie
 Slug: docker-polowanie-na-niebieskiego-walenia
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: Jak wdrożyć się w projekt programistyczny?
 Date: 2019-04-26 10:18
 Author: filipgorczynski
-Category: Dobre praktyki, Luźne, Programowanie
+Category: Luźne
 Slug: jak-wdrozyc-sie-w-projekt-programistyczny
 Status: draft
 

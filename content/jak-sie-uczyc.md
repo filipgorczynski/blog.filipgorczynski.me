@@ -1,7 +1,7 @@
 Title: Jak się uczyć?
 Date: 2019-05-04 09:57
 Author: filipgorczynski
-Category: Dobre praktyki, Luźne
+Category: Luźne
 Slug: jak-sie-uczyc
 Status: draft
 

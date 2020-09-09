@@ -1,7 +1,7 @@
 Title: Zmienne i niezmienne typy danych w Pythonie
 Date: 2018-04-20 07:14
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie
+Category: Programowanie
 Tags: hex, id, immutable, mutable, typy danych
 Slug: zmienne-i-niezmienne-typy-danych-w-pythonie
 Status: draft

@@ -1,7 +1,7 @@
 Title: Wyszukiwanie elementów na stronie z użyciem XPath
 Date: 2019-05-22 19:58
 Author: filipgorczynski
-Category: Luźne, Programowanie, Rozwiązania
+Category: Programowanie
 Slug: wyszukiwanie-elementow-na-stronie-z-uzyciem-xpath
 Status: draft
 

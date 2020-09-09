@@ -1,7 +1,7 @@
 Title: Skrzynka odbiorcza - jeden worek na wszystkie informacje
 Date: 2019-04-26 10:25
 Author: filipgorczynski
-Category: Dobre praktyki, Luźne, Programowanie, Rozwiązania
+Category: Luźne
 Slug: skrzynka-odbiorcza-jeden-worek-na-wszystkie-informacje
 Status: draft
 

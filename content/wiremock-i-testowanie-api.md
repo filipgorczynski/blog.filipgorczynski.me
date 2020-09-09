@@ -1,7 +1,7 @@
 Title: WireMock i testowanie API
 Date: 2019-09-14 11:34
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania, Sieci komputerowe
+Category: Programowanie
 Tags: api, e2e, end-to-end, mock, wiremock
 Slug: wiremock-i-testowanie-api
 Status: draft

@@ -1,7 +1,7 @@
 Title: The Cult of Done Manifesto
 Date: 2019-04-25 13:42
 Author: filipgorczynski
-Category: Dobre praktyki, Luźne, Programowanie
+Category: Luźne
 Tags: cult, done, manifest, manifesto, Produktywność
 Slug: the-cult-of-done-manifesto
 Status: draft

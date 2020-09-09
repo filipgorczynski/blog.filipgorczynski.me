@@ -1,7 +1,7 @@
 Title: DRY in YAML files
 Date: 2020-07-02 10:45
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania
+Category: Programowanie
 Slug: dry-in-yaml-files
 Lang: en
 Status: draft

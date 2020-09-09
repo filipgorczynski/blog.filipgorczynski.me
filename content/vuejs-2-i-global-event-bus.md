@@ -1,7 +1,7 @@
 Title: VueJS 2 i Global Event Bus
 Date: 2018-11-09 09:08
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania
+Category: Programowanie
 Slug: vuejs-2-i-global-event-bus
 Status: draft
 

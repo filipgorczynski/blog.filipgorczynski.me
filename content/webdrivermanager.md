@@ -1,7 +1,7 @@
 Title: WebdriverManager
 Date: 2019-05-23 08:30
 Author: filipgorczynski
-Category: Dobre praktyki, Luźne, Programowanie
+Category: Programowanie
 Slug: webdrivermanager
 Status: draft
 

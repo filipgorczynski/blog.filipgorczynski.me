@@ -1,7 +1,7 @@
 Title: Nie samym IDE programista żyje: awk, grep, sed, find
 Date: 2018-03-23 09:37
 Author: filipgorczynski
-Category: Programowanie, Rozwiązania
+Category: Programowanie
 Slug: nie-samym-ide-programista-zyje-awk-grep-sed-find
 Status: draft
 

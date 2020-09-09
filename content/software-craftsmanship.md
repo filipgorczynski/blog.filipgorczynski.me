@@ -1,7 +1,7 @@
 Title: Software Craftsmanship
 Date: 2019-04-26 10:18
 Author: filipgorczynski
-Category: Dobre praktyki, Luźne, Programowanie
+Category: Programowanie
 Slug: software-craftsmanship
 Status: draft
 

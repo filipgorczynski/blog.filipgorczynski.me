@@ -1,7 +1,7 @@
 Title: Internacjonalizacja w aplikacjach VueJS 2
 Date: 2018-04-18 06:54
 Author: filipgorczynski
-Category: Dobre praktyki, Rozwiązania
+Category: Programowanie
 Slug: internacjonalizacja-w-aplikacjach-vue-js-2
 Status: draft
 Lang: pl

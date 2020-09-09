@@ -1,7 +1,7 @@
 Title: Wymiana plików w sieci lokalnej
 Date: 2018-04-11 09:39
 Author: filipgorczynski
-Category: Programowanie, Rozwiązania, Sieci komputerowe
+Category: Sieci komputerowe
 Slug: wymiana-plikow-w-sieci-lokalnej
 Status: draft
 

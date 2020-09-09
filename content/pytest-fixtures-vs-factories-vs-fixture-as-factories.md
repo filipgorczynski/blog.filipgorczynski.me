@@ -1,7 +1,7 @@
 Title: pytest - fixtures vs factories vs fixture as factories
 Date: 2020-08-04 08:21
 Author: filipgorczynski
-Category: Dobre praktyki, Luźne, Programowanie, Rozwiązania, Testowanie
+Category: Programowanie
 Tags: factories, fixtures, pytest, Python
 Slug: pytest-fixtures-vs-factories-vs-fixture-as-factories
 Status: draft

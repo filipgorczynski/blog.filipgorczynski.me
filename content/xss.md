@@ -1,7 +1,7 @@
 Title: XSS -
 Date: 2019-04-26 12:03
 Author: filipgorczynski
-Category: Programowanie
+Category: Bezpieczeństwo
 Slug: xss
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: Jedna z głównych zasad programowania - nigdy nie zakładaj, że coś działa
 Date: 2019-04-26 09:31
 Author: filipgorczynski
-Category: Dobre praktyki, Luźne, Programowanie
+Category: Luźne
 Slug: jedna-z-glownych-zasad-programowania-nigdy-nie-zakladaj-ze-cos-dziala
 Status: draft
 

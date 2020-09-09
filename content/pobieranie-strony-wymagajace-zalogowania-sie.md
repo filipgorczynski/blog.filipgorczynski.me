@@ -1,7 +1,7 @@
 Title: Pobieranie strony wymagające zalogowania się
 Date: 2018-05-14 07:38
 Author: filipgorczynski
-Category: Programowanie, Rozwiązania
+Category: Programowanie
 Slug: pobieranie-strony-wymagajace-zalogowania-sie
 Status: draft
 

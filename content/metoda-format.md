@@ -1,7 +1,7 @@
 Title: Metoda format()
 Date: 2015-04-18 10:15
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie
+Category: Programowanie
 Tags: format, Python, string
 Slug: metoda-format
 Status: draft

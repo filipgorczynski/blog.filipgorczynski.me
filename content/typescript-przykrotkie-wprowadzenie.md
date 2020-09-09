@@ -1,7 +1,7 @@
 Title: TypeScript - przykrótkie wprowadzenie
 Date: 2018-01-11 09:35
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania
+Category: Programowanie
 Tags: JavaScript, tsc, TypeScript
 Slug: typescript-przykrotkie-wprowadzenie
 Status: draft

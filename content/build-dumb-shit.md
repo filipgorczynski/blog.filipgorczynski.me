@@ -1,7 +1,7 @@
 Title: Build Dumb Shit
 Date: 2020-03-01 12:31
 Author: filipgorczynski
-Category: Programowanie
+Category: Luźne
 Slug: build-dumb-shit
 Status: draft
 

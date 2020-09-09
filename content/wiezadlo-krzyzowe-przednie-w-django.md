@@ -1,7 +1,7 @@
 Title: Więzadło krzyżowe przednie w Django
 Date: 2018-04-12 08:08
 Author: filipgorczynski
-Category: Bezpieczeństwo, Dobre praktyki, Programowanie, Rozwiązania
+Category: Programowanie
 Slug: wiezadlo-krzyzowe-przednie-w-django
 Status: draft
 

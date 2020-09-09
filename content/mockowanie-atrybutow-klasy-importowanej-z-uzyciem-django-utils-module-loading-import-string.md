@@ -1,7 +1,7 @@
 Title: Mockowanie atrybutów klasy importowanej z użyciem django.utils.module_loading.import_string
 Date: 2019-05-14 17:01
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania
+Category: Programowanie
 Slug: mockowanie-atrybutow-klasy-importowanej-z-uzyciem-django-utils-module-loading-import-string
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: Kolejka jak za komuny
 Date: 2018-04-20 09:22
 Author: filipgorczynski
-Category: Programowanie, Rozwiązania
+Category: Programowanie
 Slug: kolejka-jak-za-komuny
 Status: draft
 

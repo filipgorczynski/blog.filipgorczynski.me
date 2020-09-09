@@ -1,7 +1,7 @@
 Title: Dzielenie łańcucha znaków na sensowne słowa
 Date: 2017-12-30 11:26
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania
+Category: Programowanie
 Slug: dzielenie-lancucha-znakow-na-sensowne-slowa
 Status: draft
 

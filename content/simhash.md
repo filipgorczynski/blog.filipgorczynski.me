@@ -1,7 +1,7 @@
 Title: SimHash
 Date: 2018-04-20 09:35
 Author: filipgorczynski
-Category: Programowanie, Rozwiązania
+Category: Programowanie
 Slug: simhash
 Status: draft
 

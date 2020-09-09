@@ -1,7 +1,7 @@
 Title: Jest Git - podstawy kontroli wersji
 Date: 2017-02-16 08:13
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania
+Category: Programowanie
 Tags: branch, git, kontrola wersji, scm, tag, workflow
 Slug: jest-git-podstawy-kontroli-wersji
 Status: draft

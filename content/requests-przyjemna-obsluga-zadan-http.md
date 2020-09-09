@@ -1,7 +1,7 @@
 Title: Requests - przyjemna obsługa żądań HTTP
 Date: 2016-06-12 16:56
 Author: filipgorczynski
-Category: Programowanie, Rozwiązania
+Category: Programowanie
 Slug: requests-przyjemna-obsluga-zadan-http
 Status: draft
 
