@@ -1,7 +1,7 @@
 Title: Robot Framework - biblioteka wbudowana
 Date: 2019-08-10 09:27
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: robot-framework-biblioteka-wbudowana
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: PyCharm - jedna konfiguracja na wielu instancjach
 Date: 2018-04-20 15:44
 Author: filipgorczynski
-Category: Programowanie, Rozwiązania
+Category: Tech
 Tags: GitHub, PyCharm, repository, settings
 Slug: pycharm-jedna-konfiguracja-na-wielu-instancjach
 Status: archive

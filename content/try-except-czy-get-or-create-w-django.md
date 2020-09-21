@@ -1,7 +1,7 @@
 Title: try..except czy get_or_create w Django
 Date: 2018-03-08 13:29
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: try-except-czy-get-or-create-w-django
 Status: draft
 

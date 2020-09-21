@@ -1,7 +1,7 @@
 Title: Lista życzeń
 Date: 2010-01-04 08:33
 Author: filipgorczynski
-Category: Luźne
+Category: Life
 Slug: lista-zyczen
 Lang: pl
 Status: archive

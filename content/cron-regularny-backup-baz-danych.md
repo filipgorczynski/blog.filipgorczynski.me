@@ -1,7 +1,7 @@
 Title: CRON - regularny backup baz danych
 Date: 2019-04-25 13:48
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: cron-regularny-backup-baz-danych
 Status: draft
 

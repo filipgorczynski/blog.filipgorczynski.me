@@ -1,7 +1,7 @@
 Title: Diversity - źródło zła w IT
 Date: 2019-11-11 12:29
 Author: filipgorczynski
-Category: Luźne
+Category: Life
 Slug: diversity-zrodlo-zla-w-it
 Status: draft
 

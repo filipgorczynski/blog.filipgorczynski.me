@@ -1,7 +1,7 @@
 Title: Robot Framework - dobieranie się do elementów potomnych z obiektu WebElement
 Date: 2019-06-05 13:06
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: robot-framework-dobieranie-sie-do-elementow-potomnych-z-obiektu-webelement
 Status: draft
 

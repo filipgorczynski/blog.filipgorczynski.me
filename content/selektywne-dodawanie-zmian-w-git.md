@@ -1,7 +1,7 @@
 Title: Selektywne dodawanie zmian w Git
 Date: 2018-04-11 09:33
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Tags: commit, git, git add, interactive, patch
 Slug: selektywne-dodawanie-zmian-w-git
 Status: draft

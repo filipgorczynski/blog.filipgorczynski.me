@@ -1,7 +1,7 @@
 Title: Instrukcja yield w Pythonie
 Date: 2016-02-01 08:55
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: instrukcja-yield-w-pythonie
 Status: draft
 

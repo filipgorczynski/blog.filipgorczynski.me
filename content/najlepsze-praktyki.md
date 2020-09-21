@@ -1,7 +1,7 @@
 Title: Najlepsze praktyki
 Date: 2019-06-21 07:14
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: najlepsze-praktyki
 Status: draft
 

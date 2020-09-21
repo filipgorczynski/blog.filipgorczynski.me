@@ -1,7 +1,7 @@
 Title: Grupowanie podprojektów w PyCharm
 Date: 2018-03-05 07:34
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania
+Category: Dobre praktyki, Programowanie
 Tags: grupowanie, Projekty, PyCharm
 Slug: grupowanie-podprojektow-w-pycharm
 Status: archive

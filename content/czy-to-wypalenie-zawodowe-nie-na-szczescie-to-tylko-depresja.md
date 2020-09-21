@@ -1,7 +1,7 @@
 Title: Czy to wypalenie zawodowe? Nie. Na szczęście to tylko depresja
 Date: 2020-01-09 15:21
 Author: filipgorczynski
-Category: Luźne
+Category: Life
 Slug: czy-to-wypalenie-zawodowe-nie-na-szczescie-to-tylko-depresja
 Status: draft
 

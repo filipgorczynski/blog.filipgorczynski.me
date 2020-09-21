@@ -1,7 +1,7 @@
 Title: Strefy czasowe dla programistów
 Date: 2019-05-01 13:31
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: strefy-czasowe-dla-programistow
 Status: draft
 

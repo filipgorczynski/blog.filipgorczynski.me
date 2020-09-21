@@ -1,7 +1,7 @@
 Title: WebdriverManager
 Date: 2019-05-23 08:30
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: webdrivermanager
 Status: draft
 

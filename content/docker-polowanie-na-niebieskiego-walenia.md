@@ -1,7 +1,7 @@
 Title: Docker - polowanie na niebieskiego walenia
 Date: 2019-05-06 08:12
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: docker-polowanie-na-niebieskiego-walenia
 Status: draft
 

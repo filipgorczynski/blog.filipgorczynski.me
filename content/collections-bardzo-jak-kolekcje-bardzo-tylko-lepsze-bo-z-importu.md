@@ -1,7 +1,7 @@
 Title: Collections - Bardzo jak kolekcje, bardzo, tylko lepsze, bo z importu!
 Date: 2017-07-08 18:22
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: collections-bardzo-jak-kolekcje-bardzo-tylko-lepsze-bo-z-importu
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: Ręczna instalacja Node.js i npm w Ubuntu
 Date: 2018-02-26 17:00
 Author: filipgorczynski
-Category: Programowanie, Rozwiązania
+Category: Tech
 Tags: instalacja, ln, node, Node.js, NodeJs, npm, PATH, Ubuntu
 Slug: reczna-instalacja-node-js-i-npm-w-ubuntu
 Status: archive

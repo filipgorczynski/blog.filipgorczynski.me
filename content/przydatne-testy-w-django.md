@@ -1,7 +1,7 @@
 Title: Przydatne testy w Django
 Date: 2019-04-25 13:42
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: przydatne-testy-w-django
 Status: draft
 

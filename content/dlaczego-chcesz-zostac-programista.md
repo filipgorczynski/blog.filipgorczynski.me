@@ -1,7 +1,7 @@
 Title: Dlaczego chcesz zostać programistą?
 Date: 2019-04-26 11:04
 Author: filipgorczynski
-Category: Luźne, Programowanie
+Category: Life, Programowanie
 Slug: dlaczego-chcesz-zostac-programista
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: Syndrom oszusta - czyli doskonały patent jak być ciągle zmęczonym
 Date: 2018-05-11 09:32
 Author: filipgorczynski
-Category: Luźne, Programowanie
+Category: Life
 Slug: syndrom-oszusta-czyli-doskonaly-patent-jak-byc-ciagle-zmeczonym
 Status: draft
 

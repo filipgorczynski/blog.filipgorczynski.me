@@ -1,7 +1,7 @@
 Title: PostgreSQL: psql: FATAL:  Ident authentication failed for user "postgres"
 Date: 2020-01-22 10:18
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: postgresql-psql-fatal-ident-authentication-failed-for-user-postgres
 Status: draft
 

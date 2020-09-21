@@ -1,7 +1,7 @@
 Title: Plan uruchomienia prostego SaaS
 Date: 2020-04-25 11:26
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: plan-uruchomienia-prostego-saas
 Status: draft
 

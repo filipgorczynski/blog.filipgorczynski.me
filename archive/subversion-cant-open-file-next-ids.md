@@ -1,7 +1,7 @@
 Title: Subversion Can't open file next-ids
 Date: 2010-05-02 12:57
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: subversion-cant-open-file-next-ids
 Status: archive
 

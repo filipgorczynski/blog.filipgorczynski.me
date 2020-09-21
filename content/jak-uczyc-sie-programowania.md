@@ -1,7 +1,7 @@
 Title: Jak uczyć się programowania?
 Date: 2019-04-29 11:44
 Author: filipgorczynski
-Category: Luźne
+Category: Life
 Slug: jak-uczyc-sie-programowania
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: Jeśli czegoś nie mogę zbudować to tego nie rozumiem - bodziec motywujący do nauki
 Date: 2019-11-11 18:12
 Author: filipgorczynski
-Category: Luźne, Produktywność, Programowanie
+Category: Life, Produktywność, Programowanie
 Slug: jesli-czegos-nie-moge-zbudowac-to-tego-nie-rozumiem-bodziec-motywujacy-do-nauki
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: Interaktywna powłoka Python
 Date: 2019-04-25 13:42
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: interaktywna-powloka-python
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: Pierwsze kroki z Continuous Integration - podpinamy Travis CI do naszych projektów
 Date: 2018-03-12 15:56
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: pierwsze-kroki-z-continuous-integration-podpinamy-travis-ci-do-naszych-projektow
 Status: draft
 

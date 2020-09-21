@@ -1,7 +1,7 @@
 Title: Lepszy sposób na różne wersje NodeJS w systemie
 Date: 2019-10-23 09:05
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: lepszy-sposob-na-rozne-wersje-nodejs-w-systemie
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: Django 1.11.2 i Solr
 Date: 2017-07-22 17:27
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: django-1-11-2-i-solr
 Status: draft
 

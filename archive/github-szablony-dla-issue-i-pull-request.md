@@ -1,7 +1,7 @@
 Title: GitHub - szablony dla Issue i Pull Request
 Date: 2018-03-12 17:04
 Author: filipgorczynski
-Category: Dobre praktyki, Rozwiązania
+Category: Dobre praktyki
 Tags: GitHub, issu, issue_template, pull request, pull request_template, templates
 Slug: github-szablony-dla-issue-i-pull-request
 Status: archive

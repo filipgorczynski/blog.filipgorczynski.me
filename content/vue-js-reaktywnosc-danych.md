@@ -1,7 +1,7 @@
 Title: Vue.js reaktywność danych
 Date: 2020-02-25 07:44
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: vue-js-reaktywnosc-danych
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: Zmiana kolejności zakładek w Chrome DevTools
 Date: 2018-02-14 13:59
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania
+Category: Dobre praktyki, Programowanie
 Tags: Chrome, devtools, drag &amp; drop, narzędzia programisty
 Slug: zmiana-kolejnosci-zakladek-w-chrome-devtools
 Status: archive

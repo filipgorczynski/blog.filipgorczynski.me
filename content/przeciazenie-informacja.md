@@ -1,7 +1,7 @@
 Title: Przeciążenie informacją
 Date: 2019-06-12 09:57
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: przeciazenie-informacja
 Status: draft
 

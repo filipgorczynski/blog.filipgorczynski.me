@@ -1,7 +1,7 @@
 Title: Podstawy programowania
 Date: 2019-08-16 07:59
 Author: filipgorczynski
-Category: Luźne, Programowanie
+Category: Life, Programowanie
 Slug: podstawy-programowania
 Status: draft
 

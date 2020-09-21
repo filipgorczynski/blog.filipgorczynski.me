@@ -1,7 +1,7 @@
 Title: Technika M.I.T.
 Date: 2019-04-25 13:42
 Author: filipgorczynski
-Category: Luźne
+Category: Life
 Tags: mit, produktywność, zadania
 Slug: technika-m-i-t
 Status: draft

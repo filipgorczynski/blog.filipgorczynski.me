@@ -1,7 +1,7 @@
 Title: Pętla zdarzeń w JavaScript
 Date: 2020-04-07 12:40
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: petla-zdarzen-w-javascript
 Status: draft
 

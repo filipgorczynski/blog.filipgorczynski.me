@@ -1,7 +1,7 @@
 Title: Jakim cudem CEiDG jeszcze działa?
 Date: 2019-12-21 11:08
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: jakim-cudem-ceidg-jeszcze-dziala
 Status: draft
 

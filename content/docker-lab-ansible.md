@@ -1,7 +1,7 @@
 Title: Docker Lab + Ansible
 Date: 2018-04-16 14:30
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: docker-lab-ansible
 Status: draft
 

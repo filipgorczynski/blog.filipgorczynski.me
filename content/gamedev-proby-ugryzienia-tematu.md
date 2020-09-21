@@ -1,7 +1,7 @@
 Title: Gamedev  - próby ugryzienia tematu
 Date: 2019-05-04 18:53
 Author: filipgorczynski
-Category: Luźne, Programowanie
+Category: Life, Programowanie
 Slug: gamedev-proby-ugryzienia-tematu
 Status: draft
 

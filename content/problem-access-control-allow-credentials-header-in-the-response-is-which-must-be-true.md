@@ -1,7 +1,7 @@
 Title: Problem: 'Access-Control-Allow-Credentials' header in the response is '' which must be 'true'
 Date: 2018-10-19 10:59
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: problem-access-control-allow-credentials-header-in-the-response-is-which-must-be-true
 Status: draft
 

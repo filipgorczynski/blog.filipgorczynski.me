@@ -1,7 +1,7 @@
 Title: PORTS vs EXPOSE w docker-compose
 Date: 2020-06-19 12:32
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: ports-vs-expose-w-docker-compose
 Status: draft
 

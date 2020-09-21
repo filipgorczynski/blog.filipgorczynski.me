@@ -1,7 +1,7 @@
 Title: Wywoływanie metod klas nadrzędnych w Pythonie - super()
 Date: 2016-02-01 08:56
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: wywolywanie-metod-klas-nadrzednych-w-pythonie-super
 Status: draft
 

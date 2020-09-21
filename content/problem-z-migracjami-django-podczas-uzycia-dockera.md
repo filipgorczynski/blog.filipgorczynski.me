@@ -1,7 +1,7 @@
 Title: Problem z migracjami Django podczas użycia Dockera
 Date: 2020-04-25 11:26
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: problem-z-migracjami-django-podczas-uzycia-dockera
 Status: draft
 

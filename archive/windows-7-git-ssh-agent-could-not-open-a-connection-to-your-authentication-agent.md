@@ -1,7 +1,7 @@
 Title: Windows 7, Git, SSH agent - Could not open a connection to your authentication agent.
 Date: 2014-09-17 20:14
 Author: filipgorczynski
-Category: Programowanie, Rozwiązania, Systemy Operacyjne
+Category: Tech, Systemy Operacyjne
 Slug: windows-7-git-ssh-agent-could-not-open-a-connection-to-your-authentication-agent
 Status: archive
 

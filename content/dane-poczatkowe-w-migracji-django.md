@@ -1,7 +1,7 @@
 Title: Dane początkowe w migracji Django
 Date: 2018-03-07 16:47
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Tags: django, initial data, makemigrations, migracje, Python
 Slug: dane-poczatkowe-w-migracji-django
 Status: draft

@@ -1,7 +1,7 @@
 Title: Flask - podstawy programowania webowego w Pythonie
 Date: 2015-07-29 20:28
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Tags: flask, framework, Python
 Slug: flask-podstawy-programowania-webowego-w-pythonie
 Status: draft

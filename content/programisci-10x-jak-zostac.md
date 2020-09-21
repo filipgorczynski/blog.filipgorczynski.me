@@ -1,7 +1,7 @@
 Title: Programiści 10x - jak zostać?
 Date: 2019-04-26 10:18
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: programisci-10x-jak-zostac
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: Krok ku wyższej wydajności z live templates
 Date: 2018-04-27 09:11
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Tags: live templates, produktywność, pycharm, dobre praktyki
 Slug: krok-ku-wyzszej-wydajnosci-z-live-templates
 Status: draft

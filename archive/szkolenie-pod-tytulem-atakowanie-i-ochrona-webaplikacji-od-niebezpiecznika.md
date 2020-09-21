@@ -1,7 +1,7 @@
 Title: Szkolenie pod tytułem "Atakowanie i Ochrona Webaplikacji" od Niebezpiecznika
 Date: 2017-06-10 18:15
 Author: filipgorczynski
-Category: Bezpieczeństwo, Dobre praktyki, Programowanie, Rozwiązania, Systemy Operacyjne
+Category: Bezpieczeństwo, Dobre praktyki, Programowanie, Systemy Operacyjne
 Tags: Atakowanie i Ochrona Webaplikacji, Niebezpiecznik
 Slug: szkolenie-pod-tytulem-atakowanie-i-ochrona-webaplikacji-od-niebezpiecznika
 Status: archive

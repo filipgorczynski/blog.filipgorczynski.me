@@ -1,7 +1,7 @@
 Title: YouTube - odtwarzanie od wybranego momentu
 Date: 2010-09-09 09:03
 Author: filipgorczynski
-Category: Luźne
+Category: Life
 Slug: youtube-odtwarzanie-od-wybranego-momentu
 Status: archive
 

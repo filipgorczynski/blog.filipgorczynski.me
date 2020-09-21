@@ -1,7 +1,7 @@
 Title: Podstawy AWK
 Date: 2019-11-05 17:39
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: podstawy-awk
 Status: draft
 

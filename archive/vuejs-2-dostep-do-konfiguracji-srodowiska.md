@@ -1,7 +1,7 @@
 Title: VueJS 2 - dostęp do konfiguracji środowiska
 Date: 2018-02-26 16:50
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania
+Category: Dobre praktyki, Programowanie
 Tags: config, development, env, production, vue, vuejs
 Slug: vuejs-2-dostep-do-konfiguracji-srodowiska
 Status: archive

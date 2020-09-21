@@ -1,7 +1,7 @@
 Title: Biblioteki do budowania CLI w Pythonie
 Date: 2015-05-20 20:28
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: biblioteki-do-budowania-cli-w-pythonie
 Status: draft
 

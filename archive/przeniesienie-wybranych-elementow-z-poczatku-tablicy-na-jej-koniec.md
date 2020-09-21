@@ -1,7 +1,7 @@
 Title: Przeniesienie wybranych elementów z początku tablicy na jej koniec
 Date: 2011-04-26 16:24
 Author: filipgorczynski
-Category: Programowanie, Rozwiązania
+Category: Tech
 Slug: przeniesienie-wybranych-elementow-z-poczatku-tablicy-na-jej-koniec
 Status: archive
 

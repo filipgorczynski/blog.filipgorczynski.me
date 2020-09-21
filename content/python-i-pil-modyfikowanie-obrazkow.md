@@ -1,7 +1,7 @@
 Title: Python i PIL - modyfikowanie obrazków
 Date: 2019-04-25 13:48
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: python-i-pil-modyfikowanie-obrazkow
 Status: draft
 

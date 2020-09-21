@@ -1,7 +1,7 @@
 Title: Dragula
 Date: 2018-01-08 11:11
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: dragula
 Status: draft
 

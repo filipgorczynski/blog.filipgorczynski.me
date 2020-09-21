@@ -1,7 +1,7 @@
 Title: How to store price in database systems
 Date: 2020-05-31 10:58
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: how-to-store-price-in-database-systems
 Status: draft
 

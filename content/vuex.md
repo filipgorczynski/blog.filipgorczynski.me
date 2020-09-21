@@ -1,7 +1,7 @@
 Title: Vuex
 Date: 2019-05-04 09:54
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: vuex
 Status: draft
 

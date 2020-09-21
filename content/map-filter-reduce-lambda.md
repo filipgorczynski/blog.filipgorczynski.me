@@ -1,7 +1,7 @@
 Title: map(), filter(), reduce(), lambda
 Date: 2015-12-13 17:35
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: map-filter-reduce-lambda
 Status: draft
 

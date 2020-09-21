@@ -1,7 +1,7 @@
 Title: Wyszukiwanie po e-mailu w Facebooku
 Date: 2011-01-06 23:46
 Author: filipgorczynski
-Category: Luźne, Rozwiązania
+Category: Life
 Slug: wyszukiwanie-po-e-mailu-w-facebooku
 Status: archive
 

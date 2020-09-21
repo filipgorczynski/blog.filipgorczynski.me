@@ -1,7 +1,7 @@
 Title: Własne asercje w Robot Framework
 Date: 2019-12-04 08:43
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: wlasne-asercje-w-robot-framework
 Status: draft
 

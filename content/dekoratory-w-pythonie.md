@@ -1,7 +1,7 @@
 Title: Dekoratory w Pythonie
 Date: 2016-02-01 08:57
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: dekoratory-w-pythonie
 Status: draft
 

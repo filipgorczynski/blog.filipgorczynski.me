@@ -1,7 +1,7 @@
 Title: Robot Framework i HTTP Base Auth
 Date: 2019-05-23 15:43
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: robot-framework-i-http-base-auth
 Status: draft
 

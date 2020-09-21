@@ -1,7 +1,7 @@
 Title: Informatyka
 Date: 2019-04-30 08:54
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: informatyka
 Status: draft
 

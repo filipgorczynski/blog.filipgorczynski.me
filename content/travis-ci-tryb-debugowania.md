@@ -1,7 +1,7 @@
 Title: Travis CI - tryb debugowania
 Date: 2019-07-15 15:42
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: travis-ci-tryb-debugowania
 Status: draft
 

@@ -20,31 +20,33 @@
     {% endif %}
 
     <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
-    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/{{ CSS_FILE }}" type="text/css"/>
+    <link rel="stylesheet" href="/theme/css/{{ CSS_FILE }}" type="text/css"/>
     <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css">
-    <link rel="shortcut icon" href="/static/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="/static/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/theme/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/theme/favicon.ico" type="image/x-icon">
     
-    {% include 'meta_twitter.html' %}
+    {#% include 'meta_twitter.html' %#}
     <meta name="facebook:" />
   </head>
   <body>
     <div class="page-wrapper">
       <nav class="no-print">
-        <header><a href="/">Filip Górczyński</a></header>
-        <ul>
-          <li><a href="/">Blog</a></li>
-          <li><a href="/about/">About me</a></li>
-        </ul>
+        <header><a href="/">{{ SITENAME }}</a></header>
       </nav>
       {% block content %}
       {% endblock %}
-      <div class="footer no-print">
-        <div class="copyright">This work is <a href="https://creativecommons.org/publicdomain/zero/1.0/">public domain</a> (<a href="https://github.com/filipgorczynski/blog.filipgorczynski.me/">source</a>)</div>
+
+    <ul>
+      <li><a href="{{ SITE_URL }}">Blog</a></li>
+      <li><a href="{{ SITE_URL }}/about-me">About me</a></li>
+    </ul>
+
+    <div class="footer no-print">
+        <div class="copyright">This work is protected (<a href="https://blog.filipgorczynski.me/license">LICENSE</a>)</div>
       </div>
     </div>
 
     {% include 'google_tracking.html' %}
-    {% include 'common/mailchimp.html'}
+    {% include 'common/mailchimp.html' %}
   </body>
 </html>

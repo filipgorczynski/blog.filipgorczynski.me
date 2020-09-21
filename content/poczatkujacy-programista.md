@@ -1,7 +1,7 @@
 Title: Początkujący programista
 Date: 2018-02-24 14:09
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: poczatkujacy-programista
 Status: draft
 

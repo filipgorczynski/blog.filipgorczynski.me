@@ -1,7 +1,7 @@
 Title: Struktura nowego projektu
 Date: 2018-03-12 10:57
 Author: filipgorczynski
-Category: Luźne
+Category: Life
 Slug: struktura-nowego-projektu
 Status: draft
 

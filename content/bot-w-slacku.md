@@ -1,7 +1,7 @@
 Title: Bot w Slacku
 Date: 2019-07-10 16:07
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: bot-w-slacku
 Status: draft
 

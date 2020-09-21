@@ -1,7 +1,7 @@
 Title: CORS Headers - komunikacja VueJS i Django
 Date: 2018-02-09 13:42
 Author: filipgorczynski
-Category: Programowanie, Rozwiązania
+Category: Tech
 Tags: Access-Control-Allow-Origin, cors, django, django rest framework, drf, Same Origin Policy, SOP, vuejs
 Slug: cors-headers-komunikacja-vuejs-i-django
 Status: archive

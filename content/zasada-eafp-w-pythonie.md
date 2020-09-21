@@ -1,7 +1,7 @@
 Title: Zasada EAFP w Pythonie
 Date: 2019-04-27 10:11
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: zasada-eafp-w-pythonie
 Status: draft
 

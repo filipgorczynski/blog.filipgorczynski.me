@@ -1,7 +1,7 @@
 Title: Paleta kolorów generowana z CSS strony internetowej
 Date: 2020-06-11 15:56
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: paleta-kolorow-generowana-z-css-strony-internetowej
 Status: draft
 

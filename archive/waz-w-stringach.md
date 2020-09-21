@@ -1,7 +1,7 @@
 Title: Wąż w stringach
 Date: 2018-04-20 13:26
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania
+Category: Dobre praktyki, Programowanie
 Tags: f-string, format, interpolacja, pep-0798, string
 Slug: waz-w-stringach
 Status: archive

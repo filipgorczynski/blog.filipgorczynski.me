@@ -1,7 +1,7 @@
 Title: Google Translate i nauka słówek
 Date: 2015-11-10 10:52
 Author: filipgorczynski
-Category: Luźne
+Category: Life
 Slug: google-translate-i-nauka-slowek
 Status: draft
 

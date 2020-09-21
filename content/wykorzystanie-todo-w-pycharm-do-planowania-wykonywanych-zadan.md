@@ -1,7 +1,7 @@
 Title: Wykorzystanie ToDo w PyCharm do planowania wykonywanych zadań
 Date: 2018-01-08 11:13
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: wykorzystanie-todo-w-pycharm-do-planowania-wykonywanych-zadan
 Status: draft
 

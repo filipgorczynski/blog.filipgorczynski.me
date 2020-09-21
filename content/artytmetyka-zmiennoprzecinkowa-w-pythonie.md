@@ -1,7 +1,7 @@
 Title: Artytmetyka zmiennoprzecinkowa w Pythonie
 Date: 2018-03-23 09:38
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: artytmetyka-zmiennoprzecinkowa-w-pythonie
 Status: draft
 

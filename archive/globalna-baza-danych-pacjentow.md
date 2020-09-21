@@ -1,7 +1,7 @@
 Title: Globalna baza danych pacjentów
 Date: 2010-04-02 08:46
 Author: filipgorczynski
-Category: Luźne
+Category: Life
 Slug: globalna-baza-danych-pacjentow
 Status: archive
 

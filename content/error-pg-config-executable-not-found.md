@@ -1,7 +1,7 @@
 Title: Error: pg_config executable not found.
 Date: 2020-07-15 07:51
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: error-pg-config-executable-not-found
 Status: draft
 

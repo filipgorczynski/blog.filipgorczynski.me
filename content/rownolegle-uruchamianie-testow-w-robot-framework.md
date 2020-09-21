@@ -1,7 +1,7 @@
 Title: Równoległe uruchamianie testów w Robot Framework
 Date: 2019-12-04 08:47
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: rownolegle-uruchamianie-testow-w-robot-framework
 Status: draft
 

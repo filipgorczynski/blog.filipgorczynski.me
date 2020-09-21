@@ -1,7 +1,7 @@
 Title: pexpect
 Date: 2018-02-08 10:44
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: pexpect
 Status: draft
 

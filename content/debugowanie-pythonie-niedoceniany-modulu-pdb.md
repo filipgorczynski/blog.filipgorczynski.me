@@ -1,7 +1,7 @@
 Title: Debugowanie Pythonie - niedoceniany modułu pdb
 Date: 2019-04-25 13:48
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: debugowanie-pythonie-niedoceniany-modulu-pdb
 Status: draft
 

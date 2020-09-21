@@ -1,7 +1,7 @@
 Title: Co warto wiedzieć o DNS
 Date: 2019-05-04 09:53
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: co-warto-wiedziec-o-dns
 Status: draft
 

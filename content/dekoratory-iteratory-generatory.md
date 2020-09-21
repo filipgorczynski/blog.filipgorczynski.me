@@ -1,7 +1,7 @@
 Title: Dekoratory, iteratory, generatory
 Date: 2015-12-13 17:36
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: dekoratory-iteratory-generatory
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: Interfejs systemu operacyjnego w Pythonie - moduł os
 Date: 2018-03-01 10:12
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Tags: moduł, os, Python
 Slug: interfejs-systemu-operacyjnego-w-pythonie-modul-os
 Status: draft

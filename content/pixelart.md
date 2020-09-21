@@ -1,7 +1,7 @@
 Title: Pixelart
 Date: 2019-05-06 12:10
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: pixelart
 Status: draft
 

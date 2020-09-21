@@ -1,7 +1,7 @@
 Title: Wersjonowanie REST API
 Date: 2020-07-11 07:47
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: wersjonowanie-rest-api
 Status: draft
 

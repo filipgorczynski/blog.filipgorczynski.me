@@ -1,7 +1,7 @@
 Title: ack czyli grep dla programisty
 Date: 2018-04-16 15:40
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: ack-czyli-grep-dla-programisty
 Status: draft
 

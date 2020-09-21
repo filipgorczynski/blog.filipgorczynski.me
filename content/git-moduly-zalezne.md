@@ -1,7 +1,7 @@
 Title: git - moduły zależne
 Date: 2018-04-23 06:22
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Tags: GitHub, moduły zależne, podrepozytoria, submodules
 Slug: git-moduly-zalezne
 Status: draft

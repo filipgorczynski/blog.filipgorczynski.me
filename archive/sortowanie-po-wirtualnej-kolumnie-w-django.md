@@ -1,7 +1,7 @@
 Title: Sortowanie po wirtualnej kolumnie w Django
 Date: 2018-03-07 17:14
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania
+Category: Dobre praktyki, Programowanie
 Tags: case, django, django rest framework, drf, order_by, when
 Slug: sortowanie-po-wirtualnej-kolumnie-w-django
 Status: archive

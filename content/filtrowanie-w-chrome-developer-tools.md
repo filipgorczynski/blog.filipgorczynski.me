@@ -1,7 +1,7 @@
 Title: Filtrowanie w Chrome Developer Tools
 Date: 2018-05-16 07:00
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: filtrowanie-w-chrome-developer-tools
 Status: draft
 

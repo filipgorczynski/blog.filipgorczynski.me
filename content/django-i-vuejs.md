@@ -1,7 +1,7 @@
 Title: Django i VueJS
 Date: 2019-06-01 12:38
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: django-i-vuejs
 Status: draft
 

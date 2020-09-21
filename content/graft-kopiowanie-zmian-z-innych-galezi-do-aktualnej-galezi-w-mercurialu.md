@@ -1,7 +1,7 @@
 Title: graft - kopiowanie zmian z innych gałęzi do aktualnej gałęzi w mercurialu
 Date: 2019-04-25 13:07
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Tags: hg branches, hg graft, hg histedit, hg strip, mercurial, transplant
 Slug: graft-kopiowanie-zmian-z-innych-galezi-do-aktualnej-galezi-w-mercurialu
 Status: draft

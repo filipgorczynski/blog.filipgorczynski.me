@@ -1,7 +1,7 @@
 Title: Plus - wyłączanie niechcianych usług i subskrypcji
 Date: 2015-01-02 16:30
 Author: filipgorczynski
-Category: Luźne, Rozwiązania
+Category: Life
 Tags: aktywne subskrypcje, aktywne usługi, plus
 Slug: plus-wylaczanie-niechcianych-uslug-i-subskrypcji
 Status: archive

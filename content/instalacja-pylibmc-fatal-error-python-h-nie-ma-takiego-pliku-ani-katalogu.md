@@ -1,7 +1,7 @@
 Title: Instalacja pylibmc - fatal error: Python.h: Nie ma takiego pliku ani katalogu
 Date: 2019-04-25 13:48
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: instalacja-pylibmc-fatal-error-python-h-nie-ma-takiego-pliku-ani-katalogu
 Status: draft
 

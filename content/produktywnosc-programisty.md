@@ -1,7 +1,7 @@
 Title: Produktywność programisty
 Date: 2019-04-25 13:38
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: produktywnosc-programisty
 Status: draft
 

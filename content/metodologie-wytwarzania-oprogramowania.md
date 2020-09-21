@@ -1,7 +1,7 @@
 Title: Metodologie wytwarzania oprogramowania
 Date: 2019-04-30 08:48
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: metodologie-wytwarzania-oprogramowania
 Status: draft
 

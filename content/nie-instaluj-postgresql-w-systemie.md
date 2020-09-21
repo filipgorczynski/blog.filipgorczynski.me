@@ -1,7 +1,7 @@
 Title: Nie instaluj PostgreSQL w systemie
 Date: 2020-06-02 06:34
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: nie-instaluj-postgresql-w-systemie
 Lang: pl
 Status: draft

@@ -1,7 +1,7 @@
 Title: Otwieramy solarium dla węży
 Date: 2018-03-10 08:34
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: otwieramy-solarium-dla-wezy
 Status: draft
 

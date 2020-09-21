@@ -1,7 +1,7 @@
 Title: Pandas
 Date: 2018-01-08 11:16
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: pandas
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: Instalacja GoLang
 Date: 2019-05-15 16:15
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: instalacja-golang
 Status: draft
 

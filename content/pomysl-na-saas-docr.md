@@ -1,7 +1,7 @@
 Title: Pomysł na SaaS - dOCR
 Date: 2019-08-10 10:06
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: pomysl-na-saas-docr
 Status: draft
 

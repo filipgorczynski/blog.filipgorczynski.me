@@ -1,7 +1,7 @@
 Title: Włączanie obsługi IPv6 w Windows XP
 Date: 2010-12-23 09:42
 Author: filipgorczynski
-Category: Rozwiązania, Systemy Operacyjne
+Category: Tech
 Slug: wlaczanie-obslugi-ipv6-w-windows-xp
 Status: archive
 

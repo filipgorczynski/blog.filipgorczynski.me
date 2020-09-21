@@ -1,7 +1,7 @@
 Title: Szukanie lokalizacji katalogu z zainstalowanymi pakietami Pythona
 Date: 2020-07-31 11:22
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: szukanie-lokalizacji-katalogu-z-zainstalowanymi-pakietami-pythona
 Status: draft
 

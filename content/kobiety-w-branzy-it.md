@@ -1,7 +1,7 @@
 Title: Kobiety w branży IT
 Date: 2019-04-26 11:48
 Author: filipgorczynski
-Category: Luźne
+Category: Life
 Slug: kobiety-w-branzy-it
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: PDB - najważniejszy moduł Pythona
 Date: 2015-08-08 11:16
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Tags: debugger, ipdb, pdb, pdbpp, Python, traceback
 Slug: pdb-najwazniejszy-modul-pythona
 Status: draft

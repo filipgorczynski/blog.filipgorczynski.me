@@ -1,7 +1,7 @@
 Title: Narzędzia do statycznej analizy kodu źródłowego w PyCharm
 Date: 2018-03-07 18:06
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania
+Category: Dobre praktyki, Programowanie
 Tags: Narzędzia, PyCharm, Python, tools
 Slug: narzedzia-do-statycznej-analizy-kodu-zrodlowego-w-pycharm
 Status: archive

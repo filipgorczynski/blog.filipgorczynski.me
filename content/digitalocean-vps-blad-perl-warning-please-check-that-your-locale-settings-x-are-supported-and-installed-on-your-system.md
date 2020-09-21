@@ -1,7 +1,7 @@
 Title: DigitalOcean VPS - błąd: perl warning - please check that your locale settings X are supported and installed on your system
 Date: 2019-04-25 13:38
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: digitalocean-vps-blad-perl-warning-please-check-that-your-locale-settings-x-are-supported-and-installed-on-your-system
 Status: draft
 

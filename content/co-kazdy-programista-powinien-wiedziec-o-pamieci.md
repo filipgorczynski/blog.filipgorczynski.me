@@ -1,7 +1,7 @@
 Title: Co każdy programista powinien wiedzieć o pamięci
 Date: 2019-04-30 08:44
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: co-kazdy-programista-powinien-wiedziec-o-pamieci
 Status: draft
 

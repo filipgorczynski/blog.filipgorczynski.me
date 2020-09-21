@@ -1,7 +1,7 @@
 Title: Przenoszenie linii lub zaznaczonego bloku w górę i w dół w Komodo Edit
 Date: 2012-09-08 21:01
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania
+Category: Dobre praktyki, Programowanie
 Tags: Komodo, Komodo Edit, przenoszenie bloku, przenoszenie linii
 Slug: przenoszenie-linii-lub-zaznaczonego-bloku-w-gore-i-w-dol-w-komodo-edit
 Status: archive

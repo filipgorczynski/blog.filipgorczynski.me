@@ -1,7 +1,7 @@
 Title: Wyszukiwanie możliwie najlepszego tekstu w kodzie HTML
 Date: 2018-05-17 18:20
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: wyszukiwanie-mozliwie-najlepszego-tekstu-w-kodzie-html
 Status: draft
 

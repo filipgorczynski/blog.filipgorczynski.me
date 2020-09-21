@@ -1,7 +1,7 @@
 Title: Robot Framework - dostęp do ostatniego elementu listy
 Date: 2019-06-05 13:07
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: robot-framework-dostep-do-ostatniego-elementu-listy
 Status: draft
 

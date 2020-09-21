@@ -1,7 +1,7 @@
 Title: Chcę oglądać twoje logi
 Date: 2019-04-25 13:48
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: chce-ogladac-twoje-logi
 Status: draft
 

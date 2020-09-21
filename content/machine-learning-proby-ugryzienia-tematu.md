@@ -1,7 +1,7 @@
 Title: Machine Learning - próby ugryzienia tematu
 Date: 2019-04-25 13:38
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: machine-learning-proby-ugryzienia-tematu
 Status: draft
 

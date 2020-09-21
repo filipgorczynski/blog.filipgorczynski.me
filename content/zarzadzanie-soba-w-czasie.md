@@ -1,7 +1,7 @@
 Title: Zarządzanie sobą w czasie
 Date: 2019-04-26 10:29
 Author: filipgorczynski
-Category: Luźne
+Category: Life
 Slug: zarzadzanie-soba-w-czasie
 Status: draft
 

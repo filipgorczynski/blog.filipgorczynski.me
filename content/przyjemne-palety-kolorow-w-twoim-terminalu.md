@@ -1,7 +1,7 @@
 Title: Przyjemne palety kolorów w Twoim terminalu
 Date: 2020-07-27 17:02
 Author: filipgorczynski
-Category: Luźne
+Category: Life
 Tags: base16, color, gogh, kolor, palette, scheme, terminal
 Slug: przyjemne-palety-kolorow-w-twoim-terminalu
 Status: draft

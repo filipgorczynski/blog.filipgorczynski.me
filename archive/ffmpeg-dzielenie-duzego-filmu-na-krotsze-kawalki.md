@@ -1,7 +1,7 @@
 Title: ffmpeg - dzielenie dużego filmu na krótsze kawałki
 Date: 2017-06-14 07:57
 Author: filipgorczynski
-Category: Programowanie, Rozwiązania, Systemy Operacyjne
+Category: Tech, Systemy Operacyjne
 Tags: cięcie filmu, ffmpeg, konwersja wideo, podział filmu
 Slug: ffmpeg-dzielenie-duzego-filmu-na-krotsze-kawalki
 Status: archive

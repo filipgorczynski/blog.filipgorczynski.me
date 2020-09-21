@@ -1,7 +1,7 @@
 Title: Kiszenie ogóra w Pythonie
 Date: 2018-04-20 05:59
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: kiszenie-ogora-w-pythonie
 Status: draft
 

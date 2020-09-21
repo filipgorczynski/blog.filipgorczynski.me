@@ -1,7 +1,7 @@
 Title: Mockowanie w Pythonie
 Date: 2019-04-25 13:42
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: mockowanie-w-pythonie
 Status: draft
 

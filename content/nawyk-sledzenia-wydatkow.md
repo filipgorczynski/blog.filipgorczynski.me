@@ -1,7 +1,7 @@
 Title: Nawyk śledzenia wydatków
 Date: 2018-04-13 15:38
 Author: filipgorczynski
-Category: Luźne
+Category: Life
 Slug: nawyk-sledzenia-wydatkow
 Status: draft
 

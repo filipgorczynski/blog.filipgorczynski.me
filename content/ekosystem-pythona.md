@@ -1,7 +1,7 @@
 Title: Ekosystem Pythona
 Date: 2016-02-01 10:42
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: ekosystem-pythona
 Status: draft
 

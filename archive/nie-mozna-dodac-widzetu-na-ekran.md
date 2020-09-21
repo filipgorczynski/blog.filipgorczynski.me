@@ -1,7 +1,7 @@
 Title: Nie można dodać widżetu na ekran
 Date: 2011-06-12 11:00
 Author: filipgorczynski
-Category: Rozwiązania, Sprzęt, Systemy Operacyjne
+Category: Sprzęt, Systemy Operacyjne
 Slug: nie-mozna-dodac-widzetu-na-ekran
 Status: archive
 

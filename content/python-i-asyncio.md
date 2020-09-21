@@ -1,7 +1,7 @@
 Title: Python i asyncio
 Date: 2019-10-21 14:30
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: python-i-asyncio
 Status: draft
 

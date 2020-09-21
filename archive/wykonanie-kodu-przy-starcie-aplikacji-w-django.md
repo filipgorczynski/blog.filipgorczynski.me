@@ -1,7 +1,7 @@
 Title: Wykonanie kodu przy starcie aplikacji w Django
 Date: 2018-03-05 09:11
 Author: filipgorczynski
-Category: Programowanie, Rozwiązania
+Category: Tech
 Tags: application, apps, django, format_html, has_change_permissions, has_delete_permission, migracja, ready, short_description
 Slug: wykonanie-kodu-przy-starcie-aplikacji-w-django
 Status: archive

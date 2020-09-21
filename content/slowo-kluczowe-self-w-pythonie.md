@@ -1,7 +1,7 @@
 Title: Słowo kluczowe self w Pythonie
 Date: 2016-02-01 08:58
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: slowo-kluczowe-self-w-pythonie
 Status: draft
 

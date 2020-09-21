@@ -1,7 +1,7 @@
 Title: Czysty projekt VueJS 2 i używanie średników a zgodność ze standardami ESLint
 Date: 2018-02-22 09:23
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania
+Category: Dobre praktyki, Programowanie
 Tags: eslint, eslintrc, semi, vuejs, średnik
 Slug: czysty-projekt-vuejs-2-i-uzywanie-srednikow-a-zgodnosc-ze-standardami-eslint
 Status: archive

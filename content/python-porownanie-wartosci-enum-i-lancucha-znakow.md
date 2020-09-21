@@ -1,7 +1,7 @@
 Title: Python - porównanie wartości Enum i łańcucha znaków
 Date: 2020-08-12 13:11
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: python-porownanie-wartosci-enum-i-lancucha-znakow
 Status: draft
 

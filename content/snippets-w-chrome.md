@@ -1,7 +1,7 @@
 Title: Snippets w Chrome
 Date: 2020-03-23 09:25
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: snippets-w-chrome
 Status: draft
 

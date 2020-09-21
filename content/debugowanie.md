@@ -1,7 +1,7 @@
 Title: Debugowanie
 Date: 2019-04-26 10:23
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: debugowanie
 Status: draft
 

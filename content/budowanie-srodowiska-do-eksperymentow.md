@@ -1,7 +1,7 @@
 Title: Budowanie środowiska do eksperymentów
 Date: 2019-04-25 13:42
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: budowanie-srodowiska-do-eksperymentow
 Status: draft
 

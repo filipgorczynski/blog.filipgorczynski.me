@@ -1,7 +1,7 @@
 Title: Podstawy matematyki do programowania gier
 Date: 2020-04-10 15:48
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: podstawy-matematyki-do-programowania-gier
 Status: draft
 

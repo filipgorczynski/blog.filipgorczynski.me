@@ -1,7 +1,7 @@
 Title: Umiesz programować, ale jeszcze o tym nie wiesz
 Date: 2017-09-15 08:42
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Tags: programowanie, luźne
 Slug: umiesz-programowac-ale-jeszcze-o-tym-nie-wiesz
 Status: draft

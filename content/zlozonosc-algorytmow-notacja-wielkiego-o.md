@@ -1,7 +1,7 @@
 Title: Złożoność algorytmów - notacja wielkiego O
 Date: 2019-04-30 08:48
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: zlozonosc-algorytmow-notacja-wielkiego-o
 Status: draft
 

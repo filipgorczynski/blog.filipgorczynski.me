@@ -1,7 +1,7 @@
 Title: JSON Web Token
 Date: 2020-01-17 17:36
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: json-web-token
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: Śledzenie czasu spędzonego w IDE - integracja WakaTime i PyCharm
 Date: 2018-03-01 08:27
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania
+Category: Dobre praktyki, Programowanie
 Tags: PyCharm, timetracking, wakatime, śledzenie czasu
 Slug: sledzenie-czasu-spedzonego-w-ide-integracja-wakatime-i-pycharm
 Status: archive

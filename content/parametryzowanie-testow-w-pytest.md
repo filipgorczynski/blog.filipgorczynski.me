@@ -1,7 +1,7 @@
 Title: Parametryzowanie testów w pytest
 Date: 2018-04-27 11:44
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: parametryzowanie-testow-w-pytest
 Status: draft
 

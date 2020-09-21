@@ -1,7 +1,7 @@
 Title: Notatki z książki "Docker dla praktyków"
 Date: 2019-05-22 14:45
 Author: filipgorczynski
-Category: Luźne
+Category: Life
 Slug: notatki-z-ksiazki-docker-dla-praktykow
 Status: draft
 

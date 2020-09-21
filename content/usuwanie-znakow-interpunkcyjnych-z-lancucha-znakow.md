@@ -1,7 +1,7 @@
 Title: Usuwanie znaków interpunkcyjnych z łańcucha znaków
 Date: 2017-12-07 13:29
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: usuwanie-znakow-interpunkcyjnych-z-lancucha-znakow
 Status: draft
 

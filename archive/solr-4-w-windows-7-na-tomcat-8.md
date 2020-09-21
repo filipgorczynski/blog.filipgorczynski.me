@@ -1,7 +1,7 @@
 Title: Solr 4 w Windows 7 na Tomcat 8
 Date: 2014-10-18 18:28
 Author: filipgorczynski
-Category: Programowanie, Rozwiązania, Systemy Operacyjne
+Category: Tech, Systemy Operacyjne
 Tags: Apache Tomcat, SolR
 Slug: solr-4-w-windows-7-na-tomcat-8
 Status: archive

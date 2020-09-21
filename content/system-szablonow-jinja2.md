@@ -1,7 +1,7 @@
 Title: System szablonów - Jinja2
 Date: 2015-04-24 21:14
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: system-szablonow-jinja2
 Status: draft
 

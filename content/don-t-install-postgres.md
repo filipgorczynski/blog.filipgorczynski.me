@@ -1,7 +1,7 @@
 Title: Don't install Postgres
 Date: 2020-06-01 08:45
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: don-t-install-postgres
 Status: draft
 

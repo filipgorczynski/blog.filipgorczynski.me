@@ -1,7 +1,7 @@
 Title: Integracja z różnymi API
 Date: 2020-06-04 05:47
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: integracja-z-roznymi-api
 Status: draft
 

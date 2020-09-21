@@ -1,7 +1,7 @@
 Title: Kopiowanie X bajtów z pliku
 Date: 2020-04-23 08:33
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: kopiowanie-x-bajtow-z-pliku
 Status: draft
 

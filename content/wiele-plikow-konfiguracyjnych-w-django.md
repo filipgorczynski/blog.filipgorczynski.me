@@ -1,7 +1,7 @@
 Title: Wiele plików konfiguracyjnych w Django
 Date: 2018-07-03 14:49
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: wiele-plikow-konfiguracyjnych-w-django
 Status: draft
 

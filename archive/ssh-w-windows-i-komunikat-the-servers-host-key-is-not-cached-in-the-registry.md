@@ -1,7 +1,7 @@
 Title: SSH w Windows i komunikat "The server's host key is not cached in the registry"
 Date: 2014-10-18 21:28
 Author: filipgorczynski
-Category: Programowanie, Rozwiązania, Systemy Operacyjne
+Category: Tech, Systemy Operacyjne
 Tags: clone, git, GitHub, keys, pageant, plink, ssh
 Slug: ssh-w-windows-i-komunikat-the-servers-host-key-is-not-cached-in-the-registry
 Status: archive

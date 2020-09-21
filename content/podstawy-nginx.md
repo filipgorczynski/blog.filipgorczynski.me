@@ -1,7 +1,7 @@
 Title: Podstawy nginx
 Date: 2018-02-17 19:11
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: podstawy-nginx
 Status: draft
 

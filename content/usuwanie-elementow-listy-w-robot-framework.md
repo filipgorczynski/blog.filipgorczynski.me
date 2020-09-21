@@ -1,7 +1,7 @@
 Title: Usuwanie elementów listy w Robot Framework
 Date: 2019-09-19 11:18
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Tags: list, robot framework, selenium library
 Slug: usuwanie-elementow-listy-w-robot-framework
 Status: draft

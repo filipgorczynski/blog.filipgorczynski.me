@@ -1,7 +1,7 @@
 Title: Python i błąd R6034: An application has made an attempt to load the C runtime library incorrectly
 Date: 2011-11-14 21:09
 Author: filipgorczynski
-Category: Programowanie, Rozwiązania, Systemy Operacyjne
+Category: Tech, Systemy Operacyjne
 Tags: An application has made an attempt to load the C runtime library incorrectly, C runtime library, Python, R6034, Windows 7
 Slug: python-i-blad-r6034-an-application-has-made-an-attempt-to-load-the-c-runtime-library-incorrectly
 Status: archive

@@ -1,7 +1,7 @@
 Title: Fedora OSError libgdal.so undefined symbol GEOSMakeValid_r
 Date: 2019-11-14 11:13
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Tags: dnf, dnf history, fedora, Fedora 29, gdal, gdal30, GEOSMakeValid_r, libgdal, OSError
 Slug: fedora-oserror-libgdal-so-undefined-symbol-geosmakevalid_r
 Status: archive

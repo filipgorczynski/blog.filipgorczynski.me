@@ -1,7 +1,7 @@
 Title: "Hakerzy i malarze" - Paul Graham
 Date: 2019-05-04 09:52
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: hakerzy-i-malarze-paul-graham
 Status: draft
 

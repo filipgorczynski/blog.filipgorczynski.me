@@ -1,7 +1,7 @@
 Title: OKR jako lepszy sposób określania celów
 Date: 2019-07-13 09:35
 Author: filipgorczynski
-Category: Luźne
+Category: Life
 Slug: okr-jako-lepszy-sposob-okreslania-celow
 Status: draft
 

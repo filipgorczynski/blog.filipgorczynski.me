@@ -1,7 +1,7 @@
 Title: Podstawy monitorowania systemu Linux
 Date: 2019-04-13 15:03
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: podstawy-monitorowania-systemu-linux
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: Paradoks programowania - dlaczego programowanie jest łatwe i trudne jednocześnie
 Date: 2019-08-13 07:35
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: paradoks-programowania-dlaczego-programowanie-jest-latwe-i-trudne-jednoczesnie
 Status: draft
 Lang: pl

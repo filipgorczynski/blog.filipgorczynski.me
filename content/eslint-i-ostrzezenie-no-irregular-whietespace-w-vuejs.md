@@ -1,7 +1,7 @@
 Title: ESLint i ostrzeżenie no-irregular-whietespace w VueJS
 Date: 2019-04-26 09:37
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: eslint-i-ostrzezenie-no-irregular-whietespace-w-vuejs
 Status: draft
 

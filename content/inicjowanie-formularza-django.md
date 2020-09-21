@@ -1,7 +1,7 @@
 Title: Inicjowanie formularza Django
 Date: 2017-10-08 07:51
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Tags: Django forms, initialize form
 Slug: inicjowanie-formularza-django
 Status: draft

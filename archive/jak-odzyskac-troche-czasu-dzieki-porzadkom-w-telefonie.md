@@ -1,7 +1,7 @@
 Title: Jak odzyskać trochę czasu dzięki porządkom w telefonie
 Date: 2018-05-28 13:26
 Author: filipgorczynski
-Category: Dobre praktyki, Luźne, Rozwiązania
+Category: Life
 Slug: jak-odzyskac-troche-czasu-dzieki-porzadkom-w-telefonie
 Status: archive
 

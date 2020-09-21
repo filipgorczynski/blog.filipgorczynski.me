@@ -1,7 +1,7 @@
 Title: SolR - podstawy
 Date: 2019-04-25 13:48
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Tags: document, index, schema.xml, solarium, SolR
 Slug: solr-podstawy
 Status: draft

@@ -1,7 +1,7 @@
 Title: VirtualBox i Bridged Network w Kali Linux
 Date: 2015-05-07 22:16
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: virtualbox-i-bridged-network-w-kali-linux
 Status: draft
 

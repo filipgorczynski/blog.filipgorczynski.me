@@ -1,14 +1,14 @@
-Title: Wagi reguł CSS
+Title: Wagi reguł w CSS
 Date: 2018-04-23 06:00
 Author: filipgorczynski
-Category: Programowanie
-Slug: wagi-regul-css
+Category: Tech
+Slug: wagi-regul-w-css
 Status: draft
 
-\# 4
+CSS 
+# 4
 
 . 3
 
-\<element /\> 2
+<element /> 2
 
- 

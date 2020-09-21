@@ -1,7 +1,7 @@
 Title: Wersje oryginalne i pirackie filmów
 Date: 2018-04-27 07:30
 Author: filipgorczynski
-Category: Luźne
+Category: Life
 Slug: wersje-oryginalne-i-pirackie-filmow
 Status: archive
 

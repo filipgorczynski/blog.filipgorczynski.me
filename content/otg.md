@@ -1,7 +1,7 @@
 Title: OTG
 Date: 2019-04-26 12:08
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: otg
 Status: draft
 

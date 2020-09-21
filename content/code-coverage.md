@@ -1,7 +1,7 @@
 Title: Code coverage
 Date: 2019-05-04 09:56
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: code-coverage
 Status: draft
 

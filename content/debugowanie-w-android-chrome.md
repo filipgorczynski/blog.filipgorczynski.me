@@ -1,7 +1,7 @@
 Title: Debugowanie w Android Chrome
 Date: 2019-04-25 13:42
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: debugowanie-w-android-chrome
 Status: draft
 

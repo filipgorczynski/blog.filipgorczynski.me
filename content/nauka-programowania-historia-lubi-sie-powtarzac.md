@@ -1,7 +1,7 @@
 Title: Nauka programowania - historia lubi się powtarzać
 Date: 2019-04-25 13:48
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: nauka-programowania-historia-lubi-sie-powtarzac
 Status: draft
 

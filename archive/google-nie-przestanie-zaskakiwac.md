@@ -1,7 +1,7 @@
 Title: Google nie przestanie zaskakiwać :)
 Date: 2011-03-21 10:01
 Author: filipgorczynski
-Category: Luźne
+Category: Life
 Slug: google-nie-przestanie-zaskakiwac
 Status: archive
 

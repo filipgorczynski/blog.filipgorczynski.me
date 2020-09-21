@@ -1,7 +1,7 @@
 Title: Pożegnanie taty
 Date: 2019-11-14 12:11
 Author: filipgorczynski
-Category: Luźne
+Category: Life
 Tags: tata, żałoba
 Slug: pozegnanie-taty
 Status: draft

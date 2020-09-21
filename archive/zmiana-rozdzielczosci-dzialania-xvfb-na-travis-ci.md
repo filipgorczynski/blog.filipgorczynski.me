@@ -1,7 +1,7 @@
 Title: Zmiana rozdzielczości działania Xvfb na Travis CI
 Date: 2019-07-27 11:12
 Author: filipgorczynski
-Category: Dobre praktyki, Programowanie, Rozwiązania
+Category: Dobre praktyki, Programowanie
 Tags: automation tests, ci, e2e, resolution, robot framework, rozdzielczość, selenium, testowanie automatyczne, travis, xvfb
 Slug: zmiana-rozdzielczosci-dzialania-xvfb-na-travis-ci
 Status: archive

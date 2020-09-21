@@ -1,7 +1,7 @@
 Title: Język Python jest lepszy od C++ a 42 jest lepsze od czerwonego
 Date: 2018-03-06 10:02
 Author: filipgorczynski
-Category: Luźne, Programowanie
+Category: Life, Programowanie
 Slug: jezyk-python-jest-lepszy-od-c-a-42-jest-lepsze-od-czerwonego
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: timezone w aplikacjach webowych
 Date: 2018-04-13 16:22
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: timezone-w-aplikacjach-webowych
 Status: draft
 

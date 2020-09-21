@@ -1,7 +1,7 @@
 Title: Kilka powodów za które nienawidzę Plone'a i Buildout'a
 Date: 2018-05-11 14:07
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: kilka-powodow-za-ktore-nienawidze-plone-a-i-buildout-a
 Status: draft
 

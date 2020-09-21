@@ -1,7 +1,7 @@
 Title: Wyprzedaję książki
 Date: 2015-10-06 08:17
 Author: filipgorczynski
-Category: Luźne, Programowanie
+Category: Life, Programowanie
 Tags: informatyka, it, książki, programowanie
 Slug: wyprzedaje-ksiazki
 Status: archive

@@ -1,7 +1,7 @@
 Title: Który edytor do programowania w języku Python jest najlepszy?
 Date: 2018-02-14 21:28
 Author: filipgorczynski
-Category: Dobre praktyki, Luźne, Programowanie
+Category: Tech
 Tags: Atom, edytor, Emacs, geany, gedit, IDE, Mirosław Zelent, PyCharm, Sublime Text, Vim, VS Code
 Slug: ktory-edytor-do-programowania-w-jezyku-python-jest-najlepszy
 Status: archive

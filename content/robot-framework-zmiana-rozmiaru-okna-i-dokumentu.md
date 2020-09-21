@@ -1,7 +1,7 @@
 Title: Robot Framework - zmiana rozmiaru okna i dokumentu
 Date: 2019-12-04 08:47
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: robot-framework-zmiana-rozmiaru-okna-i-dokumentu
 Status: draft
 

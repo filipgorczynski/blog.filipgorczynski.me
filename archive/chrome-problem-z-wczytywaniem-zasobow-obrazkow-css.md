@@ -1,7 +1,7 @@
 Title: Chrome - problem z wczytywaniem zasobów (obrazków, CSS)
 Date: 2013-11-28 18:52
 Author: filipgorczynski
-Category: Systemy Operacyjne
+Category: Tech
 Tags: Chrome, pobieranie zasobów, problem
 Slug: chrome-problem-z-wczytywaniem-zasobow-obrazkow-css
 Status: archive

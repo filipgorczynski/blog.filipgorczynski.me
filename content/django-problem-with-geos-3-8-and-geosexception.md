@@ -1,7 +1,7 @@
 Title: Django problem with Geos 3.8 and GEOSException
 Date: 2020-01-20 11:07
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: django-problem-with-geos-3-8-and-geosexception
 Status: draft
 

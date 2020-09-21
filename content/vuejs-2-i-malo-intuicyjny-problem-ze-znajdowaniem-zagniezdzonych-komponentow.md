@@ -1,7 +1,7 @@
 Title: VueJS 2 i mało intuicyjny problem ze znajdowaniem zagnieżdżonych komponentów
 Date: 2018-04-18 08:11
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: vuejs-2-i-malo-intuicyjny-problem-ze-znajdowaniem-zagniezdzonych-komponentow
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: TDD w Pythonie
 Date: 2015-04-23 18:13
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: tdd-w-pythonie
 Status: draft
 

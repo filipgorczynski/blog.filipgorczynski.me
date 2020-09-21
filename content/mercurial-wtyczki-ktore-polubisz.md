@@ -1,7 +1,7 @@
 Title: Mercurial - wtyczki, które polubisz
 Date: 2019-04-25 13:48
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: mercurial-wtyczki-ktore-polubisz
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: Django - zwracanie pustego zbioru
 Date: 2018-02-22 09:49
 Author: filipgorczynski
-Category: Bazy danych, Dobre praktyki, Programowanie, Rozwiązania
+Category: Bazy danych, Dobre praktyki, Programowanie
 Tags: django, empty, filter, get_queryset, none, params, pusty wynik, queryset
 Slug: django-zwracanie-pustego-zbioru
 Status: archive

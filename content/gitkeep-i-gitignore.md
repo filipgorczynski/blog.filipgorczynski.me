@@ -1,7 +1,7 @@
 Title: .gitkeep i .gitignore
 Date: 2020-01-22 08:04
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: gitkeep-i-gitignore
 Status: draft
 

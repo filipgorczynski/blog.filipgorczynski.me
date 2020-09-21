@@ -1,7 +1,7 @@
 Title: Grzebiemy w interpreterze Pythona - moduł sys
 Date: 2019-04-25 13:38
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: grzebiemy-w-interpreterze-pythona-modul-sys
 Status: draft
 

@@ -1,7 +1,7 @@
 Title: Pierwsze kroki z Robot Framework
 Date: 2019-11-18 18:05
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Tags: ATDD, robot framework, robotframework, selenium, TDD, Testowanie, XPath
 Slug: pierwsze-kroki-z-robot-framework
 Status: draft

@@ -1,7 +1,7 @@
 Title: Parsowanie plików PDF
 Date: 2018-04-17 10:25
 Author: filipgorczynski
-Category: Programowanie
+Category: Tech
 Slug: parsowanie-plikow-pdf
 Status: draft
 
