@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Filip Górczyński'
-SITENAME = 'Yet Another Developer Blog'
+SITENAME = 'Kolejny blog programisty'
 SITEURL = 'https://blog.filipgorczynski.me'
 
 PATH = 'content'
@@ -26,15 +26,16 @@ ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
 
 CSS_FILE = 'main.css'
 # Blogroll
-# LINKS = (('Pelican', 'http://getpelican.com/'),
-#          ('Python.org', 'http://python.org/'),
-#          ('Jinja2', 'http://jinja.pocoo.org/'),
-#          ('You can modify those links in your config file', '#'),)
-LINKS = ()
+LINKS = (
+    ('Poprzedni blog', 'http://filipgorczynski.wordpress.com/'),
+)
+# LINKS = ()
 # Social widget
 # SOCIAL = (('You can add links in your config file', '#'),
 #           ('Another social link', '#'),)
-SOCIAL = ()
+SOCIAL = (
+
+)
 
 DEFAULT_PAGINATION = 10
 
