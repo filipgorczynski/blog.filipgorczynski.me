@@ -1,6 +1,6 @@
 Title: O mnie
 Slug: o-mnie
 Lang: en
-Status: published
+Status: draft
 
 O mnie

@@ -1,16 +1,12 @@
 Title: Migracja bloga na nową platformę
 Author: filipgorczynski
-Date: 2020-09-20 11:11
+Date: 2020-10-12 06:39
 Category: Tech
 Slug: migracja-bloga-na-nowa-platforme
 Status: published
-Tags: #blog, #migration, #pelican
-Summary: This is summary content, that's helps with something that I do not know. Quis tempor proident minim magna consequat est.
-         Mollit amet sunt proident enim proident non exercitation dolore incididunt qui pariatur laboris aliqua exercitation dolore.
-         Voluptate tempor consequat mollit voluptate est quis aute ex commodo Lorem cillum dolore irure ea.
-         Minim adipisicing sit laboris aliqua ullamco magna ex culpa et ea. Consequat aliquip irure laboris aliquip reprehenderit proident in amet.
-         Magna cupidatat cupidatat nisi.
+Tags: #tech, #blog, #pelican
+Summary: Zainspirowany podejściem innego programisty, chęcią zminimalizowania zewnętrznych i płatnych narzędzi oraz 100% personalizacji szablonu zainteresowałem się alternatywami.
 
-Build with Pelican.
+Zainspirowany podejściem innego programisty, chęcią zminimalizowania zewnętrznych i płatnych narzędzi oraz 100% personalizacji szablonu zainteresowałem się rozwiązaniami alternatywnymi. Porównanie kilku rozwiązań spełniających powyższe kryteria skłoniło mnie do wybrania projektu [Pelican](https://blog.getpelican.com/).
 
-Categories: Life, Tech, Notes, Shorts (https://neilkakkar.com/categories/)
+Pelican to tzw. Static Site Generator - generujemy względnie dynamiczną treść, np. w jakimś  i dopiero z niej wybrane narzędzie generuje statyczne strony HTML serwowane następnie z serwera.

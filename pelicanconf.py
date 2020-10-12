@@ -48,5 +48,7 @@ DEFAULT_PAGINATION = 10
 
 PLUGIN_PATHS = ['/home/filip/src/Vendors/pelican-plugins']
 PLUGINS = [
-    'pelican_gist', 'pelican_youtube',
+    'pelican_gist',
 ]
+
+# 'pelican_youtube',
