@@ -1,10 +1,10 @@
 nav, h1, h2, h3, h4, h5, h6 {
-  font-family: "Ubuntu", Sans-Serif;
+  font-family: "Lato", Sans-Serif;
 }
 body {
-  font-family: "Source Sans Pro", Sans-Serif;
+  font-family: "Lato", "Source Sans Pro", Sans-Serif;
   font-size: 1.1rem;
-  color: #333;
+  color: #666;
 }
 nav {
   margin-bottom: 2rem;
@@ -13,15 +13,15 @@ nav {
 a:link,
 a:visited,
 a:active {
-  color: #333;
+  color: #1c7c7c;
   text-decoration: none;
 }
-a:hover {
-  color: #777;
+a:visited {
+  color: #1c7c7c;
 }
 nav header {
   text-align: center;
-  font-weight: bold;
+  font-weight: 700;
   text-transform: uppercase;
   font-size: 3rem;
 }
@@ -154,4 +154,27 @@ p,
   .no-print, .no-print * {
     display: none !important;
   }
+}
+
+#content {
+  background: skyblue;
+}
+
+#primary {
+  width: 100%;
+  background: lightgoldenrodyellow;
+}
+
+#secondary {
+  width: 25%;
+  background: lightcoral;
+}
+
+#main {
+  margin: 0 30% 0 0;
+  background-color: lightgreen;
+}
+
+nav>header {
+    border-bottom: 2px solid #c1c1c1;
 }

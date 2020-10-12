@@ -33,8 +33,23 @@
       <nav class="no-print">
         <header><a href="/">{{ SITENAME }}</a></header>
       </nav>
-      {% block content %}
-      {% endblock %}
+
+      <div id="content">
+        <div id="primary">
+          <div id="main">
+          {% block content %}
+          {% endblock %}
+          </div>
+        </div>
+        <div id="secondary">
+          Categories
+          <ul>
+            <li><a href="/tech.html">⚙️ Tech</a></li>
+            <li><a href="/life.html">🌱 Life</a></li>
+            <li><a href="/notes.html">📝 Notes</a></li>
+          </ul>
+        </div>
+      </div>
 
     {#<ul>
       <li><a href="{{ SITE_URL }}">Blog</a></li>
