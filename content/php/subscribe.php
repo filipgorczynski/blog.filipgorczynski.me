@@ -1,7 +1,7 @@
 <?php
 if (isset($_POST['url']) && $_POST['url'] == ''){
     //The form was submitted
-    $ouremail = 'your@email.com';
+    $ouremail = 'filip.gorczynski.services@email.com';
     // Important: if we add any form fields to the HTML,
     // and want them included in the email, we will need to add them here also
     $body = "This is the form that was just submitted:
