@@ -1,8 +1,5 @@
-nav, h1, h2, h3, h4, h5, h6 {
-  font-family: "Lato", Sans-Serif;
-}
 body {
-  font-family: "Lato", "Source Sans Pro", Sans-Serif;
+  font-family: "Lato", Sans-Serif;
   font-size: 1.1rem;
   color: #666;
 }
@@ -16,71 +13,12 @@ a:active {
   color: #1c7c7c;
   text-decoration: none;
 }
-a:visited {
-  color: #1c7c7c;
-}
-nav header {
-  text-align: center;
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: 3rem;
-}
-nav ul {
-  padding: 0;
-}
-nav ul li {
-  display: inline-block;
-  width: 33%;
-  text-align: center;
-  text-transform: uppercase;
-}
 .page-wrapper {
-  max-width: 42rem;
-  margin: 0 auto;
+  max-width: 1153px;
+  margin: 54px auto;
+  padding: 54px 108px;
 }
-.copyright {
-  margin-top: 4rem;
-  text-align: center;
-}
-.copyright a {
-  text-decoration: underline;
-}
-.highlight,
-.highlight pre {
-  border-radius: 0.5rem;
-}
-.highlight pre {
-  overflow-x: auto;
-  font-size: 1rem;
-  background-color: #282828;
-  padding: 0.5rem;
-  font-size: 1rem;
-}
-.article-title {
-  margin: 0;
-}
-.article-logo {
-    width: 128px;
-    height: 128px;
-    float: left;
-}
-.date-posted {
-  font-style: italic;
-  color: #888;
-}
-.date-posted a {
-  background-color: #ccc;
-  color: #fff;
-  padding: 0 0.2rem;
-  border-radius: 0.3rem;
-}
-.page h1,
-.page .social-links {
-  text-align: center;
-}
-.page a {
-  text-decoration: underline;
-}
+
 .social-links a {
   display: inline-block;
   text-indent: -9999px;
@@ -108,18 +46,7 @@ nav ul li {
 .social-links .tweeter {
   background-image: url(../images/teeter.svg);
 }
-.page .photo {
-  border-radius: 50%;
-  width: 16rem;
-  height: 16rem;
-  margin: 1rem auto;
-  background-image: url(../images/me.jpg);
-  background-position: center;
-  background-size: 16rem;
-}
-.page .description {
-  margin-top: 4rem;
-}
+
 code,
 pre {
   font-family: "DejaVu Sans Mono", monospace;
@@ -128,53 +55,67 @@ pre {
   font-size: 1rem;
   border-radius: 0.3rem;
 }
-.page-wrapper p a {
-  text-decoration: underline;
-}
-table {
-  border-collapse: collapse;
-}
-td, th {
-  padding: 0.25rem;
-  border: 2px solid #ccc;
-}
-.page-wrapper p img,
-.page-wrapper table {
-  max-width: 100%;
-  margin: 0 auto;
-}
-.page-wrapper p img {
-  display: block;
-}
-p,
-.description {
-  line-height: 1.4;
-}
 @media print {
   .no-print, .no-print * {
     display: none !important;
   }
 }
 
-#content {
-  background: skyblue;
+nav header {
+  text-align: center;
 }
 
-#primary {
+.site-header {
+    margin: 0 0 27px;
+    padding: 0 0 24px;
+    border-bottom: 3px solid #eee;
+}
+
+.site-branding {
+    clear: both;
+    margin-bottom: 14px;
+    text-align: center;
+}
+
+.site-title {
+  font-style: normal;
+  font-weight: 400;
+  font-family: "Ubuntu"
+}
+
+.site-title a {
+  text-decoration: none;
+  color: #666;
+}
+
+.site {
+  width: 1153px;
+  padding: 54px 108px;
+}
+
+.content {
+  background: skyblue;
+  border: 1px solid #f00;
+  width: 937px;
+}
+
+.primary {
   width: 100%;
   background: lightgoldenrodyellow;
+  float: left;
 }
 
-#secondary {
+.secondary {
   width: 25%;
   background: lightcoral;
+  float: right;
 }
 
-#main {
+.main {
   margin: 0 30% 0 0;
   background-color: lightgreen;
 }
 
-nav>header {
+/* nav>header {
     border-bottom: 2px solid #c1c1c1;
-}
+} */

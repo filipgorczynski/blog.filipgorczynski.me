@@ -1,16 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pl">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{% block description %}{{ SITE_DESCTIPTION }}{% endblock %}" />
     <meta name="author" content="{{ AUTHOR_NAME }}">
 
-    <meta name="tags" content="thats, awesome" />
-    <meta name="date" content="2012-07-09 22:28" />
-    <meta name="modified" content="2012-07-10 20:14" />
-    <meta name="category" content="{{ CATEGORY }}" />
-    <meta name="summary" content="Short version for index and feeds" />
+    {#% include 'document_meta.html' %#}
 
     {% if FEED_ALL_ATOM %}
     <link type="application/atom+xml" rel="alternate" href="/{{ FEED_ALL_ATOM }}"  title="{{ SITE_DESCTIPTION }} - Atom Feed">
@@ -30,18 +26,33 @@
   </head>
   <body>
     <div class="page-wrapper">
-      <nav class="no-print">
-        <header><a href="/">{{ SITENAME }}</a></header>
-      </nav>
+      
+      {#<nav class="no-print">
+        <header><a href="/"></a></header>
+      </nav>#}
 
-      <div id="content">
-        <div id="primary">
-          <div id="main">
+      <header class="site-header">
+        <div class="site-branding">
+            <h1 class="site-title"><a href="https://blog.filipgorczynski.me/" rel="home">{{ SITENAME }}</a></h1>
+            {#<p class="site-description">Radosne twórczości leniwego programisty</p>#}
+        </div>
+
+        {#<nav class="main-navigation">
+          <button class="menu-toggle" style="display: none;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><rect x="0" fill="none" width="16" height="16"></rect><g><path id="menu-icon" d="M0 14h16v-2H0v2zM0 2v2h16V2H0zm0 7h16V7H0v2z"></path></g></svg>
+            Menu			</button>
+          <div class="menu"></div>
+        </nav>#}
+      </header>
+
+      <div class="content">
+        <div class="primary">
+          <div class="main">
           {% block content %}
           {% endblock %}
           </div>
         </div>
-        <div id="secondary">
+        <div class="secondary">
           Categories
           <ul>
             <li><a href="/tech.html">⚙️ Tech</a></li>
