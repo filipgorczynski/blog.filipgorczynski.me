@@ -3,13 +3,14 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Filip Górczyński'
-SITENAME = 'Kolejny blog programisty'
+SITENAME = 'Filip Górczyński'
 SITEURL = 'https://blog.filipgorczynski.me'
 
 PATH = 'content'
 THEME = 'theme'
+# THEME = 'lightweight'
 TIMEZONE = 'UTC'
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = 'pl'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -27,7 +28,7 @@ ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
 CSS_FILE = 'main.css'
 # Blogroll
 LINKS = (
-    ('Poprzedni blog', 'http://filipgorczynski.wordpress.com/'),
+    ('Stary blog', 'http://filipgorczynski.wordpress.com/'),
 )
 # LINKS = ()
 # Social widget

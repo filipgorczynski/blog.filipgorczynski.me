@@ -1,11 +1,13 @@
 Title: Paleta kolorów generowana z CSS strony internetowej
-Date: 2020-06-11 15:56
 Author: filipgorczynski
+Date: 2020-10-14 05:14
 Category: Tech
 Slug: paleta-kolorow-generowana-z-css-strony-internetowej
 Status: draft
+Tags: #python, #css
+Summary: 
 
-Zdarzyło się Wam kiedyś podczas odwiedzania strony Waszego ulubionego frameworka chcieliście wykorzystać paletę kolorów z tej strony?
+Zdarzyło się Wam kiedyś podczas odwiedzania strony Waszego ulubionego frameworka, że chcieliście wykorzystać paletę kolorów z tej strony w swoim projekcie?
 
 https://gist.github.com/filipgorczynski/7e572ad2b8367eb47baa73d83913fab3
 
