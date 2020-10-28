@@ -17,7 +17,11 @@
 
     <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
     <link rel="stylesheet" href="/theme/css/{{ CSS_FILE }}" type="text/css"/>
-    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css">
+    {#<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Lato:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Ubuntu:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Play:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css">#}
+    <link href="//fonts.googleapis.com/css?family=Exo+2:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css">
     <link rel="shortcut icon" href="/theme/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/theme/favicon.ico" type="image/x-icon">
     
@@ -54,7 +58,7 @@
         </div>
         <div class="secondary">
           Categories
-          <ul>
+          <ul class="categories">
             <li><a href="/tech.html">⚙️ Tech</a></li>
             <li><a href="/life.html">🌱 Life</a></li>
             <li><a href="/notes.html">📝 Notes</a></li>
