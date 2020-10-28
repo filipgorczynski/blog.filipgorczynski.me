@@ -1,3 +1,8 @@
+@import "normalize.css";
+
+nav, h1, h2, h3, h4, h5, h6 {
+  font-family: "Lato", Sans-Serif;
+}
 body {
   font-family: "Lato", Sans-Serif;
   font-size: 1.1rem;
@@ -18,7 +23,6 @@ a:active {
   margin: 54px auto;
   padding: 54px 108px;
 }
-
 .social-links a {
   display: inline-block;
   text-indent: -9999px;
@@ -29,22 +33,22 @@ a:active {
   background-size: 4rem;
 }
 .social-links .github {
-  background-image: url(../images/github.svg);
+  background-image: url("../images/github.svg");
 }
 .social-links .exercism {
-  background-image: url(../images/exercism.svg);
+  background-image: url("../images/exercism.svg");
 }
 .social-links .codewars {
-  background-image: url(../images/codewars.svg);
+  background-image: url("../images/codewars.svg");
 }
 .social-links .codesignal {
-  background-image: url(../images/codesignal.svg);
+  background-image: url("../images/codesignal.svg");
 }
 .social-links .email {
-  background-image: url(../images/email.svg);
+  background-image: url("../images/email.svg");
 }
 .social-links .tweeter {
-  background-image: url(../images/teeter.svg);
+  background-image: url("../images/teeter.svg");
 }
 
 code,
