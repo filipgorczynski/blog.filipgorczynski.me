@@ -1,3 +1,5 @@
+@import "normalize.css";
+
 nav, h1, h2, h3, h4, h5, h6 {
   font-family: "Lato", Sans-Serif;
 }
@@ -35,7 +37,7 @@ nav ul li {
   text-transform: uppercase;
 }
 .page-wrapper {
-  max-width: 42rem;
+  max-width: 937px;
   margin: 0 auto;
 }
 .copyright {
