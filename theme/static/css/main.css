@@ -7,6 +7,7 @@ body {
   font-family: "Lato", Sans-Serif;
   font-size: 1.1rem;
   color: #666;
+  background-color: lightgray;
 }
 nav {
   margin-bottom: 2rem;
@@ -22,6 +23,8 @@ a:active {
   max-width: 1153px;
   margin: 54px auto;
   padding: 54px 108px;
+  overflow: hidden;
+  background-color: #fff;
 }
 .social-links a {
   display: inline-block;
@@ -100,17 +103,18 @@ nav header {
 .content {
   background: skyblue;
   border: 1px solid #f00;
-  width: 937px;
+  width: 1150px;
 }
 
 .primary {
   width: 100%;
   background: lightgoldenrodyellow;
   float: left;
+  margin: 0 -30% 0 0;
 }
 
 .secondary {
-  width: 25%;
+  width: 30%;
   background: lightcoral;
   float: right;
 }
@@ -118,6 +122,13 @@ nav header {
 .main {
   margin: 0 30% 0 0;
   background-color: lightgreen;
+}
+
+.footer {
+  width: 100%;
+  float: none;
+  background-color: yellow;
+  float: left;
 }
 
 /* nav>header {
