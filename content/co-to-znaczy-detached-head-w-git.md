@@ -10,10 +10,10 @@ cover_image_by: Ilya Pavlov
 cover_image_link: https://unsplash.com/@ilyapavlov?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 Summary:
 
-<figure>
+{# <figure>
      <img src="{{ article.cover_image_url }}" alt="Pelican">
      <figcaption>Image by <a href="{{ article.cover_image_link }}">{{ cover_image_by }}</a></figcaption>
-</figure>
+</figure> #}
 
 Sources:
 

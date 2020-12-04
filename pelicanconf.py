@@ -4,11 +4,11 @@
 AUTHOR = 'Filip Górczyński'
 SITENAME = 'Filip Górczyński'
 SITETITLE = "Filip Górczyński"
-SITEURL = 'https://blog.filipgorczynski.me/'
+SITEURL = 'http://127.0.0.1:8004/'
 SITESUBTITLE = "Jack of all trades; Master of one."
 SITEDESCRIPTION = "Jack of all trades; Master of one."
-SITELOGO = SITEURL + "/images/profile.png"
-FAVICON = SITEURL + "/images/favicon.ico"
+SITELOGO = SITEURL + "img/profile.png"
+FAVICON = SITEURL + "img/favicon.ico"
 BROWSER_COLOR = "#efefef"
 ROBOTS = "index, follow"
 # PATH = 'content'
@@ -18,9 +18,9 @@ DEFAULT_LANG = 'pl'
 EXTRA_PATH_METADATA = {
     "extra/custom.css": {"path": "static/custom.css"},
 }
-CUSTOM_CSS = "static/custom.css"
+# CUSTOM_CSS = "static/custom.css"
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = "feeds/all.atom.xml"
+FEED_ALL_ATOM = None # "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
@@ -41,13 +41,16 @@ GOOGLE_TAG_MANAGER = "GTM-XXX"
 
 # CSS_FILE = 'main.css'
 # Blogroll
-LINKS = (
-    ('Previous Blog', 'https://filipgorczynski.wordpress.com/'),
-)
+# LINKS = (
+#     ('Previous Blog', 'https://filipgorczynski.wordpress.com/'),
+# )
 # LINKS = ()
 SOCIAL = (
-    ("github", "https://github.com/filipgorczynski"),
     ("rss", "/blog/feeds/all.atom.xml"),
+    ("facebook", "https://www.facebook.com/filipgorczynski/"),
+    ("twitter", "https://twitter.com/filipgorczynski"),
+    ("github", "https://github.com/filipgorczynski"),
+    ("linkedin", "https://www.linkedin.com/in/filip-g%C3%B3rczy%C5%84ski-52b08270/"),
 )
 
 MENUITEMS = (
@@ -62,9 +65,9 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # https://www.seyiobaweya.tech/articles/2020-01-20/personal-website-setup/
-# STATIC_PATHS = [
-#     'images',  'featured', 'logos', # 'content', 'featured', 'logos' 'pdfs', 'static', 'zipfiles'
-# ]
+STATIC_PATHS = [
+    'img', 'images', 'static',
+]
 
 PLUGIN_PATHS = ['/home/filip/src/Vendors/pelican-plugins']
 PLUGINS = [
@@ -98,7 +101,7 @@ EXTRA_PATH_METADATA = {
     "extra/CNAME": {"path": "CNAME"},
 }
 
-THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
-THEME_COLOR_ENABLE_USER_OVERRIDE = True
+# THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
+# THEME_COLOR_ENABLE_USER_OVERRIDE = True
 
 # USE_LESS = True
