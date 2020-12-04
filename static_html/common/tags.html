@@ -1,0 +1,8 @@
+{% if tags %}
+    Tags: 
+    {% for tag in article.tags %}
+        <a href="/{{ tag.url }}">{{ tag.name }}</a>
+    {% endfor %}
+{% else %}
+    <p>No tags found</p>
+{% endif %}

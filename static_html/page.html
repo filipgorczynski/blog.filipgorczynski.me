@@ -21,15 +21,14 @@
 
     <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
     <link rel="stylesheet" href="/theme/css/{{ CSS_FILE }}" type="text/css"/>
-    {#<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css">
-    <link href="//fonts.googleapis.com/css?family=Lato:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css">
-    <link href="//fonts.googleapis.com/css?family=Ubuntu:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css">
-    <link href="//fonts.googleapis.com/css?family=Play:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css">#}
-    <link href="//fonts.googleapis.com/css?family=Exo+2:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css">
+    <!-- <link href="//fonts.googleapis.com/css?family=Exo+2:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css"> -->
     <link rel="shortcut icon" href="/theme/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/theme/favicon.ico" type="image/x-icon">
     
-    {#% include 'meta_twitter.html' %#}
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:image" content="{{ SITEURL }}//images/me.jpg" />
+    <meta name="twitter:title" content="{% block twitter_title %}{{ SITENAME }}{% endblock %}" />
+    <meta name="twitter:description" content="{% block twitter_description %}{{ SITE_DESCTIPTION }}{% endblock %}" />
     <meta name="facebook:" />
   </head>
   <body>

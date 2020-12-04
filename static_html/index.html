@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{% block description %}{{ SITE_DESCTIPTION }}{% endblock %}" />
+    <meta name="author" content="{{ AUTHOR_NAME }}">
+    <!-- Confirm -->
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1">
+
+    <!-- {% include 'document_meta.html' %} -->
+
+    <!-- {% if FEED_ALL_ATOM %} -->
+    <link type="application/atom+xml" rel="alternate" href="/{{ FEED_ALL_ATOM }}"  title="{{ SITE_DESCTIPTION }} - Atom Feed">
+    <!-- {% endif %}
+    {% if FEED_ALL_RSS %} -->
+    <link type="application/rss+xml" rel="alternate" href="/{{ FEED_ALL_RSS }}" title="{{ SITE_DESCTIPTION }} - RSS Feed">
+    <!-- {% endif %} -->
+
+    <title>Page title</title><!--{% block title %}{{ SITENAME }}{% endblock %}-->
+    <link rel="stylesheet" href="./static/css/main.css" type="text/css"/> <!--{{ CSS_FILE }}-->
+    <link rel="shortcut icon" href="static/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="static/favicon.ico" type="image/x-icon">
+    
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:image" content="{{ SITEURL }}//images/me.jpg" />
+    <meta name="twitter:title" content="{% block twitter_title %}{{ SITENAME }}{% endblock %}" />
+    <meta name="twitter:description" content="{% block twitter_description %}{{ SITE_DESCTIPTION }}{% endblock %}" />
+
+    <meta property="og:url" content="http://www.nytimes.com/2015/02/19/arts/international/when-great-minds-dont-think-alike.html" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Put title here" />
+    <meta property="og:description" content="u" />
+    <meta property="og:image" content="http://static01.nyt.com/images/2015/02/19/arts/international/19iht-btnumbers19A/19iht-btnumbers19A-facebookJumbo-v2.jpg" />
+  </head>
+  <body>
+    <div class="site-wrapper">
+      <header class="site-header">
+        <div class="site-branding">
+            <h1 class="site-title no-print">
+              <a href="https://blog.filipgorczynski.me/" rel="home">{{ SITENAME }}</a>
+            </h1>
+            <p class="site-description">Jack of all trades; Master of one.</p>
+        </div>
+        <nav class="main-navigation menu">
+          <a href="{{ SITE_URL }}/about">About me</a>
+          <a href="{{ SITE_URL }}/tags">Tags</a>
+          <a href="{{ SITE_URL }}/shortcuts">Shortcuts</a>
+        </nav>
+      </header>
+
+      <div class="content">
+        <div class="primary">
+          <div class="main">
+              <div class="articles">
+                <div class="article-preview">
+                  <h2 class="article-title">
+                    <a class="title" href="{{ article.url }}">Aliqua eiusmod eiusmod ex ad Lorem non anim dolore officia sint minim dolore reprehenderit excepteur ipsum.</a>
+                  </h2>
+                  <div class="date-posted">2020-12-02 14:47</div>
+                  <div class="summary">
+                    Qui voluptate ipsum et et. Ea occaecat aute fugiat nulla officia ipsum excepteur sit. Nostrud aute do in velit sint est dolor tempor aute culpa non excepteur. Esse duis ullamco aliqua consequat aliquip qui ullamco nisi eu fugiat nostrud exercitation laboris consectetur ea. <a href="" class="link-more">Read more...</a>
+                  </div>
+                </div>
+                
+                <div class="article-preview">
+                  <h2 class="article-title">
+                    <a class="title" href="{{ article.url }}">Aute proident ipsum reprehenderit ullamco minim cillum voluptate aliquip esse eiusmod.</a>
+                  </h2>
+                  <div class="date-posted">2020-12-02 14:48</div>
+                  <div class="summary">Et laborum dolor eiusmod eiusmod occaecat ad incididunt nulla sit dolor fugiat aute amet aute. Eu duis tempor sit cupidatat mollit commodo excepteur cillum eiusmod esse consectetur do ad. Labore do aliqua et minim ullamco incididunt nisi velit. Culpa laboris do cillum deserunt. Adipisicing ullamco ut adipisicing proident et nisi ullamco quis veniam ullamco sint eiusmod labore aliqua. <a href="" class="link-more">Read more...</a></div>
+                </div>
+
+                <div class="article-preview">
+                  <h2 class="article-title">
+                    <a class="title" href="{{ article.url }}">Amet sit amet proident sunt nulla exercitation qui velit proident.</a>
+                  </h2>
+                  <div class="date-posted">2020-12-02 14:48</div>
+                  <div class="summary">Do veniam enim sit consectetur reprehenderit aliqua veniam et enim eiusmod sit. Ex ex veniam commodo nulla. Minim sint voluptate exercitation pariatur ullamco. Culpa dolor amet consequat culpa id ea enim Lorem aliquip magna irure est et consequat. <a href="" class="link-more">Read more...</a></div>
+                </div>
+
+                <div class="article-preview">
+                  <h2 class="article-title">
+                    <a class="title" href="{{ article.url }}">Sint velit proident dolor nostrud exercitation adipisicing pariatur in.</a>
+                  </h2>
+                  <div class="date-posted">2020-12-02 14:48</div>
+                  <div class="summary">Ex labore deserunt pariatur anim ut ex dolor officia. Anim dolor laboris aute elit laboris aliqua incididunt duis quis consectetur labore sint. Excepteur veniam cillum aliqua voluptate fugiat. Laborum id sit cupidatat Lorem voluptate minim laboris mollit pariatur commodo enim aute est. Veniam sit amet cillum incididunt veniam amet sit occaecat officia cupidatat eu. Fugiat ex eu incididunt magna nisi qui. Do sunt nulla reprehenderit id veniam labore do commodo laborum. Dolor ex laboris et aliquip consectetur. <a href="" class="link-more">Read more...</a></div>
+                </div>
+
+                <div class="article-preview">
+                  <h2 class="article-title">
+                    <a class="title" href="{{ article.url }}">Qui ullamco ullamco consectetur nulla sint nostrud dolor sit dolor ut excepteur.</a>
+                  </h2>
+                  <div class="date-posted">2020-12-02 14:48</div>
+                  <div class="summary">Consectetur nulla velit elit laborum nulla exercitation voluptate id do. Aliquip adipisicing pariatur ullamco. Anim sunt aute in consequat in reprehenderit velit ad excepteur quis magna sit eu reprehenderit. Qui officia eu sunt laborum officia et consequat do enim sit. Anim ipsum aliqua duis incididunt proident esse qui magna. Nisi nisi voluptate ipsum irure irure ut cupidatat proident voluptate mollit. Id cupidatat anim do. Labore esse occaecat sint aliqua incididunt nisi ullamco in. <a href="" class="link-more">Read more...</a></div>
+                </div>
+
+                <div class="article-preview">
+                  <h2 class="article-title">
+                    <a class="title" href="{{ article.url }}">Ex commodo cupidatat anim ex cupidatat nulla dolor duis labore labore.</a>
+                  </h2>
+                  <div class="date-posted">2020-12-02 14:48</div>
+                  <div class="summary">Aliquip commodo est officia sit et amet eiusmod consectetur. Nulla elit ut qui. Mollit laboris dolor mollit elit non dolor cillum. Voluptate dolore et mollit sit eu et ullamco. Est ea sint magna reprehenderit mollit et aliquip qui anim pariatur aliqua cupidatat adipisicing dolore duis. Veniam dolore ullamco minim laboris ipsum deserunt proident aliquip excepteur. Aliqua occaecat qui deserunt culpa. Ex excepteur aute culpa est. <a href="" class="link-more">Read more...</a></div>
+                </div>
+
+              </div>
+          </div>
+
+          <aside class="secondary sidebar">
+            <ul class="categories">
+              <li><a href="category/tech.html">⚙️ Tech</a></li>
+              <li><a href="category/life.html">🌱 Life</a></li>
+              <li><a href="category/notes.html">📝 Notes</a></li>
+            </ul>
+          </aside>
+
+        </div>
+      </div>
+
+
+    <footer class="footer no-print">
+      <div class="copyright">&copy; 2020 Filip Górczyński, <a href="https://blog.filipgorczynski.me/license">LICENSE</a></div>
+    </footer>
+
+    <div class="cookie-notice">
+        This page use cookies to track activity. Like almost every site.
+    </div>
+
+  </div>
+
+    <!-- {% include "commont/global_site_tag.html" %} -->
+  </body>
+</html>

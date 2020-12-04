@@ -57,8 +57,23 @@
       <div class="content">
         <div class="primary">
           <div class="main">
-          {% block content %}
-          {% endblock %}
+            <h2 class="article-title">
+              {{ article.title }}
+            </h2>
+            {{ article.content }}
+            <div class="article-meta date-posted">
+              {% include 'common/article_meta.html' %}
+              {% include 'common/tags.html' %}
+            </div>
+            {# <div class="unsplash-featured">
+              <span>
+              Photo by <a href="https://unsplash.com/{{ unsplash_author }}?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">{{ unsplash_author_display }}</a> on 
+                  <a href="https://unsplash.com/photos/{{ unsplash_photo }}?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+              </span>
+              unsplash_author: @carissaweiser
+              unsplash_photo: oPI3Oxj_cEw
+              {% include 'common/unsplash_disclaimer.html' %}
+            </div> #}
           </div>
         </div>
         <div class="secondary">
@@ -85,3 +100,8 @@
     {% include 'common/mailchimp.html' %}
   </body>
 </html>
+
+{% block title %}{{ article.title|striptags }} / {{ super() }}{% endblock %}
+{% block description %}{{ article.summary|striptags }}{% endblock %}
+{% block twitter_title %}{{ article.title|striptags }}{% endblock %}
+{% block twitter_description %}{{ article.summary|striptags }}{% endblock %}
