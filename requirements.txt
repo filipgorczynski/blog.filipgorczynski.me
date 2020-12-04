@@ -1,7 +1,9 @@
+alabaster==0.7.12
 amqp==2.5.1
 appdirs==1.4.3
 atomicwrites==1.3.0
 attrs==19.1.0
+Babel==2.8.0
 backcall==0.1.0
 bandit==1.6.2
 beautifulsoup4==4.9.1
@@ -25,7 +27,9 @@ feedgenerator==1.9.1
 gitdb2==2.0.5
 GitPython==3.0.2
 gunicorn==19.9.0
+htmlmin==0.1.12
 idna==2.10
+imagesize==1.2.0
 importlib-metadata==0.19
 ipdb==0.12.2
 ipython==7.7.0
@@ -42,8 +46,11 @@ packaging==19.1
 pandoc==1.0.2
 parso==0.5.1
 pbr==5.4.2
-pelican==4.2.0
+pelican==4.5.0
 pelican-gist==0.3.4
+pelican-htmlmin==1.0.2
+pelican-metadataparsing==0.1.0
+pelican-youtube==0.2.1
 pexpect==4.7.0
 pickleshare==0.7.5
 pip-tools==4.1.0
@@ -64,6 +71,7 @@ pytest-bandit==0.5.2
 pytest-cov==2.7.1
 pytest-django==3.5.1
 python-dateutil==2.8.1
+python-slugify==4.0.1
 pytz==2019.2
 PyYAML==5.1.2
 requests==2.24.0
@@ -73,8 +81,16 @@ six==1.12.0
 smmap2==2.0.5
 snowballstemmer==1.9.0
 soupsieve==2.0.1
+Sphinx==3.2.1
+sphinxcontrib-applehelp==1.0.2
+sphinxcontrib-devhelp==1.0.2
+sphinxcontrib-htmlhelp==1.0.3
+sphinxcontrib-jsmath==1.0.1
+sphinxcontrib-qthelp==1.0.3
+sphinxcontrib-serializinghtml==1.1.4
 sqlparse==0.3.0
 stevedore==1.30.1
+text-unidecode==1.3
 toml==0.10.0
 traitlets==4.3.2
 Unidecode==1.1.1

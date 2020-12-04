@@ -1,0 +1,24 @@
+minimum_pre_commit_version: 1.21.0
+repos:
+  - repo: meta
+    hooks:
+      - id: check-hooks-apply
+      - id: check-useless-excludes
+
+  - repo: local
+    hooks:
+      - id: validate-content
+        name: Validate blog content
+        language: system
+        # run with poetry to get dependencies (Pelican)
+        entry: poetry run ./validate-content.py
+        types: [markdown]
+        exclude: ^content/pages/.*.md$
+
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v3.1.0
+    hooks:
+      - id: check-added-large-files
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+      - id: mixed-line-ending
