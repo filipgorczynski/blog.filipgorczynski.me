@@ -17,7 +17,7 @@ Zdarzyło się Wam kiedyś podczas odwiedzania strony Waszego ulubionego framewo
 
 Efekt:
 
-![Vue website color palette](https://blog.filipgorczynski.me/2020/10/14/vue.png)
-![Django website color palette](https://blog.filipgorczynski.me/2020/10/14/django.png)
+![Vue website color palette](images/2020/10/14/vue.png)
+![Django website color palette](images/2020/10/14/django.png)
 
 
