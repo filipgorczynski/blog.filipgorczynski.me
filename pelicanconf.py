@@ -12,15 +12,15 @@ FAVICON = SITEURL + "img/favicon.ico"
 BROWSER_COLOR = "#efefef"
 ROBOTS = "index, follow"
 # PATH = 'content'
-THEME = '/home/filip/src/Vendors/pelican-themes/Flex'
+THEME = 'theme'
 TIMEZONE = 'UTC'
 DEFAULT_LANG = 'pl'
 EXTRA_PATH_METADATA = {
     "extra/custom.css": {"path": "static/custom.css"},
 }
-# CUSTOM_CSS = "static/custom.css"
+CUSTOM_CSS = "custom.css"
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None # "feeds/all.atom.xml"
+FEED_ALL_ATOM = "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
@@ -105,3 +105,5 @@ EXTRA_PATH_METADATA = {
 # THEME_COLOR_ENABLE_USER_OVERRIDE = True
 
 # USE_LESS = True
+
+DEBUG = 1

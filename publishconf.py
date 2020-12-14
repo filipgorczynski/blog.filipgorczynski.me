@@ -25,7 +25,11 @@ DELETE_OUTPUT_DIRECTORY = True
 #GOOGLE_ANALYTICS = ""
 
 PLUGINS = [
-    # ...
     'pelican_gist',
-    # ...
+    'pelican-cover-image',
+    'metadataparsing',
+    'pelican_htmlmin',
+    'related_posts',
+    'post_stats',
+    'i18n_subsites',
 ]
