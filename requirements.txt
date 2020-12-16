@@ -42,7 +42,7 @@ packaging==19.1
 pandoc==1.0.2
 parso==0.5.1
 pbr==5.4.2
-pelican==4.2.0
+pelican==4.5.3
 pelican-gist==0.3.4
 pexpect==4.7.0
 pickleshare==0.7.5
@@ -56,7 +56,7 @@ py==1.8.0
 pycodestyle==2.5.0
 pydocstyle==4.0.1
 pyflakes==2.1.1
-Pygments==2.4.2
+Pygments==2.6.1
 pylama==7.7.1
 pyparsing==2.4.2
 pytest==5.1.1
@@ -64,7 +64,7 @@ pytest-bandit==0.5.2
 pytest-cov==2.7.1
 pytest-django==3.5.1
 python-dateutil==2.8.1
-pytz==2019.2
+pytz==2020.4
 PyYAML==5.1.2
 requests==2.24.0
 rstcheck==3.3.1

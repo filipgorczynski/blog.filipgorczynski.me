@@ -1,13 +1,12 @@
 @import "normalize.css";
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
-nav, h1, h2, h3, h4, h5, h6 {
-  font-family: "Exo 2", Sans-Serif;
-}
 body {
-  font-family: "Exo 2", Sans-Serif;
+  font-family: "Ubuntu", Sans-Serif;
   font-size: 1.1rem;
+  font-size: 1.2em;
   color: #666;
-  background-color: lightgray;
+  background-color: #f5f3ff;
 }
 nav {
   margin-bottom: 2rem;
@@ -16,16 +15,19 @@ nav {
 a:link,
 a:visited,
 a:active {
-  color: #1c7c7c;
+  color: #6366f1;
   text-decoration: none;
-  font-weight: 700;
+  font-weight: 400;
 }
+a:hover {
+  color: #a5b4fc;
+}
+
 .page-wrapper {
   max-width: 1153px;
-  margin: 54px auto;
-  padding: 54px 108px;
-  overflow: hidden;
-  background-color: #fff;
+  margin: 0 auto;
+  padding: 21px;
+  padding: 15px;
 }
 .social-links a {
   display: inline-block;
@@ -40,6 +42,9 @@ a:active {
   background-image: url("../images/github.svg");
 }
 .social-links .exercism {
+  background-image: url("../images/exercism.svg");
+}
+.social-links .checkio {
   background-image: url("../images/exercism.svg");
 }
 .social-links .codewars {
@@ -57,7 +62,7 @@ a:active {
 
 code,
 pre {
-  font-family: "DejaVu Sans Mono", monospace;
+  font-family: "Ubuntu Mono", monospace;
   background-color: #ccc;
   padding: 0 0.2rem;
   font-size: 1rem;
@@ -75,73 +80,101 @@ nav header {
 
 .site-header {
     margin: 0 0 27px;
-    /* padding: 0 0 24px; */
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #8b5cf6;
 }
 
 .site-branding {
-    clear: both;
     margin-bottom: 14px;
     text-align: center;
 }
 
-.site-title {
-  font-style: normal;
+.site-branding h1 {
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.site-branding p {
   font-weight: 400;
-  font-family: "Exo 2"
+  padding: 9px;
+  text-align: right;
 }
 
 .site-title a {
   text-decoration: none;
   color: #666;
+  text-align: center;
 }
 
 .site {
   width: 1153px;
-  padding: 54px 108px;
+  padding: 21px;
 }
 
 .content {
-  background: skyblue;
-  width: 1153px;
+  max-width: 1153px;
 }
 
 .primary {
   width: 100%;
-  background: lightgoldenrodyellow;
   float: left;
-  margin: 0 -30% 0 0;
 }
 
 .secondary {
-  width: 30%;
-  background: lightcoral;
-  float: right;
+
 }
 
 .main {
-  margin: 0 30% 0 0;
-  background-color: lightgreen;
+  margin: 0;
+}
+
+.main h2 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  color: #6366f1;
 }
 
 .footer {
   width: 100%;
   float: none;
-  background-color: lightyellow;
-  float: left;
+  padding: 36px 12px;
 }
 
-.secondary .categories {
+.categories {
+  overflow: hidden;
   list-style-type: none;
-  margin: 0;
+  margin: 0 0 21px;
   padding: 0;
 }
 
-.secondary .categories li {
+.categories li {
+  display: block;
+  list-style-type: none;
   margin: 0;
-  padding: 0
+  font-size: 16px;
+  text-transform: uppercase;
+  text-align: center;
 }
 
-/* nav>header {
-    border-bottom: 2px solid #c1c1c1;
-} */
+.categories li a {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  padding: 12px 24px 12px 8px;
+  font-weight: 700;
+}
+
+.article-preview {
+  margin-block-end: none;
+}
+
+.date-posted {
+  font-size: 14px;
+  color: #a78bfa;
+}
+
+@media screen and (min-width: 768px) {
+  .categories li {
+    width: 25%;
+    float: left;
+  }
+}

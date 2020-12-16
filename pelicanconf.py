@@ -5,12 +5,13 @@ from __future__ import unicode_literals
 AUTHOR = 'Filip Górczyński'
 SITENAME = 'Filip Górczyński'
 SITEURL = 'https://blog.filipgorczynski.me'
+SITESUBTITLE = "Jack of all trades, master of none"
 
 PATH = 'content'
 THEME = 'theme'
-# THEME = 'lightweight'
+# THEME = 'notmyidea'
 TIMEZONE = 'UTC'
-DEFAULT_LANG = 'pl'
+# DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -19,8 +20,11 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-PAGE_URL = '/{slug}/'
-PAGE_SAVE_AS = '{slug}/index.html'
+PAGE_URL = '/pages/{slug}.html'
+PAGE_SAVE_AS = 'pages/{slug}.html'
+CATEGORY_URL = '/category/{slug}.html'
+CATEGORY_SAVE_AS = 'category/{slug}.html'
+TAG_URL = '/tag/{slug}.html'
 
 ARTICLE_URL = '/{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
@@ -28,7 +32,7 @@ ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
 CSS_FILE = 'main.css'
 # Blogroll
 LINKS = (
-    ('Stary blog', 'http://filipgorczynski.wordpress.com/'),
+    ('Previous blog', 'http://filipgorczynski.wordpress.com/'),
 )
 # LINKS = ()
 # Social widget

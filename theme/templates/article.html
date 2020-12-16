@@ -9,10 +9,12 @@
   <h2 class="article-title">
     {{ article.title }}
   </h2>
-  {{ article.content }}
   <div class="article-meta date-posted">
-    {% include 'common/article_meta.html' %}
-    {% include 'common/tags.html' %}
+    {% include 'partial/article_meta.html' %}
+    {% include 'partial/tags.html' %}
+  </div>
+  <div class="article-content">
+    {{ article.content }}
   </div>
   {# <div class="unsplash-featured">
     <span>
@@ -21,6 +23,6 @@
     </span>
     unsplash_author: @carissaweiser
     unsplash_photo: oPI3Oxj_cEw
-    {% include 'common/unsplash_disclaimer.html' %}
+    {% include 'partial/unsplash_disclaimer.html' %}
   </div> #}
 {% endblock %}
