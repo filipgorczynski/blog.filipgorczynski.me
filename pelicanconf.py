@@ -25,6 +25,7 @@ PAGE_SAVE_AS = 'pages/{slug}.html'
 CATEGORY_URL = '/category/{slug}.html'
 CATEGORY_SAVE_AS = 'category/{slug}.html'
 TAG_URL = '/tag/{slug}.html'
+TAG_SAVE_AS = 'tags/{slug}.html'
 
 ARTICLE_URL = '/{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'

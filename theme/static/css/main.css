@@ -1,5 +1,6 @@
 @import "normalize.css";
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
   font-family: "Ubuntu", Sans-Serif;
@@ -28,36 +29,6 @@ a:hover {
   margin: 0 auto;
   padding: 21px;
   padding: 15px;
-}
-.social-links a {
-  display: inline-block;
-  text-indent: -9999px;
-  width: 4rem;
-  height: 4rem;
-  margin: 0.5rem;
-  background-position: center;
-  background-size: 4rem;
-}
-.social-links .github {
-  background-image: url("../images/github.svg");
-}
-.social-links .exercism {
-  background-image: url("../images/exercism.svg");
-}
-.social-links .checkio {
-  background-image: url("../images/exercism.svg");
-}
-.social-links .codewars {
-  background-image: url("../images/codewars.svg");
-}
-.social-links .codesignal {
-  background-image: url("../images/codesignal.svg");
-}
-.social-links .email {
-  background-image: url("../images/email.svg");
-}
-.social-links .tweeter {
-  background-image: url("../images/teeter.svg");
 }
 
 code,
@@ -112,6 +83,7 @@ nav header {
 
 .content {
   max-width: 1153px;
+  overflow: hidden;
 }
 
 .primary {
@@ -134,9 +106,15 @@ nav header {
 }
 
 .footer {
+  margin: 54px 0 27px;
   width: 100%;
-  float: none;
-  padding: 36px 12px;
+}
+
+.footer .copyright {
+  padding: 27px 12px 0;
+  border-top: 1px solid #8b5cf6;
+  font-size: 14px;
+  color: #a78bfa;
 }
 
 .categories {

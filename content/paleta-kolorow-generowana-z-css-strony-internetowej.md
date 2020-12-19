@@ -6,7 +6,6 @@ Tags: #python, #css, #kolory, #design
 Slug: paleta-kolorow-generowana-z-css-strony-internetowej
 Author: filipgorczynski
 Status: published
-Lang: pl
 Summary: Czy zastanawialiście się kiedyś, jak łatwo wykorzystać paletę kolorów ze strony waszego ulubionego frameworka jako inspiracji w swoich projektach?
 unsplash_author: @carissaweiser
 unsplash_photo: oPI3Oxj_cEw

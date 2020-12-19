@@ -1,8 +1,8 @@
-Title: OKR jako lepszy sposób określania celów
-Date: 2019-07-13 09:35
+Title: Better goals settings with OKRs
+Date: 2020-12-16 14:32
 Author: filipgorczynski
 Category: Life
-Slug: okr-jako-lepszy-sposob-okreslania-celow
+Slug: better-goals-settings-with-okrs
 Status: draft
 
 Niemała część ludzi słyszała o określaniu swoich celów z wykorzystaniem frameworka S.M.A.R.T.. Niedawno dowiedziałem się o innym frameworku - OKR.

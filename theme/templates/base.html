@@ -34,40 +34,34 @@
 </head>
 <body>
   <div class="page-wrapper">
-      <header class="site-header no-print">
-        <div class="site-branding">
-            <h1 class="site-title"><a href="{{ SITEURL }}" rel="home">{{ SITENAME }}</a></h1>
-            <p>{{ SITESUBTITLE }}</p>
-        </div>
+    <header class="site-header no-print">
+      <div class="site-branding">
+          <h1 class="site-title"><a href="{{ SITEURL }}" rel="home">{{ SITENAME }}</a></h1>
+          <p>{{ SITESUBTITLE }}</p>
+      </div>
+    </header>
 
-        {#<nav class="main-navigation">
-          <button class="menu-toggle" style="display: none;">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><rect x="0" fill="none" width="16" height="16"></rect><g><path id="menu-icon" d="M0 14h16v-2H0v2zM0 2v2h16V2H0zm0 7h16V7H0v2z"></path></g></svg>
-            Menu
-          </button>
-          <div class="menu"></div>
-        </nav>#}
-      </header>
-
-      <div class="content">
-        <ul class="categories">
-          <li><a href="/category/tech.html">⚙️ Tech</a></li>
-          <li><a href="/category/life.html">🌱 Life</a></li>
-          <li><a href="/category/notes.html">📝 Notes</a></li>
-          <li><a href="/pages/about-me.html">🤓 About</a></li>
-        </ul>
-        <div class="primary">
-          <div class="main">
-          {% block content %}
-          {% endblock %}
-          </div>
+    <div class="content">
+      <ul class="categories">
+        <li><a href="/category/tech.html">⚙️ Tech</a></li>
+        <li><a href="/category/life.html">🌱 Life</a></li>
+        <li><a href="/category/notes.html">📝 Notes</a></li>
+        <li><a href="/pages/about-me.html">🤓 About</a></li>
+      </ul>
+      <div class="primary">
+        <div class="main">
+        {% block content %}
+        {% endblock %}
         </div>
       </div>
-
-    <div class="footer no-print">
-      <div class="copyright">This blog is protected (<a href="{{ SITEURL }}/license">LICENSE</a>)</div>
     </div>
 
-    {% include 'partial/google_tracking.html' %}
+    <div class="footer no-print">
+      <div class="copyright">&copy; 2020 Filip Górczyński; all the opinions presented here are mine and mine only</div>
+    </div>
+
+  </div>
+
+  {% include 'partial/google_tracking.html' %}
   </body>
 </html>
