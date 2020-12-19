@@ -1,6 +1,6 @@
 {% extends 'base.html' %}
 
-{% block title %}{{ article.title|striptags }} / {{ super() }}{% endblock %}
+{% block title %}{{ article.title|striptags }} &ndash; {{ super() }}{% endblock %}
 {% block description %}{{ article.summary|striptags }}{% endblock %}
 {% block twitter_title %}{{ article.title|striptags }}{% endblock %}
 {% block twitter_description %}{{ article.summary|striptags }}{% endblock %}
@@ -9,10 +9,12 @@
   <h2 class="article-title">
     {{ article.title }}
   </h2>
-  {{ article.content }}
   <div class="article-meta date-posted">
-    {% include 'common/article_meta.html' %}
-    {% include 'common/tags.html' %}
+    {% include 'partial/article_meta.html' %}
+    {% include 'partial/tags.html' %}
+  </div>
+  <div class="article-content">
+    {{ article.content }}
   </div>
   {# <div class="unsplash-featured">
     <span>
@@ -21,6 +23,6 @@
     </span>
     unsplash_author: @carissaweiser
     unsplash_photo: oPI3Oxj_cEw
-    {% include 'common/unsplash_disclaimer.html' %}
+    {% include 'partial/unsplash_disclaimer.html' %}
   </div> #}
 {% endblock %}

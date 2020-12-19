@@ -1,11 +1,10 @@
-Title: ack czyli grep dla programisty
+Title: ack - grep focused on developers
 Date: 2018-04-16 15:40
 Author: filipgorczynski
 Category: Tech
-Slug: ack-czyli-grep-dla-programisty
+Slug: ack-grep-focused-on-developers
 Status: draft
 
- 
 https://beyondgrep.com/
 
 https://beyondgrep.com/install/

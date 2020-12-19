@@ -1,82 +1,67 @@
 <!DOCTYPE html>
-<html lang="pl">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{% block description %}{{ SITE_DESCTIPTION }}{% endblock %}" />
-    <meta name="author" content="{{ AUTHOR_NAME }}">
-
-    {#% include 'document_meta.html' %#}
-
-    {% if FEED_ALL_ATOM %}
-    <link type="application/atom+xml" rel="alternate" href="/{{ FEED_ALL_ATOM }}"  title="{{ SITE_DESCTIPTION }} - Atom Feed">
-    {% endif %}
-    {% if FEED_ALL_RSS %}
-    <link type="application/rss+xml" rel="alternate" href="/{{ FEED_ALL_RSS }}" title="{{ SITE_DESCTIPTION }} - RSS Feed">
-    {% endif %}
-
-    <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
-    <link rel="stylesheet" href="/theme/css/{{ CSS_FILE }}" type="text/css"/>
-    {#<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css">
-    <link href="//fonts.googleapis.com/css?family=Lato:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css">
-    <link href="//fonts.googleapis.com/css?family=Ubuntu:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css">
-    <link href="//fonts.googleapis.com/css?family=Play:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css">#}
-    <link href="//fonts.googleapis.com/css?family=Exo+2:400,300,600&amp;subset=cyrillic" rel="stylesheet" type="text/css">
-    <link rel="shortcut icon" href="/theme/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="/theme/favicon.ico" type="image/x-icon">
-    
-    {#% include 'meta_twitter.html' %#}
-    <meta name="facebook:" />
-  </head>
-  <body>
-    <div class="page-wrapper">
-      
-      {#<nav class="no-print">
-        <header><a href="/"></a></header>
-      </nav>#}
-
-      <header class="site-header">
-        <div class="site-branding">
-            <h1 class="site-title"><a href="https://blog.filipgorczynski.me/" rel="home">{{ SITENAME }}</a></h1>
-            {#<p class="site-description">Radosne twórczości leniwego programisty</p>#}
-        </div>
-
-        {#<nav class="main-navigation">
-          <button class="menu-toggle" style="display: none;">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><rect x="0" fill="none" width="16" height="16"></rect><g><path id="menu-icon" d="M0 14h16v-2H0v2zM0 2v2h16V2H0zm0 7h16V7H0v2z"></path></g></svg>
-            Menu			</button>
-          <div class="menu"></div>
-        </nav>#}
-      </header>
-
-      <div class="content">
-        <div class="primary">
-          <div class="main">
-          {% block content %}
-          {% endblock %}
-          </div>
-        </div>
-        <div class="secondary">
-          Categories
-          <ul class="categories">
-            <li><a href="/tech.html">⚙️ Tech</a></li>
-            <li><a href="/life.html">🌱 Life</a></li>
-            <li><a href="/notes.html">📝 Notes</a></li>
-          </ul>
-        </div>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+  <meta charset="utf-8" />
+  <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+  <meta name="description" content="{% block description %}{{ SITE_DESCTIPTION }}{% endblock %}" />
+  <meta name="author" content="{{ AUTHOR_NAME }}">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  {% if page in hidden_pages %}
+    <meta name="robots" content="noindex, nofollow" />
+  {% else %}
+    <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1">
+  {% endif %}
+  <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom">
+  <link type="application/atom+xml" rel="alternate" href="/{{ FEED_ALL_ATOM }}"  title="{{ SITE_DESCTIPTION }} - Atom Feed">
+  <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS">
+  <link type="application/rss+xml" rel="alternate" href="/{{ FEED_ALL_RSS }}" title="{{ SITE_DESCTIPTION }} - RSS Feed">
+  <!-- <link rel="shortcut icon" href="{{ FAVICON }}" type="image/x-icon">
+  <link rel="icon" href="{{ FAVICON }}" type="image/x-icon"> -->
+  {#% include 'partial/document_meta.html' %#}
+  {% include "partial/ga.html" %}
+  {#% include 'partial/twitter.html' %#}
+  {% include "partial/og.html" %}
+  <!-- <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/main.css"> -->
+  <link rel="stylesheet" type="text/css" href="/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" type="text/css"/> {#{{ SITEURL }} #}
+  <!-- {#% if GOOGLE_TAG_MANAGER %}
+    {% include "partial/gtm.html" %}
+  {% endif %#} -->
+  <meta name="facebook:" />
+</head>
+<body>
+  <div class="page-wrapper">
+    <header class="site-header no-print">
+      <div class="site-branding">
+          <h1 class="site-title"><a href="{{ SITEURL }}" rel="home">{{ SITENAME }}</a></h1>
+          <p>{{ SITESUBTITLE }}</p>
       </div>
+    </header>
 
-    {#<ul>
-      <li><a href="{{ SITE_URL }}">Blog</a></li>
-      <li><a href="{{ SITE_URL }}/about-me">About me</a></li>
-    </ul>#}
-
-    <div class="footer no-print">
-        <div class="copyright">This work is protected (<a href="https://blog.filipgorczynski.me/license">LICENSE</a>)</div>
+    <div class="content">
+      <ul class="categories">
+        <li><a href="/category/tech.html">⚙️ Tech</a></li>
+        <li><a href="/category/life.html">🌱 Life</a></li>
+        <li><a href="/category/notes.html">📝 Notes</a></li>
+        <li><a href="/pages/about-me.html">🤓 About</a></li>
+      </ul>
+      <div class="primary">
+        <div class="main">
+        {% block content %}
+        {% endblock %}
+        </div>
       </div>
     </div>
 
-    {% include 'google_tracking.html' %}
-    {% include 'common/mailchimp.html' %}
+    <div class="footer no-print">
+      <div class="copyright">&copy; 2020 Filip Górczyński; all the opinions presented here are mine and mine only</div>
+    </div>
+
+  </div>
+
+  {% include 'partial/google_tracking.html' %}
   </body>
 </html>

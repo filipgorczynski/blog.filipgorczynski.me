@@ -3,8 +3,8 @@
 
 AUTHOR = 'Filip Górczyński'
 SITENAME = 'Filip Górczyński'
+SITEURL = 'https://blog.filipgorczynski.me'
 SITETITLE = "Filip Górczyński"
-SITEURL = 'https://blog.filipgorczynski.me/'
 SITESUBTITLE = "Jack of all trades; Master of one."
 SITEDESCRIPTION = "Jack of all trades; Master of one."
 SITELOGO = SITEURL + "/images/profile.png"
@@ -12,13 +12,13 @@ FAVICON = SITEURL + "/images/favicon.ico"
 BROWSER_COLOR = "#efefef"
 ROBOTS = "index, follow"
 # PATH = 'content'
-THEME = '/home/filip/src/Vendors/pelican-themes/Flex'
 TIMEZONE = 'UTC'
-DEFAULT_LANG = 'pl'
+# DEFAULT_LANG = 'pl'
 EXTRA_PATH_METADATA = {
     "extra/custom.css": {"path": "static/custom.css"},
 }
 CUSTOM_CSS = "static/custom.css"
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = "feeds/all.atom.xml"
 CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
@@ -26,8 +26,14 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 COPYRIGHT_YEAR = 2020
+# PAGE_URL = '/pages/{slug}.html'
 PAGE_URL = '/{slug}/'
-PAGE_SAVE_AS = '{slug}/index.html'
+PAGE_SAVE_AS = 'pages/{slug}.html'
+# PAGE_SAVE_AS = '{slug}/index.html'
+CATEGORY_URL = '/category/{slug}.html'
+CATEGORY_SAVE_AS = 'category/{slug}.html'
+TAG_URL = '/tag/{slug}.html'
+TAG_SAVE_AS = 'tags/{slug}.html'
 USE_FOLDER_AS_CATEGORY = False
 ARTICLE_URL = '/{date:%Y}/{date:%m}/{slug}/'
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
