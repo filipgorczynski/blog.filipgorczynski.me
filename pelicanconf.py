@@ -18,6 +18,7 @@ EXTRA_PATH_METADATA = {
     "extra/custom.css": {"path": "static/custom.css"},
 }
 CUSTOM_CSS = "static/custom.css"
+THEME='theme'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = "feeds/all.atom.xml"
@@ -80,7 +81,7 @@ PLUGINS = [
     'pelican_htmlmin',
     'related_posts',
     'post_stats',
-    'i18n_subsites',
+    # 'i18n_subsites',
 ]
 
 JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
@@ -106,5 +107,3 @@ EXTRA_PATH_METADATA = {
 
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
 THEME_COLOR_ENABLE_USER_OVERRIDE = True
-
-# USE_LESS = True
