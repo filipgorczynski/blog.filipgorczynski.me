@@ -1,14 +1,15 @@
 Title: The Cult of Done Manifesto
-Date: 2019-04-25 13:42
+Date: 2020-12-21 12:34
 Author: filipgorczynski
-Category: Life
-Tags: cult, done, manifest, manifesto, Produktywność
+Category: Notes
+Tags: cult, done, manifesto, productivity
 Slug: the-cult-of-done-manifesto
 Status: draft
+Summary: 
 
 "Tylko ten nie popełnia błędów, kto nic nie robi", to chyba najlepszy sposób na nawiązanie do - nie tak dawno temu wymyślonego i spisanego dokumentu - "The Cult of Done".
 
-\*Kult kończenia\*, bo tak to moim zdaniem można najlepiej przełożyć przetłumaczyć
+*Kult kończenia*, bo tak to moim zdaniem można najlepiej przełożyć 
 
 20 minut na jego wykonanie
 
