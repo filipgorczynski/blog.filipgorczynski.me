@@ -18,7 +18,7 @@
   <header>
     {% import 'partial/translations.html' as translations with context %}
     {{ translations.translations_for(page) }}
-    <h1 id="{{ page.slug }}">{{ page.title }}</h1>
+    <h2 id="{{ page.slug }}">{{ page.title }}</h2>
   </header>
   <div>
     {% block before_content %}{% endblock %}

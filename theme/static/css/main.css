@@ -6,7 +6,7 @@ body {
   font-family: "Ubuntu", Sans-Serif;
   font-size: 1.1rem;
   font-size: 1.2em;
-  color: #9ca3af;
+  color: #5067b9;
   background-color: #fff;
 }
 nav {
@@ -16,12 +16,12 @@ nav {
 a:link,
 a:visited,
 a:active {
-  color: #60a5fa;
+  color: #344277;
   text-decoration: none;
-  font-weight: 400;
 }
 a:hover {
-  color: #2563eb;
+  color: #1e2749;
+  text-decoration: underline;
 }
 
 .page-wrapper {
@@ -34,8 +34,9 @@ a:hover {
 code,
 pre {
   font-family: "Ubuntu Mono", monospace;
-  background-color: #ccc;
-  padding: 0 0.2rem;
+  background-color: #eff6ff;
+  color: #5067b9;
+  padding: 0.25rem 0.25rem;
   font-size: 1rem;
   border-radius: 0.3rem;
 }
@@ -51,7 +52,7 @@ nav header {
 
 .site-header {
     margin: 0 0 27px;
-    border-bottom: 1px solid #60a5fa;
+    /* border-bottom: 1px solid #60a5fa; */
 }
 
 .site-branding {
@@ -68,11 +69,12 @@ nav header {
   font-weight: 400;
   padding: 9px;
   text-align: right;
+  color: #344277;
 }
 
 .site-title a {
   text-decoration: none;
-  color: #666;
+  color: #344277;
   text-align: center;
 }
 
@@ -102,7 +104,7 @@ nav header {
 .main h2 {
   margin-block-start: 0;
   margin-block-end: 0;
-  color: #60a5fa;
+  color: #344277;
 }
 
 .footer {
@@ -112,9 +114,9 @@ nav header {
 
 .footer .copyright {
   padding: 27px 12px 0;
-  border-top: 1px solid #60a5fa;
+  /* border-top: 1px solid #60a5fa; */
   font-size: 14px;
-  color: #60a5fa;
+  color: #5067b9;
 }
 
 .categories {
@@ -141,13 +143,19 @@ nav header {
   font-weight: 700;
 }
 
+.categories li a:hover {
+  text-decoration: none;
+}
+
 .article-preview {
   margin-block-end: none;
 }
 
 .date-posted {
   font-size: 14px;
-  color: #93c5fd;
+  padding-top: 9px;
+  color: #5067b9;
+  font-style: italic;
 }
 
 @media screen and (min-width: 768px) {
