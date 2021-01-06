@@ -17,11 +17,9 @@ a:link,
 a:visited,
 a:active {
   color: #344277;
-  text-decoration: none;
 }
 a:hover {
   color: #1e2749;
-  text-decoration: underline;
 }
 
 .page-wrapper {
@@ -141,6 +139,7 @@ nav header {
   height: 100%;
   padding: 12px 24px 12px 8px;
   font-weight: 700;
+  text-decoration: none;
 }
 
 .categories li a:hover {
