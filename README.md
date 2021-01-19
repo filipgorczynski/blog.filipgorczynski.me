@@ -1,4 +1,4 @@
-# Developer blog
+# Personal Blog
 
 ## Resources
 
