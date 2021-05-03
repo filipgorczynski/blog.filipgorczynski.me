@@ -19,10 +19,10 @@
   <link type="application/atom+xml" rel="alternate" href="/{{ FEED_ALL_ATOM }}"  title="{{ SITE_DESCTIPTION }} - Atom Feed">
   <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS">
   <link type="application/rss+xml" rel="alternate" href="/{{ FEED_ALL_RSS }}" title="{{ SITE_DESCTIPTION }} - RSS Feed">
-  <!-- <link rel="shortcut icon" href="{{ FAVICON }}" type="image/x-icon">
-  <link rel="icon" href="{{ FAVICON }}" type="image/x-icon"> -->
+  <link rel="shortcut icon" href="//{{ FAVICON }}" type="image/x-icon">
+  <link rel="icon" href="/theme/{{ FAVICON }}" type="image/x-icon">
   {#% include 'partial/document_meta.html' %#}
-  {% include "partial/ga.html" %}
+  {#% include "partial/ga.html" %#}
   {#% include 'partial/twitter.html' %#}
   {% include "partial/og.html" %}
   <!-- <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/main.css"> -->
