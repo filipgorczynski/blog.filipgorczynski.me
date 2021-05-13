@@ -1,23 +1,13 @@
 Title: Move Docker directory to different location
-Date: 2021-03-22 09:13
-Modified: 2021-03-22 09:13
+Date: 2021-05-03 07:38
+Modified: 2021-05-03 07:38
 Category: Tech
 Tags: #docker
 Slug: move-docker-directory-to-different-location
 Author: filipgorczynski
 Status: draft
-Summary: 
+Summary: As a developer we may 
 
-Simply speaking, problem was with the `key` property I was passing to
-component. I was building it with JavaScript template literal string this way:
+As developers when we're using Docker we may hit **out of space** error.
 
-```javascript
-key={`${props.name}-${props.index}`}
-```
-
-As you can see with every input text change, the name props changed as well,
-so because `key` props changed I ended up with new component every time it
-changed.
-
-Every day is a good day to learn something new. Even if it is just a really
-stupid mistake.
+https://stackoverflow.com/questions/51238891/how-to-fix-the-running-out-of-disk-space-error-in-docker
