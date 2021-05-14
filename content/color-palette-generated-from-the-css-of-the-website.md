@@ -8,7 +8,7 @@ Author: filipgorczynski
 Status: published
 Summary: Have you ever wondered how easy it is to use colors of your favorite framework from its website as inspiration to your own projects?
 
-Has it ever happened to you while visiting your favorite framework website to be amazed of used color palette and decided to fetch those colors to use them in your next project? I had. Many times. And - without surprise - it was  Vue and Django - somehow I really like their shades of green.
+Have you ever wondered how easy it is to use colors of your favorite framework from its website as inspiration to your own projects? Has it ever happened to you while visiting your favorite framework website to be amazed of used color palette and decided to fetch those colors to use them in your next project? I had. Many times. And - without surprise - it was  Vue and Django - somehow I really like their shades of green.
 
 [gist:id=7e572ad2b8367eb47baa73d83913fab3]
 
