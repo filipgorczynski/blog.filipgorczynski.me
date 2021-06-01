@@ -1,14 +1,16 @@
 Title: The Cult of Done Manifesto
-Date: 2020-12-21 12:34
-Modified: 2020-12-21 12:34
+Date: 2021-05-14 15:28
+Modified: 2021-05-14 15:28
 Author: filipgorczynski
 Category: Life
-Tags: #cult-of-done, #manifesto, #productivity, #self-care
+Tags: #cult-of-done, #manifesto, #productivity, #self-care, #life
 Slug: the-cult-of-done-manifesto
 Status: draft
-Summary: If you feel overwhelmed by permanent hustling, raising the bar every day, moving your boundaries much too far - which drives you crazy due to all the goals you planned to accomplish to make your inner perfectionist happy?
+Summary: Have you ever felt overwhelmed by hustle culture, by raising the bar every day, by moving your boundaries much too far - which of course drives you crazy due to all the goals you planned to accomplish to make your inner perfectionist happy?
 
-Sadly, I do. While searching an easy solution to beat this procrastinator feeling I've found "The Cult of Done manifesto" document.
+Have you ever felt overwhelmed by hustle culture, by raising the bar every day, by moving your boundaries much too far - which of course drives you crazy due to all the goals you planned to accomplish to make your inner perfectionist happy?
+
+Sadly, I did. While searching an easy solution to beat this procrastinating behaviour I've found _"The Cult of Done manifesto"_ document.
 
 One (from the many) of my problems is that I have a feeling, that I need to postpone action until I'll be completely ready for it. This way I'm not as good as I could be with software development, being entrepreneur or many other things - because I'm still not perfectly ready. Even if I know I'll never be fully prepared I'm still not satisfied and thus procrastinate.
 

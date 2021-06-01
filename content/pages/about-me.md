@@ -10,14 +10,14 @@ Status: published
 [<img src="/theme/images/logos/facebook_1877F2.svg" alt="Facebook" title="Facebook" width="32px" height="32px" />](https://www.facebook.com/filipgorczynski/)&nbsp;
 [<img src="/theme/images/logos/twitter_1DA1F2.svg" alt="Twitter" title="Twitter" width="32px" height="32px" />](https://twitter.com/filipgorczynski)&nbsp;
 [<img src="/theme/images/logos/exercism_009CAB.svg" alt="Exercism" title="Exercism" width="32px" height="32px" />](https://exercism.io/profiles/filipgorczynski)&nbsp;
-[<img src="/theme/images/logos/codewars_AD2C27.svg" alt="CodeWars" title="CodeWars" width="32px" height="32px" />](https://www.codewars.com/users/filipgorczynski)
+[<img src="/theme/images/logos/codewars_AD2C27.svg" alt="CodeWars" title="CodeWars" width="32px" height="32px" />](https://www.codewars.com/users/filipgorczynski)&nbsp;
 [<img src="/theme/images/logos/checkio_008DB6.svg" alt="CheckiO" title="CheckiO" width="32px" height="32px" />](https://py.checkio.org/user/filipgorczynski/)
 
 Hello, folks!
 
 I'm Filip Górczyński and I wear many hats depending on what is required of me but most of the time I jump between **Full Stack Web Developer** and **Family Guy**.
 
-I'm currently working at Canadian automotive company Unhaggle as a Full Stack Engineer using awesome Django and lightweight Vue.js frameworks.
+I'm currently working for Canadian automotive company Unhaggle as a Full Stack Engineer using awesome Django and lightweight Vue.js frameworks.
 
 Short career highlights:
 

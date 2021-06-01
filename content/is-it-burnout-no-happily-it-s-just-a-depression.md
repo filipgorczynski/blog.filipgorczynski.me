@@ -1,8 +1,8 @@
-Title: Czy to wypalenie zawodowe? Nie. Na szczęście to tylko depresja
+Title: Is it burnout? No, happily it's just a depression
 Date: 2020-01-09 15:21
 Author: filipgorczynski
 Category: Life
-Slug: czy-to-wypalenie-zawodowe-nie-na-szczescie-to-tylko-depresja
+Slug: is-it-burnout-no-it-s-just-a-depression
 Status: draft
 
 Kilka lat temu - wydaje mi się, że może z 5-6 - zacząłem u siebie zauważać obniżenia nastroju. Zdarzało się to coraz częściej. Delikatne skoki ku pozytywnemu nastawianiu pojawiały się, gdy próbowałem coś zrobić w nowej technologii, nauczyć się czegoś fajnego. Niestety także zmiana otoczenia, zmiana projektów, poznawanie nowych ludzi, w żaden sposób nie pozwalały mi się wyrwać z tego kręgu. Zaczynałem sam się nakręcać, wszyscy dookoła mnie wydawali mi się znacznie lepsi ode mnie, uczyli się szybciej, bardziej ich cieszyło to co robią, wyzwania w pracy, własne projekty gdy akurat w pracy nie byli.
