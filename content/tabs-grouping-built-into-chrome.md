@@ -1,13 +1,17 @@
 Title: Tabs grouping built into Chrome
-Date: 2021-01-20 18:12:34
-Modified: 2021-01-20 18:12:34
+Date: 2021-06-04 14:26
+Modified: 2021-06-04 14:26
 Category: Notes
-Tags: #organization, #productivity, #chrome
+Tags: #organization, #productivity, #chrome, #browser, #tabs
 Slug: tabs-grouping-built-into-chrome
 Author: filipgorczynski
-Status: draft
-Summary: Too many tabs opened in browser is quite common problem amongs IT people. Google something and few seconds ago you are overwhelmed by 20 newly oRpened tabs. Yes, your computer RAM usage bar blinks in red as well.
+Status: published
+Summary: Too many tabs opened within a browser are a quite common problem amongst IT people. Google something and a few seconds ago you are overwhelmed by 20 newly opened tabs. Yes, your RAM usage bar blinks in red as well.
 
-Thanks to my friend from work I've learned a new feature built into Chrome browser that helps me organize related tabs into one group. Funny thing is, that this feature is available in browser few releases back now.
+Too many tabs opened within a browser are a quite common problem amongst IT people. Google something and a few seconds ago you are overwhelmed by 20 newly opened tabs. Yes, your RAM usage bar blinks in red as well.
 
-Of course it's not the only one solution I'm using with tabs in Chrome. I've also installed: TooManyTabs, TabSnooze i The Great Suspender. 
+Thanks to my friend from work I've learned a new feature built into Chrome browser that helps me organize related tabs into groups. Funny thing is, that this feature is available in a browser a few releases back now.
+
+One caveat I have is that it does not allow pinning grouped tabs but still, it's better than a neverending list - sometimes duplicated - tabs.
+
+In the case of this post, I recalled one productivity idea that pushes you to open a new browser window every time you want to search for something, so you can close it after found.
