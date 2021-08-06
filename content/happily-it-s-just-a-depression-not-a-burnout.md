@@ -1,9 +1,12 @@
-Title: Is it burnout? No, happily it's just a depression
-Date: 2020-01-09 15:21
-Author: filipgorczynski
+Title: Happily it's just a depression, not a burnout
+Date: 2021-06-04 13:52
+Modified: 2021-06-04 13:52
 Category: Life
-Slug: is-it-burnout-no-it-s-just-a-depression
+Tags: #information-junkie, #self-reflection, #life, #productivity, #procrastination
+Slug: happily-it-s-just-a-depression-not-a-burnout
+Author: filipgorczynski
 Status: draft
+Summary: 
 
 Kilka lat temu - wydaje mi się, że może z 5-6 - zacząłem u siebie zauważać obniżenia nastroju. Zdarzało się to coraz częściej. Delikatne skoki ku pozytywnemu nastawianiu pojawiały się, gdy próbowałem coś zrobić w nowej technologii, nauczyć się czegoś fajnego. Niestety także zmiana otoczenia, zmiana projektów, poznawanie nowych ludzi, w żaden sposób nie pozwalały mi się wyrwać z tego kręgu. Zaczynałem sam się nakręcać, wszyscy dookoła mnie wydawali mi się znacznie lepsi ode mnie, uczyli się szybciej, bardziej ich cieszyło to co robią, wyzwania w pracy, własne projekty gdy akurat w pracy nie byli.
 
