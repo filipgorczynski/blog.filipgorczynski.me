@@ -16,7 +16,7 @@ Thankfully there are people who thought similarly, so they've decided to include
 
 A great example is a [gitmoji](https://gitmoji.dev/) site but there is a general recommendation to be creative and follow own style guide rules.
 
-![gitmoji screenshot](./images/post/2021/08/gitmoji.dev.png)
+![gitmoji screenshot](/images/post/2021/08/gitmoji.dev.png)
 
 Of course I fully understand it's not a problem in your pet-projects or experiments. Or even in publicly available library you used to write in the evenings. But sometimes you're hired as an expert - customer expect professional behaviour, including git commits you write, and that scenario does not fit into colorful git commits.
 
