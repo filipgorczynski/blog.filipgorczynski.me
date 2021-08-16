@@ -1,11 +1,11 @@
 Title: Git commits emojis
-Date: 2021-08-16 11:41
-Modified: 2021-08-16 11:41
+Date: 2021-08-16 13:44
+Modified: 2021-08-16 13:44
 Category: Tech
 Tags: #git, #emoji, #commit
 Slug: git-commits-emojis
 Author: filipgorczynski
-Status: draft
+Status: published
 Summary: Git is one of the commonly used tool in developer's toolbox.
          However it's still text driven and thus a bit boring.
          Wouldn't be great to invite some joy while working with it?
