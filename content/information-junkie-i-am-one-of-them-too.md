@@ -5,7 +5,7 @@ Category: Life
 Tags: #information-junkie, #self-reflection, #life, #productivity, #procrastination
 Slug: information-junkie-i-am-one-of-them-too
 Author: filipgorczynski
-Status: draft
+Status: published
 Summary: Notifications with recommended YouTube videos about newest and fanciest JavaScript libraries. Another Django or JavaScript courses tagged as "Hot" or "Highest Rated". New book about the framework or architecture pattern used by developers at FAANG. Yet another time management approach, ultra-productivity and ultimate-procrastination-preventing trick. Between courses endless stream from HackerNews and blog feeds. And of course don't forget to check newsletters you are subscribed to.
 
 Notifications with recommended YouTube videos about newest and fanciest JavaScript libraries. Another Django or JavaScript courses tagged as "Hot" or "Highest Rated". New book about the framework or architecture pattern used by developers at FAANG. Yet another time management approach, ultra-productivity and ultimate-procrastination-preventing trick. Between courses endless stream from HackerNews and blog feeds. And of course don't forget to check newsletters you are subscribed to.
