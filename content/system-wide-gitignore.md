@@ -5,7 +5,7 @@ Category: Tech
 Tags: #git, #gitignore
 Slug: global-gitignore
 Author: filipgorczynski
-Status: draft
+Status: published
 Summary: From time to time I see code editors or IDEs settings pushed to GitHub repositiories. Sometimes they're put there intentionally - and that's fine. But more often they're not. So how can we preven't ourselves from putting all IDEs and editors into every projects `.gitignore`?
 
 From time to time I see code editors or IDEs project settings pushed to GitHub repositiories. Sometimes they're put there intentionally - and that's fine. But more often they're not. So how can we preven't ourselves from putting all IDEs and editors into every projects `.gitignore`?
