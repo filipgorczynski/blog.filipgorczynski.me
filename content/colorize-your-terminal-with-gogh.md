@@ -2,7 +2,7 @@ Title: Colorize your terminal with Gogh
 Date: 2021-05-13 12:12
 Modified: 2021-05-13 12:12
 Category: Notes
-Tags: base16, color, gogh, palette, scheme, terminal, theme
+Tags: #base16, #color, #gogh, #palette, #scheme, #terminal, #theme
 Slug: colorize-your-terminal-with-gogh
 Author: filipgorczynski
 Status: published
