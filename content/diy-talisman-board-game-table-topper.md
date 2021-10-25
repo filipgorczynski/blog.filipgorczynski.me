@@ -12,8 +12,8 @@ My habit of collecting books lately switched to habit of collecting board and ca
 
 I've immersed so deep I've decided to build table topper for base Talisman game with four board expansions: The City, The Woodland, The Highland and The Dungeon. Smaller expansions does not require bigger space. This way I would like to share my personal project. It's the first approach so it's not perfect, but still - I'm really proud of it. The topper is foldable and pretty heavy.
 
-![Empty table topper](/images/post/2021/10/25/talisman_table_topper_empty.jpg)
+![Empty table topper](/images/post/2021/10/25/talisman_table_topper_empty_small.jpg)
 
-![Table topper with Talisman and four board expansions](/images/post/2021/10/25/talisman_table_topper_game.jpg)
+![Table topper with Talisman and four board expansions](/images/post/2021/10/25/talisman_table_topper_game_small.jpg)
 
 Can't wait to start the game early enough to be able to travel all the dungeons and forests :)
