@@ -76,11 +76,11 @@ DEFAULT_PAGINATION = 10
 PLUGIN_PATHS = ['/home/filip/src/Vendors/pelican-plugins']
 PLUGINS = [
     'pelican_gist',
-    'pelican-cover-image',
+    # 'pelican-cover-image',
     'metadataparsing',
     'pelican_htmlmin',
-    'related_posts',
-    'post_stats',
+    # 'related_posts',
+    # 'post_stats',
     # 'i18n_subsites',
 ]
 
