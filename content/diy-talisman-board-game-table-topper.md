@@ -6,6 +6,10 @@ Tags: #life, #talisman, #diy, #table-topper, #board-game
 Slug: diy-talisman-board-game-table-topper
 Author: filipgorczynski
 Status: published
+meta_og_title: DIY - Talisman Board game table topper
+meta_og_description: My habit of collecting books lately switched to habit of collecting board and card games. I've got immersed into Talisman (mainly) and few others.
+meta_og_url: https://blog.filipgorczynski.me/2021/10/diy-talisman-board-game-table-topper/
+meta_og_image: [https://](https://blog.filipgorczynski.me/images/post/2021/10/25/talisman_table_topper_empty_small.jpg)
 Summary: My habit of collecting books lately switched to habit of collecting board and card games. I've got immersed into Talisman (mainly) and few others.
 
 My habit of collecting books lately switched to habit of collecting board and card games. I've got immersed into Talisman (mainly) and few others.

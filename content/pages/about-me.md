@@ -21,6 +21,7 @@ I'm currently working for Canadian automotive company Unhaggle as a Full Stack E
 
 Short career highlights:
 
-* Full Stack Engineer at Unhaggle Inc. (2019-present)
-* Full Stack Web Developer at STX Next (2015-2018)
-* PHP develper - just no, never again
+- Junior Game Developer at Omnigame ApS (2021.10-present)
+- Full Stack Engineer at Unhaggle Inc. (2019-2021.09)
+- Full Stack Web Developer at STX Next (2015-2018)
+- PHP develper - just no, never again
