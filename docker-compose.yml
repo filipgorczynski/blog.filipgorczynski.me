@@ -1,11 +1,11 @@
-version: '3.1'
+version: '3.8'
 
 services:
   python:
-    image: python:3.9.5-slim-buster
+    image: python:3.9.9-slim-buster
     container_name: pelican
     volumes:
+      - ${PWD}/output:/workspace/output
     environment:
       - PUID=1000
       - PGID=1000
-

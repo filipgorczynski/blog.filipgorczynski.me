@@ -1,4 +1,7 @@
 venv/
-resources/
+scratchpads/
+scratchpads/
+archive/
+drafts/
 docs/
 .vscode/
