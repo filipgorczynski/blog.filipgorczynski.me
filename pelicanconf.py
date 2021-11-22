@@ -77,7 +77,7 @@ PLUGIN_PATHS = ['/home/filip/src/Vendors/pelican-plugins']
 PLUGINS = [
     'pelican_gist',
     # 'pelican-cover-image',
-    'extended_meta',
+    # 'extended_meta',
     'metadataparsing',
     'pelican_htmlmin',
     # 'related_posts',

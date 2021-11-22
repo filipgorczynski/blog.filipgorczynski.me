@@ -42,7 +42,7 @@ pandoc==1.0.2
 parso==0.5.1
 pbr==5.4.2
 pdfkit
-pelican==4.47.1
+pelican==4.7.1
 pelican-gist==0.3.4
 pelican-htmlmin==2.0.0
 pelican-metadataparsing==0.1.0
