@@ -18,4 +18,4 @@ Through all those years as a software developer I've seen others who were able t
 
 Without further waiting for New Year's resolutions, I'll do my best to make a habit of everyday touch typing practice. The goal will be to relearn muscle memory and improve my typing speed and decrease number of typos.
 
-![2021-12-01 - 10FastFinfgers result](/images/post/2021/12/1_58_311_289_22_56_4.png)
+![2021-12-01 - 10FastFinfgers result - my way of writing, the wrong one](/images/post/2021/12/1_58_311_289_22_56_4.png)
