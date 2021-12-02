@@ -6,6 +6,6 @@ Status: draft
 
 A curated list of my wish list
 
-- Gloomhaven + dodatek Szczęki lwa
-- Windows 10 Pro
+- Gloomhaven + "Szczęki lwa" expansion
+- Windows 10 Pro (yeah, for gaming)
 -
