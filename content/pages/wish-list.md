@@ -2,10 +2,93 @@ Title: Wish list
 Date: 2021-11-22 19:40
 Modified: 2021-11-22 19:40
 Slug: wish-list
-Status: draft
+Status: published
 
-A curated list of my wish list
+A curated list of my wish list:
 
-- Gloomhaven + "Szczęki lwa" expansion
+- Warhammer 40,000
+    - Command Edition
+    - Space Marines
+        - Assault Squad
+        - Centurion Assault Squad
+        - Company Command
+        - Devastator Squad
+        - Hammerfall Bunker
+        - Hellblasters
+        - Primaris Infiltrators
+        - Primaris Intercessors
+        - Primaris Reivers
+        - Primaris Repulsor Executioner
+        - Scouts With Sniper Rifles
+        - Terminator Assault Squad
+        - Thunderfire Cannon
+        - Vanguard Veteran Squad
+        - Venerable Dreadnought
+        - Battleforce
+            - Interdiction Force
+            - Shieldbreaker Strike Force
+    - Kill Team
+        - Chalnath
+        - Octarius
+        - Pariah Nexus
+    - Necromunda
+        - Hive War
+    - Codex Adepta Sororitas
+- (Board) Games
+    - Carcassonne BIG BOX Podstawa + 11 dodatków
+    - Gloomhaven "Szczęki lwa"
+    - Stworze Odrodzenie
+    - Zakazana Wyspa
+    - Zombicide 2 edycja
+    - Zombicide: Zielona Horda
+    - Zombicide: Czarna Plaga
+    - Zombicide: Wulfsburg
+    - Zombicide: Kompani i Wrogowie
+    - Zombicide: Najeźdźca
+    - Zombicide: Najeźdźca - Tajne Operacje
+    - Zombicide: Nie zazna spokoju, kto przeklęty
+    - Zombicide: Zombie Bosses
+    - Posiadłość Szaleństwa – druga edycja
+    - T.I.M.E Stories (edycja polska)
+    - Rebel Descent: Legends of the Dark (edycja polska)
+    - Doom (Polish edition)
+    - Horror W Arkham, 3 Edycja
+    - Blackout Hongkong (Polish Edition))
+    - Władca Pierścieni: Podróże Przez Śródziemie
+    - Nemesis (Polish edition)
+    - Bloodborne (board game, Polish edition)
+    - Blood Rage
+    - Podręcznik główny Kult: Boskość Utracona
+- Kingston 480GB 2,5" SATA SSD A400
 - Windows 10 Pro (yeah, for gaming)
--
+- Play
+    - Gamemaster XPS Scenery Foam Booster Pack
+    - Gamemaster Wilderness & Woodland Terrain Kit
+    - Gamemaster Ruins & Cliffs Terrain Kit
+    - Gamemaster Desert & Arid Wastes Terrain Kit
+    - Gamemaster Snow & Tundra Terrain Kit
+    - Gamemaster Dungeons & Caverns Core Set
+    - Army Painter Primer Gamemaster Matt Sealer 300ml
+    - Green Stuff Brush Soap - Cleaner and Preserver
+    - Farby Citadel: Aggaros Dunes, Apothecary White, Baneblade Brown, Bestigor Flesh, Blue Horror, Brass Scorpion, Cadian Fleshtone, Castellax Bronze, Celestra Grey, Changeling Pink, Creed Camo, Daemonette Hide, Dark Reaper, Darkoath Flesh, Dawnstone, Deathclaw Brown, Dechala Lilac, Deepkin Flesh, Dorn Yellow, Dryad Bark, Eldar Flesh, Emperor's Children, Flayed One Flesh, Fulgrim Pink, Gauss Blaster Green, Gehenna's Gold, Gore-Grunta Fur, Gorthor Brown, Grey Seer Primer, Guilliman Flesh, Hashut Copper, Hexos Palesun, Ionrach Skin, Ironbreaker, Iyanden Yellow, Kakophoni Purple, Knight-Questor Flesh, Lakier Citadel Technical Stormshield, Longbeard Grey, Loren Forest, Lucius Lilac, Magos Purple, Necron Compound, Nurgling Green, Ogryn Camo, Pallid Wych Flesh, Pink Horror, Reikland Fleshshade Gloss, Sigmarite, Skavenblight Dinge, Skullcrusher Brass, Slaanesh Grey, Sons of Horus Green, Squig Orange, Straken Green, Sybarite Green, Sycorax Bronze, Tau Light Ochre, Terminatus Stone, Terradon Turquoise, Troll Slayer Orange, Tyrant Skull, Verminlord Hide, Vulkan Green, Warpfiend Grey, Wild Rider Red, World Bearers Red, Wrack White, Wraithbone, XV-88
+- Xiaomi Amazfit T-Rex Pro Smartwatch (black)
+- "Multitool Leatherman Surge NEW Black" or "Multitool Leatherman Charge TTi Plus"
+- "Ergohuman Plus Elite BS KMD31" or "Diablo X-One 2.0 Normal Size: Czarno-Niebieski" or "Diablo X-Player 2.0 Materiałowy King Size: Frost Black"
+- Books
+    - [Ekonomia dla każdego [oprawa twarda]](https://www.fijor.com/ksiazki/ekonomia-dla-kazdego-2/)
+    - [Elementarz ekonomii – zwięzłe omówienie podstawowych reguł i doktryn](https://www.fijor.com/ksiazki/elementarz-ekonomii-zwiezle-omowienie-podstawowych-regul-i-doktryn/)
+    - [Księga dobrych praktyk najlepiej zorganizowanych polskich firm](https://www.fijor.com/ksiazki/ksiega-dobrych-praktyk/)
+    - [Mapy sensu: Architektura przekonań](https://www.fijor.com/ksiazki/mapy-sensu/)
+    - [Metody zdobywania klientów czyli jak osiągnąć sukces w sprzedaży](https://www.fijor.com/ksiazki/metody-zdobywania-klientow-czyli-jak-osiagnac-sukces-w-sprzedazy/)
+    - [Postęp. Dziesięć powodów, by z optymizmem patrzeć w przyszłość](https://www.fijor.com/ksiazki/postep-dziesiec-powodow-by-z-optymizmem-patrzec-w-przyszlosc/)
+    - [Przedsiębiorca idei](https://www.fijor.com/ksiazki/przedsiebiorca-idei/)
+    - [Siła woli. Fundament życiowego sukcesu](https://www.fijor.com/ksiazki/sila-woli/)
+    - "Game Engine Architecture", Third Edition - Jason Gregory
+    - "Tracy Fullerton Game Design Workshop A Playcent" - Tracy Fullerton
+    - "Gamedev: 10 Steps to Making Your First Game" - Wlad Marhulets
+    - "Beginning Game Programming: A GameDev.net Collection" - Hattan John
+    - "Advanced Game Programming: A GameDev.net Collection" - Hattan John
+    - "You Need a Budget: The Proven System for Breaking the Paycheck-to-Paycheck Cycle, Getting Out of Debt, and Living the Life You Want"
+- CRKT Foresight
+- Cold Steel Recon 1 Spear Point S35VN
+- Ka-Bar USMC The Legend
