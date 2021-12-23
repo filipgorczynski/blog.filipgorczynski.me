@@ -63,6 +63,7 @@ A curated list of my wish list:
     - [Gra Elekt - dodatek Intrygi](https://whatthefrog.pl/produkt/intrygi/)
     - [Gra Elekt - dodatek Powołanie](https://whatthefrog.pl/produkt/dodatek-powolanie/)
     - [Gra Elekt - dodatek Spiż](https://whatthefrog.pl/produkt/dodatek-spiz/)
+- Samsung 500GB M.2 PCIe NVMe 970 EVO Plus
 - Kingston 480GB 2,5" SATA SSD A400
 - Windows 10 Pro (yeah, for gaming)
 - Play
