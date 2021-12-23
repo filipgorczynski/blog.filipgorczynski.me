@@ -60,10 +60,10 @@ A curated list of my wish list:
     - Blood Rage
     - Podręcznik główny Kult: Boskość Utracona
     - [Mata do gry – Upiory](https://whatthefrog.pl/produkt/mata-do-gry-2/)
-    - [Gra Elekt - odatek ARTEFAKTY](https://whatthefrog.pl/produkt/artefakty/)
-    - [Gra Elekt - dodatek INTRYGI](https://whatthefrog.pl/produkt/intrygi/)
-    - [Gra Elekt - Dodatek Powołanie](https://whatthefrog.pl/produkt/dodatek-powolanie/)
-    - [Gra Elekt - dodatek SPIŻ](https://whatthefrog.pl/produkt/dodatek-spiz/)
+    - [Gra Elekt - dodatek Artefakty](https://whatthefrog.pl/produkt/artefakty/)
+    - [Gra Elekt - dodatek Intrygi](https://whatthefrog.pl/produkt/intrygi/)
+    - [Gra Elekt - dodatek Powołanie](https://whatthefrog.pl/produkt/dodatek-powolanie/)
+    - [Gra Elekt - dodatek Spiż](https://whatthefrog.pl/produkt/dodatek-spiz/)
 - Kingston 480GB 2,5" SATA SSD A400
 - Windows 10 Pro (yeah, for gaming)
 - Play
