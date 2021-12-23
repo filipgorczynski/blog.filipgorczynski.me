@@ -35,7 +35,6 @@ A curated list of my wish list:
         - Hive War
     - Codex Adepta Sororitas
 - (Board) Games
-    - Carcassonne BIG BOX Podstawa + 11 dodatków
     - Gloomhaven "Szczęki lwa"
     - Stworze Odrodzenie
     - Zakazana Wyspa
@@ -48,15 +47,15 @@ A curated list of my wish list:
     - Zombicide: Najeźdźca - Tajne Operacje
     - Zombicide: Nie zazna spokoju, kto przeklęty
     - Zombicide: Zombie Bosses
-    - Posiadłość Szaleństwa – druga edycja
-    - T.I.M.E Stories (edycja polska)
-    - Rebel Descent: Legends of the Dark (edycja polska)
+    - Posiadłość Szaleństwa – 2nd Edition
+    - T.I.M.E Stories (Polish Edition)
+    - Descent: Legendy Mroku
     - Doom (Polish edition)
     - Horror W Arkham, 3 Edycja
-    - Blackout Hongkong (Polish Edition))
+    - Blackout Hongkong (Polish Edition)
     - Władca Pierścieni: Podróże Przez Śródziemie
     - Nemesis (Polish edition)
-    - Bloodborne (board game, Polish edition)
+    - Bloodborne (Polish edition)
     - Blood Rage
     - Podręcznik główny Kult: Boskość Utracona
     - [Mata do gry – Upiory](https://whatthefrog.pl/produkt/mata-do-gry-2/)
@@ -75,7 +74,7 @@ A curated list of my wish list:
     - Gamemaster Dungeons & Caverns Core Set
     - Army Painter Primer Gamemaster Matt Sealer 300ml
     - Green Stuff Brush Soap - Cleaner and Preserver
-    - Farby Citadel: Aggaros Dunes, Apothecary White, Balor Brown, Baneblade, Baneblade Brown, Bestigor Flesh, Blue Horror, Brass Scorpion, Cadian Fleshtone, Calestra Grey, Castellax Bronze, Catachan Fleshtone, Celestra Grey, Changeling Pink, Creed Camo, Daemonette Hide, Dark Reaper, Darkoath Flesh, Dawnstone, Deathclaw Brown, Dechala Lilac, Deepkin Flesh, Dorn Yellow, Dryad Bark, Eldar Flesh, Emperor's Children, Flayed One Flesh, Fulgrim Pink, Gauss Blaster Green, Gehenna's Gold, Gore-Grunta Fur, Gorthor Brown, Grey Seer Primer, Guilliman Flesh, Hashut Copper, Hexos Palesun, Ionrach Skin, Ironbreaker, Iyanden Yellow, Kakophoni Purple, Knight-Questor Flesh, Lakier Citadel Technical Stormshield, Longbeard Grey, Loren Forest, Lucius Lilac, Magos Purple, Necron Compound, Nurgling Green, Ogryn Camo, Pallid Wych Flesh, Pink Horror, Rakarth Flesh, Ratskin Flesh, Reikland Fleshshade Gloss, Sigmarite, Skavenblight Dinge, Skullcrusher Brass, Slaanesh Grey, Sons of Horus Green, Squig Orange, Straken Green, Sybarite Green, Sycorax Bronze, Tallarn Sand, Tau Light Ochre, Terminatus Stone, Terradon Turquoise, The Fang, Troll Slayer Orange, Troll Slayer Yellow, Tyrant Skull, Verminlord Hide, Vulkan Green, Warpfiend Grey, Wild Rider Red, World Bearers Red, Wrack White, Wraithbone, XV-88, Zamesi Desert
+    - Farby Citadel: Aggaros Dunes, Apothecary White, Balor Brown, Baneblade Brown, Bestigor Flesh, Blue Horror, Brass Scorpion, Cadian Fleshtone, Celestra Grey, Castellax Bronze, Catachan Fleshtone, Changeling Pink, Creed Camo, Daemonette Hide, Dark Reaper, Darkoath Flesh, Dawnstone, Deathclaw Brown, Dechala Lilac, Deepkin Flesh, Dorn Yellow, Dryad Bark, Eldar Flesh, Emperor's Children, Flayed One Flesh, Fulgrim Pink, Gauss Blaster Green, Gehenna's Gold, Gore-Grunta Fur, Gorthor Brown, Guilliman Flesh, Hashut Copper, Hexos Palesun, Ionrach Skin, Ironbreaker, Iyanden Yellow, Kakophoni Purple, Knight-Questor Flesh, Technical Stormshield, Longbeard Grey, Loren Forest, Lucius Lilac, Magos Purple, Necron Compound, Nurgling Green, Ogryn Camo, Pallid Wych Flesh, Pink Horror, Rakarth Flesh, Ratskin Flesh, Reikland Fleshshade Gloss, Sigmarite, Skavenblight Dinge, Skullcrusher Brass, Slaanesh Grey, Sons of Horus Green, Squig Orange, Straken Green, Sybarite Green, Sycorax Bronze, Tallarn Sand, Tau Light Ochre, Terminatus Stone, Terradon Turquoise, The Fang, Troll Slayer Orange, Tyrant Skull, Verminlord Hide, Vulkan Green, Warpfiend Grey, Wild Rider Red, World Bearers Red, Wrack White, Wraithbone, XV-88, Zamesi Desert
 - Xiaomi Amazfit T-Rex Pro Smartwatch (black)
 - "Multitool Leatherman Surge NEW Black" or "Multitool Leatherman Charge TTi Plus"
 - "Ergohuman Plus Elite BS KMD31" or "Diablo X-One 2.0 Normal Size: Czarno-Niebieski" or "Diablo X-Player 2.0 Materiałowy King Size: Frost Black"
