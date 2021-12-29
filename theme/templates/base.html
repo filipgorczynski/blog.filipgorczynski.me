@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8" />
   <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
-  <meta name="description" content="{% block description %}{{ SITE_DESCTIPTION }}{% endblock %}" />
-  <meta name="author" content="{{ AUTHOR_NAME }}">
+  <meta name="description" content="{% block description %}{{ SITEDESCRIPTION }}{% endblock %}" />
+  <meta name="author" content="{{ AUTHOR }}">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
@@ -25,12 +25,10 @@
   {#% include "partial/ga.html" %#}
   {#% include 'partial/twitter.html' %#}
   {% include "partial/og.html" %}
-  <!-- <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/main.css"> -->
   <link rel="stylesheet" type="text/css" href="/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" type="text/css"/> {#{{ SITEURL }} #}
   <!-- {#% if GOOGLE_TAG_MANAGER %}
     {% include "partial/gtm.html" %}
   {% endif %#} -->
-  <meta name="facebook:" />
 </head>
 <body>
   <div class="page-wrapper">

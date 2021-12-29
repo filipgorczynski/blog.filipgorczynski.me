@@ -25,5 +25,5 @@ function node-mode-off() {
   PATH=$__OLD_PATH
 }
 
-# node-mode  # Uncomment to enable node-mode by default
+# node-mode # Uncomment to enable node-mode by default
 ```
