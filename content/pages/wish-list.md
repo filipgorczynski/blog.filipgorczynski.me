@@ -66,6 +66,8 @@ A curated list of my wish list:
 - Samsung 500GB M.2 PCIe NVMe 970 EVO Plus
 - Kingston 480GB 2,5" SATA SSD A400
 - Windows 10 Pro (yeah, for gaming)
+- SPC Gear LIX Plus Onyx White
+- ROYAL KLUDGE RK61 61 Keys Wireless 60% Mechanical Gaming Keyboard - Hot Swappable Brown Switch
 - Play
     - Gamemaster XPS Scenery Foam Booster Pack
     - Gamemaster Wilderness & Woodland Terrain Kit
