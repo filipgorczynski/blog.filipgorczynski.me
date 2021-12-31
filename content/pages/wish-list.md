@@ -77,7 +77,7 @@ A curated list of my wish list:
     - Gamemaster Dungeons & Caverns Core Set
     - Army Painter Primer Gamemaster Matt Sealer 300ml
     - Green Stuff Brush Soap - Cleaner and Preserver
-    - Farby Citadel: Aggaros Dunes, Creed Camo, Darkoath Flesh, Gore-Grunta Fur, Guilliman Flesh, Iyanden Yellow, Technical Stormshield, Lucius Lilac, Magos Purple, Terradon Turquoise, Vulkan Green
+    - Farby Citadel: Aggaros Dunes, Creed Camo, Darkoath Flesh, Gore-Grunta Fur, Guilliman Flesh, Iyanden Yellow, Technical Stormshield, Magos Purple, Terradon Turquoise
 - Xiaomi Amazfit T-Rex Pro Smartwatch (black)
 - "Multitool Leatherman Surge NEW Black" or "Multitool Leatherman Charge TTi Plus"
 - "Ergohuman Plus Elite BS KMD31" or "Diablo X-One 2.0 Normal Size: Czarno-Niebieski" or "Diablo X-Player 2.0 Materiałowy King Size: Frost Black"
