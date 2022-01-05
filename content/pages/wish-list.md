@@ -34,7 +34,21 @@ A "curated" list of my wish list:
     - Necromunda
         - Underhive
         - Hive War
-    - Codex Adepta Sororitas
+    - Codex: Adepta Sororitas
+    - Codex: Adeptus Mechanicus
+    - Codex: Astra Militarum
+    - Codex: Chaos Knights
+    - Codex: Chaos Space Marines
+    - Codex: Craftworlds
+    - Codex: Death Guard
+    - Codex: Drukhari
+    - Codex: Genestealer Cults
+    - Codex: Harlequins
+    - Codex: Orks
+    - Codex: T'au Empire
+    - Codex: Thousand Sons
+    - Codex: Tyranids
+
 - (Board) Games
     - Wiedźmin: Stary świat (edycja deluxe)
     - Statki, łupy, kościotrupy
