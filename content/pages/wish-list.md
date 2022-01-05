@@ -4,7 +4,7 @@ Modified: 2021-12-31 08:00:25
 Slug: wish-list
 Status: published
 
-A curated list of my wish list:
+A "curated" list of my wish list:
 
 - Warhammer 40,000
     - Command Edition
@@ -28,16 +28,18 @@ A curated list of my wish list:
             - Interdiction Force
             - Shieldbreaker Strike Force
     - Kill Team
-        - Chalnath
-        - Octarius
         - Pariah Nexus
+        - Octarius
+        - Chalnath
     - Necromunda
+        - Underhive
         - Hive War
     - Codex Adepta Sororitas
 - (Board) Games
+    - Wiedźmin: Stary świat (edycja deluxe)
+    - Statki, łupy, kościotrupy
     - Gloomhaven "Szczęki lwa"
     - Stworze Odrodzenie
-    - Zakazana Wyspa
     - Zombicide 2 edycja
     - Zombicide: Zielona Horda
     - Zombicide: Czarna Plaga
@@ -47,29 +49,35 @@ A curated list of my wish list:
     - Zombicide: Najeźdźca - Tajne Operacje
     - Zombicide: Nie zazna spokoju, kto przeklęty
     - Zombicide: Zombie Bosses
+    - Sanctum (Polish edition)
+    - Pradawny las
     - Posiadłość Szaleństwa – 2nd Edition
-    - T.I.M.E Stories (Polish Edition)
     - Descent: Legendy Mroku
     - Doom (Polish edition)
     - Horror W Arkham, 3 Edycja
-    - Blackout Hongkong (Polish Edition)
-    - Władca Pierścieni: Podróże Przez Śródziemie
     - Nemesis (Polish edition)
     - Bloodborne (Polish edition)
-    - Blood Rage
     - Podręcznik główny Kult: Boskość Utracona
     - [Mata do gry – Upiory](https://whatthefrog.pl/produkt/mata-do-gry-2/)
-    - [Gra Elekt - dodatek Artefakty](https://whatthefrog.pl/produkt/artefakty/)
-    - [Gra Elekt - dodatek Intrygi](https://whatthefrog.pl/produkt/intrygi/)
-    - [Gra Elekt - dodatek Powołanie](https://whatthefrog.pl/produkt/dodatek-powolanie/)
-    - [Gra Elekt - dodatek Spiż](https://whatthefrog.pl/produkt/dodatek-spiz/)
+    - Century: Korzenny Szlak + Cuda Wschodu + Nowy Świat
+    - Age of Sigmar Core Book 2021
+    - Brzdęk! Klątwa Mumii
+    - Brzdęk! Mokra robota
+    - Karciane Podziemia: Las Cieni
+    - Aon'S End: Wieczna Wojna
+    - Kowale losu
+    - Pradawny las
+    - Summoner Wars (2nd edition): Master Set
+    - Summoner Wars: Przymierza Master Set
+    - Obcy RPG - zestaw startowy
 - Samsung 500GB M.2 PCIe NVMe 970 EVO Plus
 - Kingston 480GB 2,5" SATA SSD A400
 - Windows 10 Pro (yeah, for gaming)
 - Huion Kamvas Pro 24
 - SPC Gear LIX Plus Onyx White
 - ROYAL KLUDGE RK61 61 Keys Wireless 60% Mechanical Gaming Keyboard - Hot Swappable Brown Switch
-- Play
+- Epson EcoTank L1110
+- Terrains building & miniatures painting
     - Gamemaster XPS Scenery Foam Booster Pack
     - Gamemaster Wilderness & Woodland Terrain Kit
     - Gamemaster Ruins & Cliffs Terrain Kit
@@ -79,10 +87,52 @@ A curated list of my wish list:
     - Army Painter Primer Gamemaster Matt Sealer 300ml
     - Green Stuff Brush Soap - Cleaner and Preserver
     - Farby Citadel: Aggaros Dunes, Creed Camo, Darkoath Flesh, Gore-Grunta Fur, Guilliman Flesh, Iyanden Yellow, Technical Stormshield, Magos Purple, Terradon Turquoise
+    - Farby Scale75
+        - Zestaw Scale75 Basic Colors
+        - Zestaw Scale75 Basic Colors 2
+        - Zestaw Scale75 Blood and Fire
+        - Zestaw Scale75 Creatures From Hell
+        - Zestaw Scale75 Essentials
+        - Zestaw Scale75 Essentials 2
+        - Zestaw Scale75 Inktensity
+        - Zestaw Scale75 Inktensity 2
+        - Zestaw Scale75 Metal'n Alchemy Copper Series
+        - Zestaw Scale75 Metal'n Alchemy Golden Series
+        - Zestaw Scale75 Metal'n Alchemy Steel Series
+        - Zestaw Scale75 Orcs and Goblins
+        - Zestaw Scale75 Shades of Doom
+        - Zestaw Scale75 Unnatural Flesh
+        - Zestaw Scale75 Velvet Skin
+        - Zestaw Scale75 Wood and Leather
+    - Farby Vallejo
+        - Vallejo Black & White (Paint Set)
+        - Vallejo Champions of the Realm (Paint Set)
+        - Vallejo Defenders of the Wild (Paint Set)
+        - Vallejo Earth Tones (Paint Set)
+        - Vallejo Elves & Gnomes (Paint Set)
+        - Vallejo Face & Skin Tones (Paint Set)
+        - Vallejo Game Color Auxiliary Set (Paint Set)
+        - Vallejo Game Color Extra Opaque Colors (Paint Set)
+        - Vallejo Game Color Imperial Purple (Paint Set)
+        - Vallejo Game Color Introduction (Paint Set)
+        - Vallejo Game Color Leather & Metal (Paint Set)
+        - Vallejo Game Color Non Death Chaos (Paint Set)
+        - Vallejo Game Color Non Metallic Metal (Paint Set)
+        - Vallejo Game Color Skin Tone (Paint Set)
+        - Vallejo Game Color Special Effects Set (Paint Set)
+        - Vallejo Game Color Specialist (Paint Set)
+        - Vallejo Game Color Washes (Paint Set)
+        - Vallejo Masters of the Arcane (Paint Set)
+        - Vallejo Metallics (Paint Set)
+        - Vallejo Old & New Wood Effects (Paint Set)
+        - Vallejo Transparent Colors (Paint Set)
+        - Vallejo Wargame Special (Paint Set)
+        - Vallejo Wood & Leather (Paint Set)
 - Xiaomi Amazfit T-Rex Pro Smartwatch (black)
 - "Multitool Leatherman Surge NEW Black" or "Multitool Leatherman Charge TTi Plus"
 - "Ergohuman Plus Elite BS KMD31" or "Diablo X-One 2.0 Normal Size: Czarno-Niebieski" or "Diablo X-Player 2.0 Materiałowy King Size: Frost Black"
 - Books
+    - Andy Hunt - Pragmatic Thinking and Learning
     - [Ekonomia dla każdego [oprawa twarda]](https://www.fijor.com/ksiazki/ekonomia-dla-kazdego-2/)
     - [Elementarz ekonomii – zwięzłe omówienie podstawowych reguł i doktryn](https://www.fijor.com/ksiazki/elementarz-ekonomii-zwiezle-omowienie-podstawowych-regul-i-doktryn/)
     - [Księga dobrych praktyk najlepiej zorganizowanych polskich firm](https://www.fijor.com/ksiazki/ksiega-dobrych-praktyk/)
