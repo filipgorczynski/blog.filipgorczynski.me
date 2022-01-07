@@ -64,6 +64,7 @@ A "curated" list of my wish list:
 - (Board) Games
     - Wiedźmin: Stary świat (edycja deluxe)
     - Statki, łupy, kościotrupy
+    - Obcy RPG - zestaw startowy
     - Gloomhaven "Szczęki lwa"
     - Stworze Odrodzenie
     - Zombicide 2 edycja
@@ -78,15 +79,14 @@ A "curated" list of my wish list:
     - Sanctum (Polish edition)
     - Pradawny las
     - Posiadłość Szaleństwa – 2nd Edition
-    - Descent: Legendy Mroku
     - Doom (Polish edition)
-    - Horror W Arkham, 3 Edycja
+    - Horror W Arkham LCG (Latest edition)
     - Nemesis (Polish edition)
     - Bloodborne (Polish edition)
     - Podręcznik główny Kult: Boskość Utracona
     - [Mata do gry – Upiory](https://whatthefrog.pl/produkt/mata-do-gry-2/)
     - Century: Korzenny Szlak + Cuda Wschodu + Nowy Świat
-    - Age of Sigmar Core Book 2021
+    - Descent: Legendy Mroku
     - Brzdęk! Klątwa Mumii
     - Brzdęk! Mokra robota
     - Karciane Podziemia: Las Cieni
@@ -96,7 +96,6 @@ A "curated" list of my wish list:
     - Summoner Wars (2nd edition): Master Set
     - Summoner Wars: Przymierza Master Set
     - Sword And Sorcery: Nieśmiertelne Dusze
-    - Obcy RPG - zestaw startowy
 - Samsung 500GB M.2 PCIe NVMe 970 EVO Plus
 - Kingston 480GB 2,5" SATA SSD A400
 - Windows 10 Pro (yeah, for gaming)
