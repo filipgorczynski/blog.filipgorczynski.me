@@ -83,6 +83,7 @@ A "curated" list of my wish list:
     - Pradawny las
     - Summoner Wars (2nd edition): Master Set
     - Summoner Wars: Przymierza Master Set
+    - Sword And Sorcery: Nieśmiertelne Dusze
     - Obcy RPG - zestaw startowy
 - Samsung 500GB M.2 PCIe NVMe 970 EVO Plus
 - Kingston 480GB 2,5" SATA SSD A400
