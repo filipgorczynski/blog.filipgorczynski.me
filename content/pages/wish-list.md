@@ -27,6 +27,18 @@ A "curated" list of my wish list:
         - Battleforce
             - Interdiction Force
             - Shieldbreaker Strike Force
+    - Combat Patrol (box sets)
+        - Space Marines
+        - Necrons
+        - Deathwatch
+        - Adepta Sororitas
+        - Black Templars
+        - Adeptus Mechanicus
+        - Death Guard
+        - Blood Angels
+        - Dark Angels
+        - Orks
+        - Space Wolves
     - Kill Team
         - Pariah Nexus
         - Octarius
