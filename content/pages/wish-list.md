@@ -7,7 +7,6 @@ Status: published
 A "curated" list of my wish list:
 
 - Warhammer 40,000
-    - Command Edition
     - Space Marines
         - Assault Squad
         - Centurion Assault Squad
@@ -30,14 +29,14 @@ A "curated" list of my wish list:
     - Combat Patrol (box sets)
         - Space Marines
         - Necrons
-        - Deathwatch
         - Adepta Sororitas
-        - Black Templars
+        - Deathwatch
         - Adeptus Mechanicus
+        - Black Templars
         - Death Guard
+        - Orks
         - Blood Angels
         - Dark Angels
-        - Orks
         - Space Wolves
     - Kill Team
         - Pariah Nexus
