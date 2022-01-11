@@ -80,7 +80,7 @@ PLUGINS = [
     # 'pelican-cover-image',
     # 'extended_meta',
     'metadataparsing',
-    'pelican_htmlmin',
+    # 'pelican_htmlmin',
     # 'related_posts',
     # 'post_stats',
     # 'i18n_subsites',
