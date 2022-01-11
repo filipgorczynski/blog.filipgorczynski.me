@@ -19,9 +19,9 @@ jobs:
         with:
           requirement_files: requirements.txt
 
-      - name: 🌱 Restore pip download cache
-        uses: syphar/restore-pip-download-cache@v1
-        if: steps.cache-virtualenv.outputs.cache-hit != 'true'
+      # - name: 🌱 Restore pip download cache
+      #   uses: syphar/restore-pip-download-cache@v1
+      #   if: steps.cache-virtualenv.outputs.cache-hit != 'true'
 
         # the package installation will only be executed when the
         # requirements-files have changed.
