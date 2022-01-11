@@ -14,11 +14,11 @@ jobs:
           python-version: 3.8
 
       - name: ♻️ Create Python virtualenv
-        run: |
-          pip install --upgrade pip
-          python3.8 -m venv venv
-          source venv/bin/activate
-        # uses: syphar/restore-virtualenv@v1.2
+      #   run: |
+      #     pip install --upgrade pip
+      #     python3.8 -m venv venv
+      #     source venv/bin/activate
+        uses: syphar/restore-virtualenv@v1.2
         # id: cache-virtualenv
         # with:
         #   requirement_files: requirements.txt
