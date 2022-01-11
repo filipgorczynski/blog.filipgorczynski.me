@@ -36,12 +36,12 @@ jobs:
       # - name: 🐦 Pelican Simple Build
       #   uses: bimbimprasetyoafif/pelican-simple@v1
 
-      # - name: 👷 Build output
-      #   run: make html && make publish
+      - name: 👷 Build output
+        run: make html && make publish
 
-      # - name: 📂 FTP Deploy
-      #   uses: SamKirkland/FTP-Deploy-Action@4.2.0
-      #   with:
-      #     server: ${{ secrets.ftp_host }}
-      #     username: ${{ secrets.ftp_username }}
-      #     password: ${{ secrets.ftp_password }}
+      - name: 📂 FTP Deploy
+        uses: SamKirkland/FTP-Deploy-Action@4.2.0
+        with:
+          server: ${{ secrets.ftp_host }}
+          username: ${{ secrets.ftp_username }}
+          password: ${{ secrets.ftp_password }}
