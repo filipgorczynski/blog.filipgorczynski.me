@@ -13,18 +13,19 @@ jobs:
       with:
         python-version: 3.8
 
-    - name: 🌱 Activate Python Virtual Environment
-      run: |
-        pip install --upgrade pip
-        python3.8 -m venv venv
-        source venv/bin/activate
-        echo "VIRTUAL ENV:" $VIRTUAL_ENV
-
     - name: 📦 Install dependencies
       uses: syphar/restore-virtualenv@v1.2
       id: cache-virtualenv
       with:
         requirement_files: requirements.txt
+
+    - uses: syphar/restore-pip-download-cache@v1
+      if: steps.cache-virtualenv.outputs.cache-hit != 'true'
+      
+      # the package installation will only be executed when the
+      # requirements-files have changed.
+    - run: pip install -r requirements.txt
+      if: steps.cache-virtualenv.outputs.cache-hit != 'true'
 
     - name: 👷 Build output
       run: make html && make publish
