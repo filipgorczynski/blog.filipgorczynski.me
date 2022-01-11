@@ -44,7 +44,7 @@ pbr==5.4.2
 pdfkit
 pelican
 pelican-gist
-pelican-htmlmin
+# pelican-htmlmin
 pelican-metadataparsing
 pelican-image-process
 pelican-youtube

@@ -81,6 +81,7 @@ PLUGINS = [
     # 'extended_meta',
     'metadataparsing',
     'pelican_htmlmin',
+    'htmlmin',
     # 'related_posts',
     # 'post_stats',
     # 'i18n_subsites',
