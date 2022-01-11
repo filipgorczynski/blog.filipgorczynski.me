@@ -23,10 +23,24 @@ A "curated" list of my wish list:
         - Thunderfire Cannon
         - Vanguard Veteran Squad
         - Venerable Dreadnought
-        - Battleforce
-            - Interdiction Force
-            - Shieldbreaker Strike Force
-    - Combat Patrol (box sets)
+    - Battleforce
+        - Space Marines Interdiction Force
+        - Space Marines Shieldbreaker Strike Force
+        - Necrons Worldscour Legion
+        - Necrons Eradication Legion
+        - Adepta Sororitas Purgatos Mission
+        - Adeptus Mechanicus Omnissiah's Talon
+        - Orks Killdakka Warband
+        - Battleforce Thousand Sons
+        - Grey Knights
+        - Adeptus Mechanicus
+        - Chaos Space Marines Decimation Warband
+        - Chaos Knights
+        - Astra Militarum Bastion Platoon
+        - Death Guard Plaguefester Warband
+        - T'au Empire Starpulse Cadre
+        - Tyranids Brood Swarm
+    - Combat Patrol
         - Space Marines
         - Necrons
         - Adepta Sororitas
@@ -39,9 +53,12 @@ A "curated" list of my wish list:
         - Dark Angels
         - Space Wolves
     - Kill Team
-        - Pariah Nexus
         - Octarius
+        - Pariah Nexus
         - Chalnath
+    - Battlezone (various)
+        - Ferratonic Furnace
+        - Manufactorum
     - Necromunda
         - Underhive
         - Hive War
