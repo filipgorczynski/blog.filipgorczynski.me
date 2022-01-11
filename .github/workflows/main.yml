@@ -29,8 +29,8 @@ jobs:
         run: pip install -r requirements.txt
         if: steps.cache-virtualenv.outputs.cache-hit != 'true'
 
-      - name: 🐦 Pelican Simple Build
-        uses: bimbimprasetyoafif/pelican-simple@v1
+      # - name: 🐦 Pelican Simple Build
+      #   uses: bimbimprasetyoafif/pelican-simple@v1
 
       # - name: 👷 Build output
       #   run: make html && make publish
