@@ -13,21 +13,25 @@ jobs:
         with:
           python-version: 3.8
 
-      - name: ♻️ Restore virtualenv
-        uses: syphar/restore-virtualenv@v1.2
-        id: cache-virtualenv
-        with:
-          requirement_files: requirements.txt
+      - name: ♻️ Create Python virtualenv
+        run: |
+          pip install --upgrade pip
+          python3.8 -m venv venv
+          source venv/bin/activate
+        # uses: syphar/restore-virtualenv@v1.2
+        # id: cache-virtualenv
+        # with:
+        #   requirement_files: requirements.txt
 
-      - name: 🌱 Restore pip download cache
-        uses: syphar/restore-pip-download-cache@v1
-        if: steps.cache-virtualenv.outputs.cache-hit != 'true'
+      # - name: 🌱 Restore pip download cache
+      #   uses: syphar/restore-pip-download-cache@v1
+      #   if: steps.cache-virtualenv.outputs.cache-hit != 'true'
 
-        # the package installation will only be executed when the
-        # requirements-files have changed.
+      #   # the package installation will only be executed when the
+      #   # requirements-files have changed.
       - name: 📦 Install Python dependencies
         run: pip install -r requirements.txt
-        if: steps.cache-virtualenv.outputs.cache-hit != 'true'
+      #   if: steps.cache-virtualenv.outputs.cache-hit != 'true'
 
       # - name: 🐦 Pelican Simple Build
       #   uses: bimbimprasetyoafif/pelican-simple@v1
