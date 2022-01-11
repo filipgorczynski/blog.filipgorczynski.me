@@ -31,13 +31,14 @@ A "curated" list of my wish list:
         - Adepta Sororitas Purgatos Mission
         - Adeptus Mechanicus Omnissiah's Talon
         - Orks Killdakka Warband
-        - Battleforce Thousand Sons
-        - Grey Knights
-        - Adeptus Mechanicus
-        - Chaos Space Marines Decimation Warband
-        - Chaos Knights
         - Astra Militarum Bastion Platoon
+        - Battleforce Thousand Sons
+        - Chaos Knights
+        - Chaos Space Marines Decimation Warband
+        - Chaos Space Marines Vengeance Warband
         - Death Guard Plaguefester Warband
+        - Drukhari Poisonblade Raiding Party
+        - Grey Knights
         - T'au Empire Starpulse Cadre
         - Tyranids Brood Swarm
     - Combat Patrol
