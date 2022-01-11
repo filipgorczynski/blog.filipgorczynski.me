@@ -1,4 +1,4 @@
-alabaster==0.7.12
+alabaster
 awesome-slugify==1.6.5
 amqp==2.5.1
 appdirs==1.4.3
