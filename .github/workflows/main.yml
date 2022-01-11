@@ -27,6 +27,7 @@ jobs:
       - name: 👷 Build output
         run: |
           make html && make publish
+          rm -rf .vscode
           rm -rf __pycache__
           rm -rf drafts
           rm -rf scratchpads
