@@ -14,7 +14,7 @@ W projekcie Vue wprowadźmy następujące zmiany:
 
 W pliku `App.vue`:
 
-https://gist.github.com/filipgorczynski/b0f3cb73529abfec37a906430e33d16b
+https:gist.github.com/filipgorczynski/b0f3cb73529abfec37a906430e33d16b
 
 W pliku `config/dev.env.js`:
 
