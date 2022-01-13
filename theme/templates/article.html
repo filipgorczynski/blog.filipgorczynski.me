@@ -4,6 +4,7 @@
 {% block description %}{{ article.summary|striptags }}{% endblock %}
 {% block og_title %}{{ article.title|striptags }} &ndash; {{ super() }}{% endblock %}
 {% block og_description %}{{ article.summary|striptags }}{% endblock %}
+{% block og_site_url %}{{ article.meta_url }}{% endblock %}
 {% if article.cover %}
   {% block og_image %}{{ article.cover }}{% endblock %}
 {% endif %}
