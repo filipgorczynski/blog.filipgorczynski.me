@@ -1,6 +1,6 @@
 {% extends 'base.html' %}
 
-{% block title %}{{ article.title|striptags }} &ndash; {{ super() }} - article.html{% endblock %}
+{% block title %}{{ article.title|striptags }} &ndash; {{ super() }}{% endblock %}
 {% block description %}{{ article.summary|striptags }}{% endblock %}
 {% block og_title %}{{ article.title|striptags }} &ndash; {{ super() }}{% endblock %}
 {% block og_description %}{{ article.summary|striptags }}{% endblock %}
