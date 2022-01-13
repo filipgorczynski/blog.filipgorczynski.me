@@ -12,6 +12,8 @@ meta_og_url: https://blog.filipgorczynski.me/2022/01/deploy-blog-changes-to-ftp-
 meta_og_image: https://blog.filipgorczynski.me/images/post/2022/01/photo-1556075798-4825dfaaf498.jpg
 Summary: This blog moved to Pelican Static Site Generator some time ago. One of the problems was automation of updates on FTP server when things are added or changed.
 
+![Photo by Yancy Min](https://blog.filipgorczynski.me/images/post/2022/01/photo-1556075798-4825dfaaf498.jpg)
+
 This blog moved to Pelican Static Site Generator some time ago. One of the problems was automation of updates on FTP server when things are added or changed.
 
 I decided to create some Docker image with Pelican pre-installed. That way I could call all pelican tasks on GNU Linux and Windows systems.
