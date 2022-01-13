@@ -77,7 +77,6 @@ DEFAULT_PAGINATION = 10
 PLUGIN_PATHS = ['/home/filip/src/Vendors/pelican-plugins']
 PLUGINS = [
     'pelican_gist',
-    # 'pelican-cover-image',
     # 'extended_meta',
     'metadataparsing',
     # 'pelican_htmlmin',

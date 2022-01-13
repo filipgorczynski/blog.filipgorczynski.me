@@ -2,13 +2,13 @@
 
 {% block title %}{{ article.title|striptags }} &ndash; {{ super() }}{% endblock %}
 {% block description %}{{ article.summary|striptags }}{% endblock %}
-{% block twitter_title %}{{ article.title|striptags }}{% endblock %}
-{% block twitter_description %}{{ article.meta_og_description|striptags }}{% endblock %}
-{% block og_title %}{{ article.meta_og_title|striptags }} &ndash; {{ super() }}{% endblock %}
+{% block og_title %}{{ article.title|striptags }} &ndash; {{ super() }}{% endblock %}
 {% block og_description %}{{ article.summary|striptags }}{% endblock %}
-{% if article.meta_og_image %}
-{% block og_image %}{{ article.meta_og_image }}{% endblock %}
+{% if article.covere %}
+{% block og_image %}{{ article.cover }}{% endblock %}
 {% endif %}
+{% block twitter_title %}{{ article.title|striptags }}{% endblock %}
+{% block twitter_description %}{{ article.summary|striptags }}{% endblock %}
 
 {% block content %}
   <h2 class="article-title">
@@ -21,13 +21,4 @@
   <div class="article-content">
     {{ article.content }}
   </div>
-  {# <div class="unsplash-featured">
-    <span>
-    Photo by <a href="https://unsplash.com/{{ unsplash_author }}?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">{{ unsplash_author_display }}</a> on 
-        <a href="https://unsplash.com/photos/{{ unsplash_photo }}?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-    </span>
-    unsplash_author: @carissaweiser
-    unsplash_photo: oPI3Oxj_cEw
-    {% include 'partial/unsplash_disclaimer.html' %}
-  </div> #}
 {% endblock %}

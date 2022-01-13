@@ -6,10 +6,8 @@ Tags: #tech, #git, #github-actions, #automation, #blog
 Slug: deploy-blog-changes-to-ftp-server-on-git-push
 Author: filipgorczynski
 Status: published
-meta_og_title: Deploy blog changes to FTP server on git push
-meta_og_description: This blog moved to Pelican Static Site Generator some time ago. One of the problems was automation of updates on FTP server when things are added or changed.
-meta_og_url: https://blog.filipgorczynski.me/2022/01/deploy-blog-changes-to-ftp-server-on-git-push
-meta_og_image: https://blog.filipgorczynski.me/images/post/2022/01/photo-1556075798-4825dfaaf498.jpg
+Cover: https://blog.filipgorczynski.me/images/post/2022/01/photo-1556075798-4825dfaaf498.jpg
+meta_url: https://blog.filipgorczynski.me/2022/01/deploy-blog-changes-to-ftp-server-on-git-push
 Summary: This blog moved to Pelican Static Site Generator some time ago. One of the problems was automation of updates on FTP server when things are added or changed.
 
 ![Photo by Yancy Min](https://blog.filipgorczynski.me/images/post/2022/01/photo-1556075798-4825dfaaf498.jpg)
