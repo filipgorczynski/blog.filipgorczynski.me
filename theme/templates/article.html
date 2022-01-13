@@ -2,7 +2,7 @@
 
 {% block title %}{{ article.title|striptags }} &ndash; {{ super() }}{% endblock %}
 {% block description %}{{ article.summary|striptags }}{% endblock %}
-{% block og_title %}ARTICLE-TITLE{{ article.title|striptags }} &ndash; {{ super() }}{% endblock %}
+{% block og_title %}{{ article.title|striptags }} &ndash; {{ super() }}{% endblock %}
 {% block og_description %}{{ article.summary|striptags }}{% endblock %}
 {% if article.cover %}
   {% block og_image %}{{ article.cover }}{% endblock %}
