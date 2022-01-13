@@ -21,6 +21,7 @@
   <link type="application/rss+xml" rel="alternate" href="/{{ FEED_ALL_RSS }}" title="{{ SITE_DESCTIPTION }} - RSS Feed">
   <link rel="shortcut icon" href="/{{ FAVICON }}" type="image/x-icon">
   <link rel="icon" href="/theme/{{ FAVICON }}" type="image/x-icon">
+  {% include 'partial/og.html' %}
   {% if OG_LOCALE %}
     {% set default_locale = OG_LOCALE %}
   {% else %}
