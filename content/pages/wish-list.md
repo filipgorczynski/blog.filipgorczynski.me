@@ -32,7 +32,7 @@ A "curated" list of my wish list:
         - Adeptus Mechanicus Omnissiah's Talon
         - Orks Killdakka Warband
         - Astra Militarum Bastion Platoon
-        - Battleforce Thousand Sons
+        - Thousand Sons
         - Chaos Knights
         - Chaos Space Marines Decimation Warband
         - Chaos Space Marines Vengeance Warband
@@ -44,15 +44,21 @@ A "curated" list of my wish list:
     - Combat Patrol
         - Space Marines
         - Necrons
-        - Adepta Sororitas
         - Deathwatch
         - Adeptus Mechanicus
         - Black Templars
         - Death Guard
         - Orks
+        - Drukhari
+        - Black Templars
         - Blood Angels
         - Dark Angels
         - Space Wolves
+        - T'au Empire
+        - Grey Knights
+        - Thousand Sons
+        - Adeptus Custodes
+        - Genestealer Cults
     - Kill Team
         - Octarius
         - Pariah Nexus
