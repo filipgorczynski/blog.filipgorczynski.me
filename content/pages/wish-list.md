@@ -7,40 +7,6 @@ Status: published
 A "curated" list of my wish list:
 
 - Warhammer 40,000
-    - Space Marines
-        - Assault Squad
-        - Centurion Assault Squad
-        - Company Command
-        - Devastator Squad
-        - Hammerfall Bunker
-        - Hellblasters
-        - Primaris Infiltrators
-        - Primaris Intercessors
-        - Primaris Reivers
-        - Primaris Repulsor Executioner
-        - Scouts With Sniper Rifles
-        - Terminator Assault Squad
-        - Thunderfire Cannon
-        - Vanguard Veteran Squad
-        - Venerable Dreadnought
-    - Battleforce
-        - Space Marines Interdiction Force
-        - Space Marines Shieldbreaker Strike Force
-        - Necrons Worldscour Legion
-        - Necrons Eradication Legion
-        - Adepta Sororitas Purgatos Mission
-        - Adeptus Mechanicus Omnissiah's Talon
-        - Orks Killdakka Warband
-        - Astra Militarum Bastion Platoon
-        - Thousand Sons
-        - Chaos Knights
-        - Chaos Space Marines Decimation Warband
-        - Chaos Space Marines Vengeance Warband
-        - Death Guard Plaguefester Warband
-        - Drukhari Poisonblade Raiding Party
-        - Grey Knights
-        - T'au Empire Starpulse Cadre
-        - Tyranids Brood Swarm
     - Combat Patrol
         - Space Marines
         - Necrons
@@ -59,6 +25,40 @@ A "curated" list of my wish list:
         - Thousand Sons
         - Adeptus Custodes
         - Genestealer Cults
+    - Battleforce
+        - Space Marines Interdiction Force
+        - Space Marines Shieldbreaker Strike Force
+        - Necrons Worldscour Legion
+        - Necrons Eradication Legion
+        - Adepta Sororitas Purgatos Mission
+        - Adeptus Mechanicus Omnissiah's Talon
+        - Orks Killdakka Warband
+        - Astra Militarum Bastion Platoon
+        - Thousand Sons
+        - Chaos Knights
+        - Chaos Space Marines Decimation Warband
+        - Chaos Space Marines Vengeance Warband
+        - Death Guard Plaguefester Warband
+        - Drukhari Poisonblade Raiding Party
+        - Grey Knights
+        - T'au Empire Starpulse Cadre
+        - Tyranids Brood Swarm
+    - Space Marines
+        - Assault Squad
+        - Centurion Assault Squad
+        - Company Command
+        - Devastator Squad
+        - Hammerfall Bunker
+        - Hellblasters
+        - Primaris Infiltrators
+        - Primaris Intercessors
+        - Primaris Reivers
+        - Primaris Repulsor Executioner
+        - Scouts With Sniper Rifles
+        - Terminator Assault Squad
+        - Thunderfire Cannon
+        - Vanguard Veteran Squad
+        - Venerable Dreadnought
     - Kill Team
         - Octarius
         - Pariah Nexus
