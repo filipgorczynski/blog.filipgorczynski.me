@@ -1,6 +1,6 @@
 Title: Wish list
 Date: 2021-11-22 19:40
-Modified: 2021-12-31 08:00:25
+Modified: 2022-01-26 12:20
 Slug: wish-list
 Status: published
 
@@ -8,15 +8,12 @@ A "curated" list of my wish list:
 
 - Warhammer 40,000
     - Space Marines
-        - Assault Squad
         - Centurion Assault Squad
         - Company Command
         - Devastator Squad
         - Hammerfall Bunker
         - Hellblasters
-        - Primaris Infiltrators
         - Primaris Intercessors
-        - Primaris Reivers
         - Primaris Repulsor Executioner
         - Scouts With Sniper Rifles
         - Terminator Assault Squad
