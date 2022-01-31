@@ -149,7 +149,6 @@ A "curated" list of my wish list:
         - Vallejo Game Color Special Effects Set (Paint Set)
         - Vallejo Game Color Specialist (Paint Set)
         - Vallejo Game Color Washes (Paint Set)
-        - Vallejo Masters of the Arcane (Paint Set)
         - Vallejo Metallics (Paint Set)
         - Vallejo Old & New Wood Effects (Paint Set)
         - Vallejo Transparent Colors (Paint Set)
