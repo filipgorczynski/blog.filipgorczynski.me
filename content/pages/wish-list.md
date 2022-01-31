@@ -1,6 +1,6 @@
 Title: Wish list
 Date: 2021-11-22 19:40
-Modified: 2022-01-26 12:20
+Modified: 2022-01-31 15:48
 Slug: wish-list
 Status: published
 
@@ -132,9 +132,8 @@ A "curated" list of my wish list:
     - Gamemaster Snow & Tundra Terrain Kit
     - Gamemaster Dungeons & Caverns Core Set
     - Army Painter Primer Gamemaster Matt Sealer 300ml
-    - Green Stuff Brush Soap - Cleaner and Preserver
-    - Farby Citadel: Aggaros Dunes, Creed Camo, Darkoath Flesh, Gore-Grunta Fur, Guilliman Flesh, Iyanden Yellow, Technical Stormshield, Magos Purple, Terradon Turquoise
-    - Farby Scale75
+    - Farby Citadel: Aggaros Dunes, Creed Camo, Cygor Brown, Contrast Snakebite Leather, Fyreslayer Flesh, Darkoath Flesh, Gore-Grunta Fur, Edge Krieg Khaki, Warp Lightning, Plaguebearer Flesh, (Layer) Thunderhawk Blue, Guilliman Flesh, Lahmian Medium, Iyanden Yellow, Stormshield, Stirland Battlemire, Magos Purple, Terradon Turquoise
+    <!-- - Farby Scale75
         - Zestaw Scale75 Basic Colors
         - Zestaw Scale75 Basic Colors 2
         - Zestaw Scale75 Blood and Fire
@@ -150,7 +149,7 @@ A "curated" list of my wish list:
         - Zestaw Scale75 Shades of Doom
         - Zestaw Scale75 Unnatural Flesh
         - Zestaw Scale75 Velvet Skin
-        - Zestaw Scale75 Wood and Leather
+        - Zestaw Scale75 Wood and Leather -->
     - Farby Vallejo
         - Vallejo Black & White (Paint Set)
         - Vallejo Champions of the Realm (Paint Set)
