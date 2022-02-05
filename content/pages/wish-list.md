@@ -61,6 +61,9 @@ A "curated" list of my wish list:
         - Octarius
         - Pariah Nexus
         - Chalnath
+    - Warcry
+      - Red Harvest
+      - Catacombs
     - Battlezone (various)
         - Ferratonic Furnace
         - Manufactorum
@@ -82,10 +85,13 @@ A "curated" list of my wish list:
     - Codex: Thousand Sons
     - Codex: Tyranids
 
-- (Board) Games
+- Games
     - Wiedźmin: Stary świat (edycja deluxe)
+    - Warhammer Fantasy Roleplay 4th Edition Rulebook (Polish edition)
+    - Tainted Grail: Upadek Avalonu
     - Statki, łupy, kościotrupy
     - Obcy RPG - zestaw startowy
+    - The Witcher RPG (Polish edition)
     - Gloomhaven "Szczęki lwa"
     - Stworze Odrodzenie
     - Zombicide 2 edycja
@@ -108,12 +114,17 @@ A "curated" list of my wish list:
     - [Mata do gry – Upiory](https://whatthefrog.pl/produkt/mata-do-gry-2/)
     - Century: Korzenny Szlak + Cuda Wschodu + Nowy Świat
     - Descent: Legendy Mroku
+    - Gra o Tron (2nd, Polish edition)
+    - Etherfields (Polish edition)
+    - Bitwa Pięciu Armii
     - Brzdęk! Klątwa Mumii
     - Brzdęk! Mokra robota
     - Karciane Podziemia: Las Cieni
     - Aon'S End: Wieczna Wojna
     - Kowale losu
     - Pradawny las
+    - Przygody w Ubersreiku Warhammer FRP (4th)
+    - Ciężkie dnie i niespokojne noce Warhammer FRP (4th)
     - Summoner Wars (2nd edition): Master Set
     - Summoner Wars: Przymierza Master Set
     - Sword And Sorcery: Nieśmiertelne Dusze
@@ -155,7 +166,18 @@ A "curated" list of my wish list:
         - Vallejo Wargame Special (Paint Set)
         - Vallejo Wood & Leather (Paint Set)
 - Xiaomi Amazfit T-Rex Pro Smartwatch (black)
+- Proxxon THERMOCUT 230/E Wyrzynarka (foam cutter)
 - "Multitool Leatherman Surge NEW Black" or "Multitool Leatherman Charge TTi Plus"
+- Multitool Gerber Gear Legend Multi Plier 800
+- CRKT Foresight
+- Cold Steel Recon 1 Spear Point S35VN
+- Ka-Bar USMC The Legend
+- Walther Outdoor Survival OSK I
+- Walther Premium Skinner
+- Gerber Gear Gator Combo Axe I
+- Gerber Gear LMF II Infantry Black
+- Gerber Gear Bolo
+- Gerber Gator Kukri
 - "Ergohuman Plus Elite BS KMD31" or "Diablo X-One 2.0 Normal Size: Czarno-Niebieski" or "Diablo X-Player 2.0 Materiałowy King Size: Frost Black"
 - Books
     - Andy Hunt - Pragmatic Thinking and Learning
@@ -173,6 +195,5 @@ A "curated" list of my wish list:
     - "Beginning Game Programming: A GameDev.net Collection" - Hattan John
     - "Advanced Game Programming: A GameDev.net Collection" - Hattan John
     - "You Need a Budget: The Proven System for Breaking the Paycheck-to-Paycheck Cycle, Getting Out of Debt, and Living the Life You Want"
-- CRKT Foresight
-- Cold Steel Recon 1 Spear Point S35VN
-- Ka-Bar USMC The Legend
+- 
+
