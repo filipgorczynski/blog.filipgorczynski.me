@@ -1,6 +1,6 @@
 Title: Wish list
 Date: 2021-11-22 19:40
-Modified: 2022-02-05 09:27
+Modified: 2022-02-07 10:24
 Slug: wish-list
 Status: published
 
@@ -62,8 +62,8 @@ A "curated" list of my wish list:
         - Pariah Nexus
         - Chalnath
     - Warcry
-      - Red Harvest
-      - Catacombs
+        - Red Harvest
+        - Catacombs
     - Battlezone (various)
         - Ferratonic Furnace
         - Manufactorum
@@ -195,5 +195,3 @@ A "curated" list of my wish list:
     - "Beginning Game Programming: A GameDev.net Collection" - Hattan John
     - "Advanced Game Programming: A GameDev.net Collection" - Hattan John
     - "You Need a Budget: The Proven System for Breaking the Paycheck-to-Paycheck Cycle, Getting Out of Debt, and Living the Life You Want"
-- 
-
