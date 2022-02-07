@@ -1,6 +1,6 @@
 Title: Wish list
 Date: 2021-11-22 19:40
-Modified: 2022-02-07 10:24
+Modified: 2022-02-07 10:31
 Slug: wish-list
 Status: published
 
@@ -70,21 +70,6 @@ A "curated" list of my wish list:
     - Necromunda
         - Underhive
         - Hive War
-    - Codex: Adepta Sororitas
-    - Codex: Adeptus Mechanicus
-    - Codex: Astra Militarum
-    - Codex: Chaos Knights
-    - Codex: Chaos Space Marines
-    - Codex: Craftworlds
-    - Codex: Death Guard
-    - Codex: Drukhari
-    - Codex: Genestealer Cults
-    - Codex: Harlequins
-    - Codex: Orks
-    - Codex: T'au Empire
-    - Codex: Thousand Sons
-    - Codex: Tyranids
-
 - Games
     - Wiedźmin: Stary świat (edycja deluxe)
     - Warhammer Fantasy Roleplay 4th Edition Rulebook (Polish edition)
