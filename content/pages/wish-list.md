@@ -1,6 +1,6 @@
 Title: Wish list
 Date: 2021-11-22 19:40
-Modified: 2022-02-07 10:31
+Modified: 2022-02-09 07:52
 Slug: wish-list
 Status: published
 
@@ -56,7 +56,6 @@ A "curated" list of my wish list:
         - Thunderfire Cannon
         - Vanguard Veteran Squad
         - Venerable Dreadnought
-
     - Kill Team
         - Octarius
         - Pariah Nexus
@@ -70,6 +69,8 @@ A "curated" list of my wish list:
     - Necromunda
         - Underhive
         - Hive War
+    - Codex: Adepta Sororitas, Adeptus Mechanicus, Astra Militarum, Codex: Chaos Knights, Chaos Space Marines, Death Guard, Drukhari, Orks, T'au Empire, Thousand Sons, Tyranids
+
 - Games
     - Wiedźmin: Stary świat (edycja deluxe)
     - Warhammer Fantasy Roleplay 4th Edition Rulebook (Polish edition)
@@ -89,15 +90,12 @@ A "curated" list of my wish list:
     - Zombicide: Nie zazna spokoju, kto przeklęty
     - Zombicide: Zombie Bosses
     - Sanctum (Polish edition)
-    - Pradawny las
     - Posiadłość Szaleństwa – 2nd Edition
     - Doom (Polish edition)
     - Horror W Arkham LCG (Latest edition)
     - Nemesis (Polish edition)
     - Bloodborne (Polish edition)
     - Podręcznik główny Kult: Boskość Utracona
-    - [Mata do gry – Upiory](https://whatthefrog.pl/produkt/mata-do-gry-2/)
-    - Century: Korzenny Szlak + Cuda Wschodu + Nowy Świat
     - Descent: Legendy Mroku
     - Gra o Tron (2nd, Polish edition)
     - Etherfields (Polish edition)
@@ -105,13 +103,11 @@ A "curated" list of my wish list:
     - Brzdęk! Klątwa Mumii
     - Brzdęk! Mokra robota
     - Karciane Podziemia: Las Cieni
-    - Aon'S End: Wieczna Wojna
+    - Aeon'S End: Wieczna Wojna
     - Kowale losu
     - Pradawny las
     - Przygody w Ubersreiku Warhammer FRP (4th)
     - Ciężkie dnie i niespokojne noce Warhammer FRP (4th)
-    - Summoner Wars (2nd edition): Master Set
-    - Summoner Wars: Przymierza Master Set
     - Sword And Sorcery: Nieśmiertelne Dusze
 - Samsung 500GB M.2 PCIe NVMe 970 EVO Plus
 - Kingston 480GB 2,5" SATA SSD A400
