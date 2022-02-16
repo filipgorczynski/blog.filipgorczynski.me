@@ -1,6 +1,6 @@
 Title: Wish list
 Date: 2021-11-22 19:40
-Modified: 2022-02-14 08:17
+Modified: 2022-02-16 08:32
 Slug: wish-list
 Status: published
 
@@ -16,7 +16,6 @@ A "curated" list of my wish list:
     - Necromunda: Underhive, Hive War
 - Games: Wiedźmin: Stary świat (edycja deluxe), Warhammer Fantasy Roleplay 4th Edition Rulebook (Polish edition), Tainted Grail: Upadek Avalonu, Statki, łupy, kościotrupy, Obcy RPG - zestaw startowy, The Witcher RPG (Polish edition), Gloomhaven "Szczęki lwa", Stworze Odrodzenie, Zombicide 2 edycja, Zombicide: Zielona Horda, Zombicide: Czarna Plaga, Zombicide: Wulfsburg, Zombicide: Kompani i Wrogowie, Zombicide: Najeźdźca, Zombicide: Najeźdźca - Tajne Operacje, Zombicide: Nie zazna spokoju, kto przeklęty, Zombicide: Zombie Bosses, Sanctum (Polish edition), Pradawny las, Posiadłość Szaleństwa – 2nd Edition, Doom (Polish edition), Nemesis (Polish edition), Bloodborne (Polish edition), Podręcznik główny Kult: Boskość Utracona, Century: Korzenny Szlak + Cuda Wschodu + Nowy Świat, Descent: Legendy Mroku, Gra o Tron (2nd, Polish edition), Etherfields (Polish edition), Bitwa Pięciu Armii, Brzdęk! Klątwa Mumii, Brzdęk! Mokra robota, Karciane Podziemia: Las Cieni, Aon'S End: Wieczna Wojna, Kowale losu, Pradawny las, Przygody w Ubersreiku Warhammer FRP (4th), Ciężkie dnie i niespokojne noce Warhammer FRP (4th), Summoner Wars: Przymierza Master Set, Sword And Sorcery: Nieśmiertelne Dusze
 - Kingston 480GB 2,5" SATA SSD A400
-- Windows 10 Pro (yeah, for gaming)
 - Huion Kamvas Pro 24
 - SPC Gear LIX Plus Onyx White
 - ROYAL KLUDGE RK61 61 Keys Wireless 60% Mechanical Gaming Keyboard - Hot Swappable Brown Switch
