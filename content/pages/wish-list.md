@@ -1,11 +1,12 @@
 Title: Wish list
 Date: 2021-11-22 19:40
-Modified: 2022-02-17 07:04
+Modified: 2022-03-07 07:35
 Slug: wish-list
 Status: published
 
 A "curated" list of my wish list:
 
+- Games: Wiedźmin: Stary świat (edycja deluxe), Tajemnicze Domostwo, Sword And Sorcery: Nieśmiertelne Dusze, Machina Arcana, Machina Arcana: Z Otchłani, Machina Arcana: Ku Wieczności, Tainted Grail: Upadek Avalonu, "Statki, łupy, kościotrupy", The Witcher RPG (Polish edition), Zombicide 2 edycja, Zombicide: Zielona Horda, Zombicide: Czarna Plaga, Zombicide: Wulfsburg, Zombicide: Kompani i Wrogowie, Zombicide: Najeźdźca, Zombicide: Najeźdźca - Tajne Operacje, Zombicide: Nie zazna spokoju, kto przeklęty, Zombicide: Zombie Bosses, Sanctum (Polish edition), Widmo nad Arkham (paragraphs books), Posiadłość Szaleństwa – 2nd Edition, Doom (Polish edition), Nemesis (Polish edition), Bloodborne (Polish edition), Podręcznik główny Kult: Boskość Utracona, Century: Korzenny Szlak + Cuda Wschodu + Nowy Świat, Descent: Legendy Mroku, Gra o Tron (2nd, Polish edition), Etherfields (Polish edition), Bitwa Pięciu Armii, Brzdęk! Klątwa Mumii, Brzdęk! Mokra robota, Aeon'S End: Wieczna Wojna, Przygody w Ubersreiku Warhammer FRP (4th), Ciężkie dnie i niespokojne noce Warhammer FRP (4th), Dark Heresy 2ed (Polish edition),  Obcy RPG - zestaw startowy, SibirPunk RPG, Księga stali RPG, Sterta stali RPG, Horror W Arkham LCG: Dziedzictwo Dunwich (Rozszerzenie Badaczy i Kampanijne), Horror w Arkham LCG: Morderstwo w Hotelu Excelsior, Horror w Arkham: LCG Powrót przerwanego kręgu, Horror w Arkham LCG Zapomniana era, Horror W Arkham LCG: Przerwany krąg,  Horror w Arkham LCG: Szlak do Carcosy, Horror w Arkham LCG: Na krawędzi ziemi (Rozszerzenie Badaczy i Kampanijne)
 - Warhammer 40,000
     - Combat Patrol: Space Marines, Necrons, Deathwatch, Adeptus Mechanicus, Black Templars, Death Guard, Orks, Drukhari, Black Templars, Blood Angels, Dark Angels, Space Wolves, T'au Empire, Grey Knights, Thousand Sons, Adeptus Custodes, Genestealer Cults
     - Battleforce: Space Marines Interdiction Force, Space Marines Shieldbreaker Strike Force, Necrons Worldscour Legion, Necrons Eradication Legion, Adepta Sororitas Purgatos Mission, Adeptus Mechanicus Omnissiah's Talon, Orks Killdakka Warband, Astra Militarum Bastion Platoon, Thousand Sons, Chaos Knights, Chaos Space Marines Decimation Warband, Chaos Space Marines Vengeance Warband, Death Guard Plaguefester Warband, Drukhari Poisonblade Raiding Party, Grey Knights, T'au Empire Starpulse Cadre, Tyranids Brood Swarm
@@ -14,7 +15,6 @@ A "curated" list of my wish list:
     - Warcry: Red Harvest, Catacombs
     - Battlezone (various): Ferratonic Furnace, Manufactorum
     - Necromunda: Underhive, Hive War
-- Games: Wiedźmin: Stary świat (edycja deluxe), Warhammer Fantasy Roleplay 4th Edition Rulebook (Polish edition), Tainted Grail: Upadek Avalonu, "Statki, łupy, kościotrupy", Obcy RPG - zestaw startowy, The Witcher RPG (Polish edition), Stworze Odrodzenie, Zombicide 2 edycja, Zombicide: Zielona Horda, Zombicide: Czarna Plaga, Zombicide: Wulfsburg, Zombicide: Kompani i Wrogowie, Zombicide: Najeźdźca, Zombicide: Najeźdźca - Tajne Operacje, Zombicide: Nie zazna spokoju, kto przeklęty, Zombicide: Zombie Bosses, Sanctum (Polish edition), Pradawny las, Posiadłość Szaleństwa – 2nd Edition, Doom (Polish edition), Nemesis (Polish edition), Bloodborne (Polish edition), Podręcznik główny Kult: Boskość Utracona, Century: Korzenny Szlak + Cuda Wschodu + Nowy Świat, Descent: Legendy Mroku, Gra o Tron (2nd, Polish edition), Etherfields (Polish edition), Bitwa Pięciu Armii, Brzdęk! Klątwa Mumii, Brzdęk! Mokra robota, Karciane Podziemia: Las Cieni, Aon'S End: Wieczna Wojna, Kowale losu, Pradawny las, Przygody w Ubersreiku Warhammer FRP (4th), Ciężkie dnie i niespokojne noce Warhammer FRP (4th), Summoner Wars: Przymierza Master Set, Sword And Sorcery: Nieśmiertelne Dusze
 - Kingston 480GB 2,5" SATA SSD A400
 - Huion Kamvas Pro 24
 - SPC Gear LIX Plus Onyx White
@@ -50,8 +50,6 @@ A "curated" list of my wish list:
     - [Przedsiębiorca idei](https://www.fijor.com/ksiazki/przedsiebiorca-idei/)
     - [Siła woli. Fundament życiowego sukcesu](https://www.fijor.com/ksiazki/sila-woli/)
     - "Game Engine Architecture", Third Edition - Jason Gregory
-    - "Tracy Fullerton Game Design Workshop A Playcent" - Tracy Fullerton
+    - "Tracy Fullerton Game Design Workshop A Playcent", Fourth Edition - Tracy Fullerton
     - "Gamedev: 10 Steps to Making Your First Game" - Wlad Marhulets
-    - "Beginning Game Programming: A GameDev.net Collection" - Hattan John
-    - "Advanced Game Programming: A GameDev.net Collection" - Hattan John
     - "You Need a Budget: The Proven System for Breaking the Paycheck-to-Paycheck Cycle, Getting Out of Debt, and Living the Life You Want"
