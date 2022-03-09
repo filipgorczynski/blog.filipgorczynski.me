@@ -1,6 +1,6 @@
 Title: Wish list
 Date: 2021-11-22 19:40
-Modified: 2022-03-07 07:35
+Modified: 2022-03-09 12:32
 Slug: wish-list
 Status: published
 
@@ -53,3 +53,5 @@ A "curated" list of my wish list:
     - "Tracy Fullerton Game Design Workshop A Playcent", Fourth Edition - Tracy Fullerton
     - "Gamedev: 10 Steps to Making Your First Game" - Wlad Marhulets
     - "You Need a Budget: The Proven System for Breaking the Paycheck-to-Paycheck Cycle, Getting Out of Debt, and Living the Life You Want"
+    - "Rene Girard's Mimetic Theory"
+    - "Wanting: The Power of Mimetic Desire, and How to Want What You Need" - Luke Burgis
