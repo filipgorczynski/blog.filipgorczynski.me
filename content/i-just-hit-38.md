@@ -1,6 +1,6 @@
 Title: I just hit 38
 Date: 2022-03-21 07:42
-Modified: 2022-03-21 07:42
+Modified: 2022-03-21 07:47
 Category: Life
 Tags: #life, #birthday
 Slug: i-just-hit-38
@@ -24,7 +24,7 @@ My wife ordered customized figurine and painted it by herself. One of the Charac
 
 ![Personalised Shreeve Character](https://blog.filipgorczynski.me/images/post/2022/03/1647840641031.jpg)
 
-I would like to thank my wife by taking care of all the party stuff and to all guests for making that weekend great.
+I would like to thank my wife by taking care of all the party related stuff and to all guests for making that weekend great.
 
 <small class="unsplash-reference">
     Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
