@@ -23,7 +23,7 @@ A "curated" list of my wish list:
 - Terrains building & miniatures painting
     - Gamemaster: XPS Scenery Foam Booster Pack, Wilderness & Woodland Terrain Kit, Ruins & Cliffs Terrain Kit, Desert & Arid Wastes Terrain Kit, Snow & Tundra Terrain Kit, Dungeons & Caverns Core Set
     - Army Painter Primer Gamemaster Matt Sealer 300ml
-    - Farby Citadel: Aggaros Dunes, Creed Camo, Cygor Brown, Contrast Snakebite Leather, Fyreslayer Flesh, Darkoath Flesh, Gore-Grunta Fur, Edge Krieg Khaki, Warp Lightning, Plaguebearer Flesh, (Layer) Thunderhawk Blue, Guilliman Flesh, Lahmian Medium, Iyanden Yellow, Stormshield, Stirland Battlemire, Magos Purple, Terradon Turquoise
+    - Farby Citadel: Aggaros Dunes, Creed Camo, Cygor Brown, Fyreslayer Flesh, Darkoath Flesh, Gore-Grunta Fur, Edge Krieg Khaki, Plaguebearer Flesh, (Layer) Thunderhawk Blue, Guilliman Flesh, Lahmian Medium, Iyanden Yellow, Stormshield, Stirland Battlemire, Magos Purple, Terradon Turquoise
     - Farby Vallejo: Black & White (Paint Set), Earth Tones (Paint Set), Elves & Gnomes (Paint Set), Face & Skin Tones (Paint Set), Game Color Auxiliary Set (Paint Set), Game Color Extra Opaque Colors (Paint Set), Game Color Imperial Purple (Paint Set), Game Color Introduction (Paint Set), Game Color Leather & Metal (Paint Set), Game Color Non Death Chaos (Paint Set), Game Color Non Metallic Metal (Paint Set), Game Color Skin Tone (Paint Set), Game Color Special Effects Set (Paint Set), Game Color Specialist (Paint Set), Game Color Washes (Paint Set), Metallics (Paint Set), Old & New Wood Effects (Paint Set), Transparent Colors (Paint Set), Wargame Special (Paint Set), Wood & Leather (Paint Set)
 - Xiaomi Amazfit T-Rex Pro Smartwatch (black)
 - Proxxon THERMOCUT 230/E Wyrzynarka (foam cutter)
