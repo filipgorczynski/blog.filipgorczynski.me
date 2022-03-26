@@ -5,7 +5,7 @@ Category: Tech
 Slug: co-to-znaczy-detached-head-w-git
 Status: draft
 Tags: #tech,
-cover_image: /images/featured/feature_photo-1503155776815-3305d1deab9c.jpg
+cover_image: /images/feature/feature_photo-1503155776815-3305d1deab9c.jpg
 cover_image_by: Ilya Pavlov
 cover_image_link: https://unsplash.com/@ilyapavlov?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 Summary:

@@ -7,7 +7,7 @@ Status: draft
 Tags: #tech,
 Summary:
 
-![Pelican](/images/featured/feature_photo-1503155776815-3305d1deab9c.jpg)
+![Pelican](/images/feature/feature_photo-1503155776815-3305d1deab9c.jpg)
 
 Sources:
 
