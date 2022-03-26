@@ -46,10 +46,35 @@ module.exports = {
   - allow to use latest JavaScript syntax
   - it's a transpiler
   - allow to support older browsers JavaScript engines
-  - it's a modular library
-    - Babel Core (heart of Babel)
-    - Babel Preset
-    - Babel Loader
+  - is a modular library
+    - Babel Core (heart of Babel), read code and compiles it
+    - Babel Loader - necessary if work with webpack (allows webpack to understand JavaScript language)
+    - Babel Preset - various JS dialects es2015, es2016
+      - commonly `@babel/preset-env`
+- Babel and Webpack can be used independently
+- how to configure Babel with Webpack (after installing required packages)
+  - babel and webpack are not connected by default thus babel-loader is needed to integrate them
+    - use module property in webpack.config.js
+    - module property allows you to configure 3rd party modules
+    - describes how modules work with webpack
+    - it's a place to provide our loaders
+    - provide rules for every module, if a file match a rule - this rule will be applied to that file
+      - rule: `test: /\.js$/` - files ending with js extension
+      - optionally provide `exclude: /node_modules/` but can be valid 
+      - provide `use` property, with `babel-loader`
+      - `.babelrc` can be provided; alternatively configure babel in webpack.config.js
+      - define `presets` as a list of presets to use by babel
+- Play with Sass - superset of CSS, a stylesheet language similar and just like CSS
+  - add specific rule to webpack.config.js -> and test for `/\.s[ac]ss$/`
+  - use `css-loader and sass-loader` as loaders
+  - webpack will use `use` property list of loaders from bottom to top, which means first loader used will be the last one in the list
+    - WHY: because css-loader does not understand SASS code
+    - now, webpack should be able to understand SASS code - transpiles to regular CSS
+    - and we can use `import` SCSS statement in our JavaScript files - which will be embedded in generated bundle.js file
+    - during compilation process Webpack will scan our codebase looking for import statements, and that's why we can import scss files in out JavaScript files; webpack does not execute that javaScript code
+    - 
+  -  
+    - 
 
 style-loader
 css-loader
