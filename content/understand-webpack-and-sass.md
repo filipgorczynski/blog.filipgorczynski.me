@@ -65,16 +65,42 @@ module.exports = {
       - `.babelrc` can be provided; alternatively configure babel in webpack.config.js
       - define `presets` as a list of presets to use by babel
 - Play with Sass - superset of CSS, a stylesheet language similar and just like CSS
+  - how to prepare webpack to handle Sass
+  - `npm install node-sass sass-loader css-lodaer --save-dev`
   - add specific rule to webpack.config.js -> and test for `/\.s[ac]ss$/`
-  - use `css-loader and sass-loader` as loaders
+  - use `css-loader` and `sass-loader` as loaders
+  - node-sass module is used to compile sass code into css code (can be used independently used without webpack)
+  - sass-loader - will tell webpack that we're writing code code in sass, by default it uses node-sass to compile the code
   - webpack will use `use` property list of loaders from bottom to top, which means first loader used will be the last one in the list
     - WHY: because css-loader does not understand SASS code
     - now, webpack should be able to understand SASS code - transpiles to regular CSS
     - and we can use `import` SCSS statement in our JavaScript files - which will be embedded in generated bundle.js file
     - during compilation process Webpack will scan our codebase looking for import statements, and that's why we can import scss files in out JavaScript files; webpack does not execute that javaScript code
-    - 
-  -  
-    - 
+  - style-loader extracts CSS from our bundle
+  -  sass-loader uses node-sass to compile SASS to CSS code, next webpack use css-loader to add CSS code in the bundle file, lastly style-loader will make that CSS code added dynamically do document
+    - style-loader -> Inject CSS into the DOM.
+    - The css-loader interprets @import and url() like import/require() and will resolve them.
+    - sass-loader Loads a Sass/SCSS file and compiles it to CSS.
+    - Chain the sass-loader with the css-loader and the style-loader to immediately apply all styles to the DOM or the mini-css-extract-plugin to extract it into a separate file.
+    - ```
+        // Creates `style` nodes from JS strings
+        "style-loader",
+        // Translates CSS into CommonJS
+        "css-loader",
+        // Compiles Sass to CSS
+        "sass-loader",
+    ```
+  - PostCSS:
+    - CSS -> compiled to -> PostCSS (object) -> compiled to -> CSS
+    - to handle postCSS with Webpack we need another loader
+    - allows to add vendor-specific prefixes for CSS properties
+    - still, by default post-css don't do anything, thus we need plugin to add prefixes
+    - check [PostCSS.parts](https://www.postcss.parts/)
+    - Install `autoprefixer` plugin, which scans our CSS for missing vendors
+      - add "browserList" setting in webpack.config.js
+  - ESLint
+    - linting is the process of reviewing your code for consistencies.
+
 
 style-loader
 css-loader
