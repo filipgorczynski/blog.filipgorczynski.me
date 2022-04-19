@@ -1,10 +1,6 @@
 Title: Wish list
 Date: 2022-03-21 07:46
-<<<<<<< HEAD
 Modified: 2022-04-19 11:38
-=======
-Modified: 2022-04-15 08:16
->>>>>>> 1fa0a8955eb2336319c4e0260b6043feea1b652b
 Slug: wish-list
 Status: published
 
