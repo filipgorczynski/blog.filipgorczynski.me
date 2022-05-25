@@ -9,3 +9,5 @@ Status: draft
 Cover: https://blog.filipgorczynski.me/images/feature/
 meta_url: https://blog.filipgorczynski.me/2022/05/get-random-point-position-from-a-frame
 Summary: 
+
+Rectangle with a hole. Tangle it to one long rectangle with padding-height.
