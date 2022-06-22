@@ -1,6 +1,6 @@
 Title: Fedora 34/35/36 black screen after NVIDIA drivers installation
 Date: 2022-06-22 09:16
-Modified: 2022-06-22 09:16
+Modified: 2022-06-22 10:13
 Category: Tech
 Tags: #tech, #fedora, #nvidia, #drivers, #geforce, #rtx, #nouveau
 Slug: fedora-34-35-36-black-screen-after-nvidia-drivers-installation
@@ -9,6 +9,8 @@ Status: published
 Cover: https://blog.filipgorczynski.me/images/feature/christian-wiediger-TErYPw4o1KM.jpg
 meta_url: https://blog.filipgorczynski.me/2022/06/fedora-34-35-36-black-screen-after-nvidia-drivers-installation
 Summary: Nvidia drivers are known from many issues on Linux systems. Or maybe just mine only? Various drivers sources like official Nvidia releases and Fedora repositories are not helping at all.
+
+![Photo by Christian Wiediger](https://blog.filipgorczynski.me/images/feature/christian-wiediger-TErYPw4o1KM.jpg)
 
 Nvidia drivers are known from many issues on Linux systems. Or maybe just mine only? Various drivers sources like official Nvidia releases and Fedora repositories are not helping at all.
 
