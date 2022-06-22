@@ -1,6 +1,6 @@
 Title: Wish list
 Date: 2022-03-21 07:46
-Modified: 2022-06-22 08:42
+Modified: 2022-06-22 09:18
 Slug: wish-list
 Status: published
 
@@ -18,7 +18,6 @@ A "curated" list of my wish list:
 - Huion Kamvas Pro 24
 - SPC Gear LIX Plus Onyx White
 - ROYAL KLUDGE RK61 61 Keys Wireless 60% Mechanical Gaming Keyboard - Hot Swappable Brown Switch
-- Advantage2 Quiet LF (Keyboard)
 - Epson EcoTank L1110
 - Terrains building & miniatures painting
     - Gamemaster: XPS Scenery Foam Booster Pack, Wilderness & Woodland Terrain Kit, Ruins & Cliffs Terrain Kit, Desert & Arid Wastes Terrain Kit, Snow & Tundra Terrain Kit, Dungeons & Caverns Core Set
