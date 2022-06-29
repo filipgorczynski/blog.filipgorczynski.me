@@ -14,9 +14,9 @@ Summary: Like every year Father's Day has come. And this year was full of great 
 
 Like every year Father's Day has come. And this year was full of great gifts :)
 
-![Key Ring](https://filipgorczynski.files.wordpress.com/images/post/2022/06/1656481023254.jpg)
+![Key Ring](https://blog.filipgorczynski.me/images/post/2022/06/1656481023254.jpg)
 
-![Board Games](https://filipgorczynski.files.wordpress.com/images/post/2022/06/1655835296112.jpg)
+![Board Games](https://blog.filipgorczynski.me/images/post/2022/06/1655835296112.jpg)
 
 Huge thanks to my family.
 
