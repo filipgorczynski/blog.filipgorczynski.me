@@ -1,8 +1,8 @@
 Title: I love pigeonholing myself
-Date: 2022-07-08 07:10:00
-Modified: 2022-07-08 07:10:00
+Date: 2022-07-08 15:33:36
+Modified: 2022-07-08 15:33:36
 Category: Life
-Tags: #16-personalities, #disc, #gallup, #clifton-strengths, #infj-t, #harmony, 
+Tags: #16-personalities, #disc, #gallup, #clifton-strengths, #infj-t, #strengths
 Slug: i-love-pigeonholing-myself
 Author: filipgorczynski
 Status: draft
