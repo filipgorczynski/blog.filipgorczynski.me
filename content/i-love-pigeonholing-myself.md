@@ -28,7 +28,22 @@ INFJ-T: Advocate
 
 
 
+## 4 Tendencies - Obliger
 
+Meets outer expectations, resists inner expectations
+
+1. Join a habit changing program
+2. Partner with others
+3. Track you habits
+4. Schedule treats, not rewards
+5. Recognize adherence
+
+- Reliable
+- Responsible
+- Easy to get along with
+- Not following through with own goals
+- Overwork & Burnout
+- 'Obliger Rebellion'
 
 <small class="unsplash-reference">
 Photo by <a href="https://unsplash.com/@jontyson?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jon Tyson</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
