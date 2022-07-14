@@ -26,6 +26,8 @@ INFJ-T: Advocate
 
 ## DiSC
 
+It looks like your styleblend is: S/I
+
 
 
 ## 4 Tendencies - Obliger
