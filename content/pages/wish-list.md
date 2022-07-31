@@ -1,12 +1,12 @@
 Title: Wish list
 Date: 2022-03-21 07:46:00
-Modified: 2022-07-28 06:02:00
+Modified: 2022-07-31 17:57:17
 Slug: wish-list
 Status: published
 
 A "curated" list of my wish list:
 
-- Games: Wiedźmin: Stary Świat (Big Box, Shaded), Deep Madness, Warhammer FRP: Przygody w Ubersreiku, Warhammer FRP: Ciężkie dnie i niespokojne noce, Warhammer FRP: Wróg w Cieniach - Niezbędnik, Warhammer FRP: Wewnętrzny Wróg 1: Wróg w Cieniach, Dark Heresy 2ed (Polish edition), Dark Heresy 2ed: Wróg Zewnętrzny, Dark Heresy 2ed: Wróg Wewnętrzny, Dark Heresy 2ed: Zapomniani Bogowie, Horror W Arkham LCG: Dziedzictwo Dunwich (Rozszerzenie Badaczy i Kampanijne), Horror w Arkham LCG: Na krawędzi ziemi (Rozszerzenie Badaczy i Kampanijne), Zew Cthulhu: Cienie Tatr, Zew Cthulhu: Horror nad Wartą, Zew Cthulhu: Usłysz Zew Cthulhu, Zew Cthulhu: Maski Nyarlathotepa, Zew Cthulhu: Malleus Monstrorum, Zew Cthulhu: Zasobnik strażnika, Cyberpunk Red RPG, Podręcznik główny Kult: Boskość Utracona, Posiadłość Szaleństwa – 2nd Edition, Nemesis (Polish edition), Descent: Legendy Mroku, Brzdęk! Klątwa Mumii, Brzdęk! Mokra robota, Aeon'S End: Wieczna Wojna, Aeon'S End: Legacy, Dungeons & Dragons: Baldur's Gate - Zstąpienie do Avernusa, Dungeons & Dragons: Klątwa Strahda, Warhammer Age of Sigmar Roleplay: Soulbound - Podręcznik Główny, Podręcznik Główny Warhammer 40000 Wrath And Glory
+- Games: Wiedźmin: Stary Świat (Big Box, Shaded), Deep Madness (Niezliczone Horrory, Wieczne Koszmary, Pomiot Śpiącego, Drapieżna Omega, Wyklęty i Skruszony, Oblicza Sfery, Narodziny Dagona, Zdrada Wyroczni, Pożeracz Światów, Król Włóczęgów, Naznaczony), Warhammer FRP (Przygody w Ubersreiku, Ciężkie dnie i niespokojne noce, Wróg w Cieniach - Niezbędnik, Wewnętrzny Wróg 1: Wróg w Cieniach), Dark Heresy 2ed Polish edition (Core Book, Wróg Zewnętrzny, Wróg Wewnętrzny, Zapomniani Bogowie), Horror W Arkham LCG: Dziedzictwo Dunwich (Rozszerzenie Badaczy i Kampanijne), Horror w Arkham LCG: Na krawędzi ziemi (Rozszerzenie Badaczy i Kampanijne), Zew Cthulhu (Cienie Tatr, Horror nad Wartą, Usłysz Zew Cthulhu, Maski Nyarlathotepa, Malleus Monstrorum, Zasobnik strażnika), Podręcznik główny Kult: Boskość Utracona, Nemesis (Polish edition), Descent: Legendy Mroku, Aeon'S End: Wieczna Wojna, Aeon'S End: Legacy, Dungeons & Dragons (Baldur's Gate - Zstąpienie do Avernusa, Klątwa Strahda)
 - Warhammer 40,000
     - Warcry: Red Harvest, Catacomb and factions: Iron Golem, The Untamed Beasts, The Corvus Cabal, Cypher Lords, The Unmade, Splintered Fang, The Darkoath Savagers, The Tarantulos Brood, Lumineth Realm-lords, Daughters of Khaine, Slaanesh Sybarites, Khainite Shadowstalkers, Thunderstrike Stormcast Eternals, Kruleboyz, Scions of the Flame, Spire Tyrants, Chaotic Beasts
     - Combat Patrol: Space Marines, Necrons, Deathwatch, Black Templars, Death Guard, Orks, Drukhari, Black Templars, Blood Angels, Dark Angels, Space Wolves, T'au Empire, Grey Knights, Thousand Sons, Adeptus Custodes, Genestealer Cults
