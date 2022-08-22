@@ -82,29 +82,29 @@ My personal DiSC style is: **C/S**
 What does it mean?
 
 - Compliant
-  - Cautious
-  - Careful
-  - Conscientious
-  - Calculating
-  - Condescending
+    - Cautious
+    - Careful
+    - Conscientious
+    - Calculating
+    - Condescending
 - Steady
-  - Stable
-  - Supportive
-  - Sincere
-  - Slow
-  - Sensitive
+    - Stable
+    - Supportive
+    - Sincere
+    - Slow
+    - Sensitive
 - Conscientiousness
-  - Analytical
-  - Reserved
-  - Precise
-  - Private
-  - Systematic
+    - Analytical
+    - Reserved
+    - Precise
+    - Private
+    - Systematic
 - Steadiness
-  - Even-tempered
-  - Accommodating
-  - Patient
-  - Humble
-  - Tactful
+    - Even-tempered
+    - Accommodating
+    - Patient
+    - Humble
+    - Tactful
 
 What motivates me? I will probably enjoy many of the following aspects of work:
 
