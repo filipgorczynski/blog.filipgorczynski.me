@@ -55,17 +55,17 @@ Additional T suffix stands from Turbulent which means I am likely to question my
 [specific strengths & weaknesses](https://www.16personalities.com/infj-strengths-and-weaknesses) according to this personality:
 
 - Strengths
-  - Creative
-  - Insightful
-  - Principled
-  - Passionate
-  - Altruistic
+    - Creative
+    - Insightful
+    - Principled
+    - Passionate
+    - Altruistic
 - Weaknesses
-  - Sensitive to Criticism
-  - Reluctant to Open Up
-  - Perfectionistic
-  - Avoiding the Ordinary
-  - Prone to Burnout
+    - Sensitive to Criticism
+    - Reluctant to Open Up
+    - Perfectionistic
+    - Avoiding the Ordinary
+    - Prone to Burnout
 
 > Advocates' gifts include idealism, determination, and the ability to envision a better future – but they don’t just want to hear what makes them great. Advocates are committed to actually using these gifts to become better people and serve a greater purpose in this world.
 
