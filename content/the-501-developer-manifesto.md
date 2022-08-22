@@ -12,4 +12,7 @@ Summary:
 
 ![Photo by Jon Tyson](https://blog.filipgorczynski.me/images/feature/jon-tyson-566CgCRSNCk.jpg)
 
-The way we behave in various life situations most often than not can be aligned with bunch of models that have been established through ages. To understand myself better I've decided to take a couple of those models to clearly determine who I really am. I hope it will simplify my career as well.
+- https://501manifesto.dev/
+- https://www.youtube.com/watch?v=aaDQEWapZPc
+- 
+
