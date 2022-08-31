@@ -1,8 +1,8 @@
-Title: Co to znaczy detached HEAD w git
+Title: What does detached HEAD mean in git
 Author: filipgorczynski
-Date: 2020-11-14 06:58
+Date: 2022-08-23 17:04:29
 Category: Tech
-Slug: co-to-znaczy-detached-head-w-git
+Slug: what-does-detached-head-mean-in-git
 Status: draft
 Tags: #tech,
 cover_image: /images/feature/feature_photo-1503155776815-3305d1deab9c.jpg
