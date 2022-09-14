@@ -14,7 +14,7 @@ Summary:
 
 https://gist.github.com/filipgorczynski/686a2a63d86e713163dd2ed133c92a76
 
-Please, keep in mind it is far from perfect and there are many ways to improve that - especially with using Machine Learning text analysing algorithms - but still, I'm happy I've wrote that code some time ago and it worked successfully on production.
+Please, keep in mind this idea is far from perfect and there are many ways to improve that - especially with using machine learning text analysing algorithms - but still, I'm happy I've wrote that code some time ago and it worked successfully on production.
 
 <small class="unsplash-reference">
     Photo by <a href="https://unsplash.com/@impatrickt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick Tomasso</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
