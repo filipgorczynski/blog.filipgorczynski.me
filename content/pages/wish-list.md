@@ -1,12 +1,12 @@
 Title: Wish list
 Date: 2022-03-21 07:46:00
-Modified: 2022-11-02 08:54:09
+Modified: 2022-11-08 10:00:56
 Slug: wish-list
 Status: published
 
 A "curated" list of my wish list:
 
-- Games: Wiedźmin: Stary Świat (Big Box, Shaded), Deep Madness (Drapieżna Omega, Król Włóczęgów), Eldritch Horror (Widma Carcosy), Zew Cthulhu (Cienie Tatr, Horror nad Wartą, Usłysz Zew Cthulhu, Maski Nyarlathotepa, Zasobnik strażnika), Posiadłość Szaleństwa 2 ed, Władca Pierścieni (Podróże przez śródziemie, Udręki pustkowi, Cieniste ścieżki, Zarzewie wojny, Złoczyńcy z Eriadoru, Czyhający w mroku), Nemesis (Polish edition), Nemesis: Lockdown (Polish edition), Tainted Grail (Potwory Avalonu, Czerwony Mór, Potwory Avalonu Przeszłość i Przyszłość, Stretch Goals, Mounted Heroes, Echa Przeszłości, Król Artur, Playmat), Podręcznik główny Kult: Boskość Utracona, Descent: Legendy Mroku, Warhammer FRP (Przygody w Ubersreiku, Ciężkie dnie i niespokojne noce, Wróg w Cieniach - Niezbędnik, Wewnętrzny Wróg 1: Wróg w Cieniach), Dark Heresy 2ed Polish edition (Core Book, Wróg Zewnętrzny, Wróg Wewnętrzny, Zapomniani Bogowie), Zaginiona Wyspa Arnak + Przywódcy Ekspedycji, Aeon'S End: Wieczna Wojna, Aeon'S End: Legacy, Dungeons & Dragons (Baldur's Gate - Zstąpienie do Avernusa).
+- Games: Wiedźmin: Stary Świat (Big Box, Shaded), Deep Madness (Drapieżna Omega, Król Włóczęgów), Eldritch Horror (Widma Carcosy), Zew Cthulhu (Cienie Tatr, Horror nad Wartą, Usłysz Zew Cthulhu, Maski Nyarlathotepa, Zasobnik strażnika), Posiadłość Szaleństwa 2 ed, Władca Pierścieni (Podróże przez śródziemie, Udręki pustkowi, Cieniste ścieżki, Zarzewie wojny, Złoczyńcy z Eriadoru, Czyhający w mroku), Nemesis (Polish edition), Nemesis: Lockdown (Polish edition), Tainted Grail (Potwory Avalonu, Czerwony Mór, Potwory Avalonu Przeszłość i Przyszłość, Stretch Goals, Mounted Heroes, Echa Przeszłości, Król Artur, Playmat), Podręcznik główny Kult: Boskość Utracona, Descent: Legendy Mroku, Warhammer FRP (Przygody w Ubersreiku, Ciężkie dnie i niespokojne noce, Wróg w Cieniach - Niezbędnik, Wewnętrzny Wróg 1: Wróg w Cieniach), Dark Heresy 2ed Polish edition (Core Book, Wróg Zewnętrzny, Wróg Wewnętrzny, Zapomniani Bogowie).
 - Warhammer 40,000
     - Warcry: Red Harvest, Catacomb and factions: Iron Golem, The Untamed Beasts, The Corvus Cabal, Cypher Lords, The Unmade, Splintered Fang, The Darkoath Savagers, The Tarantulos Brood, Lumineth Realm-lords, Daughters of Khaine, Slaanesh Sybarites, Khainite Shadowstalkers, Thunderstrike Stormcast Eternals, Kruleboyz, Scions of the Flame, Spire Tyrants, Chaotic Beasts
     - Combat Patrol: Space Marines, Necrons, Deathwatch, Black Templars, Death Guard, Orks, Drukhari, Blood Angels, Dark Angels, Space Wolves, T'au Empire, Grey Knights, Thousand Sons, Adeptus Custodes, Genestealer Cults
@@ -40,13 +40,9 @@ A "curated" list of my wish list:
     - Andy Hunt - Pragmatic Thinking and Learning
     - [Ekonomia dla każdego [oprawa twarda]](https://www.fijor.com/ksiazki/ekonomia-dla-kazdego-2/)
     - [Elementarz ekonomii – zwięzłe omówienie podstawowych reguł i doktryn](https://www.fijor.com/ksiazki/elementarz-ekonomii-zwiezle-omowienie-podstawowych-regul-i-doktryn/)
-    - [Księga dobrych praktyk najlepiej zorganizowanych polskich firm](https://www.fijor.com/ksiazki/ksiega-dobrych-praktyk/)
     - [Metody zdobywania klientów czyli jak osiągnąć sukces w sprzedaży](https://www.fijor.com/ksiazki/metody-zdobywania-klientow-czyli-jak-osiagnac-sukces-w-sprzedazy/)
     - [Postęp. Dziesięć powodów, by z optymizmem patrzeć w przyszłość](https://www.fijor.com/ksiazki/postep-dziesiec-powodow-by-z-optymizmem-patrzec-w-przyszlosc/)
     - [Przedsiębiorca idei](https://www.fijor.com/ksiazki/przedsiebiorca-idei/)
     - [Siła woli. Fundament życiowego sukcesu](https://www.fijor.com/ksiazki/sila-woli/)
-    - "Game Engine Architecture", Third Edition - Jason Gregory
-    - "Tracy Fullerton Game Design Workshop A Playcent", Fourth Edition - Tracy Fullerton
-    - "Gamedev: 10 Steps to Making Your First Game" - Wlad Marhulets
     - "You Need a Budget: The Proven System for Breaking the Paycheck-to-Paycheck Cycle, Getting Out of Debt, and Living the Life You Want"
     - "Wanting: The Power of Mimetic Desire, and How to Want What You Need" - Luke Burgis
