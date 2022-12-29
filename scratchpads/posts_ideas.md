@@ -40,3 +40,12 @@ Status: draft
 Summary: 
 
 
+- https://unsplash.com/photos/l090uFWoPaI
+- https://unsplash.com/photos/X5CSjHTjlgw
+- https://unsplash.com/collections/11544759/algorithm
+- https://unsplash.com/collections/1571191/complex-algorithm%2C-database
+- https://unsplash.com/photos/nuz3rK5iiKg
+- https://unsplash.com/photos/nbW-kaz2BlE
+- https://unsplash.com/photos/iar-afB0QQw
+- https://unsplash.com/photos/8fVK5TFKaSE
+- https://unsplash.com/s/photos/algorithm-complexity?orientation=landscape
