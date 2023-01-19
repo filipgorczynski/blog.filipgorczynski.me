@@ -16,7 +16,7 @@ Some time ago I've mentioned that I've started figures painting as a hobby. My p
 
 While feeding that addiction I've decided that it would be nice to build a custom shelf for those paints. And below is the final result.
 
-![Custom shelf for paints](./images/post/2023/01/1673429996664.jpg)
+![Custom shelf for paints](https://blog.filipgorczynski.me/images/post/2023/01/1673429996664.jpg)
 
 Right now, I'm in the middle of transferring various paints from GW pots to 17ml bottles to make a better use of space on that shelf. To be honest, there are many other reasons as well.
 
