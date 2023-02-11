@@ -1,12 +1,12 @@
 Title: Wish list
 Date: 2022-03-21 07:46:00
-Modified: 2023-01-04 17:30:46
+Modified: 2023-02-11 08:04:40
 Slug: wish-list
 Status: published
 
 A "curated" list of my wish list:
 
-- Games: Wiedźmin: Stary Świat (Big Box, Shaded), Deep Madness (Drapieżna Omega, Król Włóczęgów), Zew Cthulhu (Usłysz Zew Cthulhu, Maski Nyarlathotepa, Zasobnik strażnika), Posiadłość Szaleństwa 2 ed (Podstawa, Przerażające podróże, Ścieżka węża, Świątynia świtu, Ulice Arkham, Za progiem), Tainted Grail (Potwory Avalonu, Potwory Avalonu Przeszłość i Przyszłość, Mounted Heroes, Król Artur, Playmat), Podręcznik główny Kult: Boskość Utracona, Descent: Legendy Mroku, Warhammer FRP (Przygody w Ubersreiku, Ciężkie dnie i niespokojne noce, Wróg w Cieniach - Niezbędnik, Wewnętrzny Wróg 1: Wróg w Cieniach).
+- Games: Wiedźmin: Stary Świat (Big Box, Shaded), Descent: Legendy Mroku, Nemesis: Lockdown, Aeon's End Legacy, Deep Madness (Drapieżna Omega, Król Włóczęgów), Zew Cthulhu (Usłysz Zew Cthulhu, Maski Nyarlathotepa, Zasobnik strażnika), Blood Rage, Posiadłość Szaleństwa 2 ed (Podstawa, Przerażające podróże, Ścieżka węża, Świątynia świtu, Ulice Arkham, Za progiem), Tainted Grail (Potwory Avalonu, Potwory Avalonu Przeszłość i Przyszłość, Mounted Heroes, Król Artur, Playmat), Podręcznik główny Kult: Boskość Utracona, Descent: Legendy Mroku, Warhammer FRP (Przygody w Ubersreiku, Ciężkie dnie i niespokojne noce, Wróg w Cieniach - Niezbędnik, Wewnętrzny Wróg 1: Wróg w Cieniach).
 - Warhammer 40,000
     - Combat Patrol: Space Marines, Necrons, Deathwatch, Blood Angels, Dark Angels, Black Templars, Death Guard, Orks, Drukhari, Space Wolves, T'au Empire, Grey Knights, Thousand Sons, Adeptus Custodes, Genestealer Cults
     - Kill Team: Starter Set, Octarius, Pariah Nexus
