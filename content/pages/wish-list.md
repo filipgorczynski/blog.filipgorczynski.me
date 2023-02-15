@@ -1,17 +1,17 @@
 Title: Wish list
 Date: 2022-03-21 07:46:00
-Modified: 2023-02-11 08:04:40
+Modified: 2023-02-15 10:07:22
 Slug: wish-list
 Status: published
 
 A "curated" list of my wish list:
 
-- Games: Wiedźmin: Stary Świat (Big Box, Shaded), Descent: Legendy Mroku, Nemesis: Lockdown, Aeon's End Legacy, Deep Madness (Drapieżna Omega, Król Włóczęgów), Zew Cthulhu (Usłysz Zew Cthulhu, Maski Nyarlathotepa, Zasobnik strażnika), Blood Rage, Posiadłość Szaleństwa 2 ed (Podstawa, Przerażające podróże, Ścieżka węża, Świątynia świtu, Ulice Arkham, Za progiem), Tainted Grail (Potwory Avalonu, Potwory Avalonu Przeszłość i Przyszłość, Mounted Heroes, Król Artur, Playmat), Podręcznik główny Kult: Boskość Utracona, Descent: Legendy Mroku, Warhammer FRP (Przygody w Ubersreiku, Ciężkie dnie i niespokojne noce, Wróg w Cieniach - Niezbędnik, Wewnętrzny Wróg 1: Wróg w Cieniach).
+- Games: Descent: Legendy Mroku, Nemesis: Lockdown, Aeon's End: Nowy Początek, Aeon's End: Tajemnica Dziczy, Aeon's End Legacy, Deep Madness (Drapieżna Omega, Król Włóczęgów), Zew Cthulhu (Maski Nyarlathotepa, Usłysz Zew Cthulhu, Zasobnik strażnika), Blood Rage, Posiadłość Szaleństwa 2 ed (Podstawa, Przerażające podróże, Ścieżka węża, Świątynia świtu, Ulice Arkham, Za progiem), Tainted Grail (Potwory Avalonu, Potwory Avalonu Przeszłość i Przyszłość, Mounted Heroes, Król Artur, Playmat), Wiedźmin: Stary Świat (Big Box, Shaded), Podręcznik główny Kult: Boskość Utracona.
 - Warhammer 40,000
-    - Combat Patrol: Space Marines, Necrons, Deathwatch, Blood Angels, Dark Angels, Black Templars, Death Guard, Orks, Drukhari, Space Wolves, T'au Empire, Grey Knights, Thousand Sons, Adeptus Custodes, Genestealer Cults
-    - Kill Team: Starter Set, Octarius, Pariah Nexus
-    - Battleforce: Space Marines Interdiction Force, Space Marines Shieldbreaker Strike Force, Necrons Worldscour Legion, Necrons Eradication Legion, Adepta Sororitas Purgatos Mission, Adeptus Mechanicus Omnissiah's Talon, Orks Killdakka Warband, Astra Militarum Bastion Platoon, Thousand Sons, Chaos Knights, Chaos Space Marines Decimation Warband, Chaos Space Marines Vengeance Warband, Death Guard Plaguefester Warband, Drukhari Poisonblade Raiding Party, Grey Knights, T'au Empire Starpulse Cadre, Tyranids Brood Swarm
-    - Warcry factions: Iron Golem, The Untamed Beasts, The Corvus Cabal, Cypher Lords, The Unmade, Splintered Fang, The Darkoath Savagers, The Tarantulos Brood, Lumineth Realm-lords, Daughters of Khaine, Slaanesh Sybarites, Khainite Shadowstalkers, Thunderstrike Stormcast Eternals, Kruleboyz, Scions of the Flame, Spire Tyrants, Chaotic Beasts
+    - Necrons: Combat Patrol, C'tan Shard Of The Void Dragon, Flayed Ones, Canoptek Spyder, Hexmark Destroyer, Psychomancer, Skorpekh Destroyers, Tesseract Vault, Triarch Stalker, Catacomb Command Barge, Triarch Praetorians Lychguard, Orikan the Diviner, Overlord, Cryptek, Doom Scythe, Monolith, Illuminor Szeras, Canoptek Wraiths, Ghost Ark/Doomsday Ark, Ophydian Destroyers, Convergence Of Dominion, Necron Warriors, Szarekh The Silent King, Lokhusts Heavy Destroyer, Canoptek Doomstalker,
+    - Space Marines: Combat Patrol
+    <!-- - Adepta Sororitas
+    - Adeptus Mechanicus:  -->
 - Kingston 480GB 2,5" SATA SSD A400
 - Huion Kamvas Pro 24
 - SPC Gear LIX Plus Onyx White
