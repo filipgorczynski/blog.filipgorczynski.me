@@ -1,14 +1,14 @@
 Title: Wish list
 Date: 2022-03-21 07:46:00
-Modified: 2023-02-17 09:30:13
+Modified: 2023-03-05 09:02:22
 Slug: wish-list
 Status: published
 
 A "curated" list of my wish list:
 
-- Games: Descent: Legendy Mroku, Nemesis: Lockdown, Aeon's End: Nowy Początek, Aeon's End: Tajemnica Dziczy, Aeon's End Legacy, Deep Madness (Drapieżna Omega, Król Włóczęgów), Zew Cthulhu (Maski Nyarlathotepa, Usłysz Zew Cthulhu, Zasobnik strażnika), Blood Rage, Posiadłość Szaleństwa 2 ed (Podstawa, Przerażające podróże, Ścieżka węża, Świątynia świtu, Ulice Arkham, Za progiem), Tainted Grail (Potwory Avalonu, Potwory Avalonu Przeszłość i Przyszłość, Mounted Heroes, Król Artur, Playmat), Wiedźmin: Stary Świat (Big Box, Shaded), Podręcznik główny Kult: Boskość Utracona.
+- Games: Descent: Legendy Mroku, Nemesis: Lockdown, Aeon's End: Nowy Początek, Aeon's End: Tajemnica Dziczy, Aeon's End Legacy, Deep Madness (Drapieżna Omega, Król Włóczęgów), Zew Cthulhu (Maski Nyarlathotepa, Usłysz Zew Cthulhu, Zasobnik strażnika), Blood Rage, Posiadłość Szaleństwa 2 ed (Przerażające podróże, Ścieżka węża, Świątynia świtu, Ulice Arkham, Za progiem), Tainted Grail (Potwory Avalonu, Potwory Avalonu Przeszłość i Przyszłość, Mounted Heroes, Król Artur, Playmat), Wiedźmin: Stary Świat (Big Box, Shaded), Podręcznik główny Kult: Boskość Utracona.
 - Warhammer 40,000
-    - Necrons: C'tan Shard Of The Void Dragon, Flayed Ones, Canoptek Spyder, Hexmark Destroyer, Lokhusts Heavy Destroyer, Triarch Stalker, Catacomb Command Barge, Triarch Praetorians Lychguard, Orikan the Diviner, Doom Scythe, Illuminor Szeras, Canoptek Wraiths, Ghost Ark/Doomsday Ark, Ophydian Destroyers, Convergence Of Dominion, Necron Warriors, Szarekh The Silent King, Skorpekh Destroyers, Tesseract Vault, Monolith, Canoptek Doomstalker, ...
+    - Necrons: Lokhusts Heavy Destroyer, Triarch Stalker, Triarch Praetorians Lychguard, Canoptek Wraiths, Orikan the Diviner, C'tan Shard Of The Void Dragon, Flayed Ones, Canoptek Spyder, Doom Scythe, Illuminor Szeras, Ghost Ark/Doomsday Ark, Ophydian Destroyers, Convergence Of Dominion, Skorpekh Destroyers, Tesseract Vault, Monolith, Canoptek Doomstalker, Szarekh The Silent King (optinally), ...
     - Space Marines: Combat Patrol
     - Adepta Sororitas: TBA
     - Adeptus Mechanicus: TBA
