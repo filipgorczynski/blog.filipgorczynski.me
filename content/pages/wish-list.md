@@ -6,12 +6,15 @@ Status: published
 
 A "curated" list of my wish list:
 
+- Citadel Battle Figure Case
+- Warhammer 40K Kill Team Hierotek Circle Dice Set
+- Genesys RPG Podręcznik podstawowy
 - Games: Descent: Legendy Mroku, Nemesis: Lockdown, Aeon's End: Nowy Początek, Aeon's End: Tajemnica Dziczy, Aeon's End Legacy, Deep Madness (Drapieżna Omega, Król Włóczęgów), Zew Cthulhu (Maski Nyarlathotepa, Usłysz Zew Cthulhu, Zasobnik strażnika), Blood Rage, Posiadłość Szaleństwa 2 ed (Przerażające podróże, Ścieżka węża, Świątynia świtu, Ulice Arkham, Za progiem), Tainted Grail (Potwory Avalonu, Potwory Avalonu Przeszłość i Przyszłość, Mounted Heroes, Król Artur, Playmat), Wiedźmin: Stary Świat (Big Box, Shaded), Podręcznik główny Kult: Boskość Utracona.
 - Warhammer 40,000
-    - Necrons: Lokhusts Heavy Destroyer, Triarch Stalker, Triarch Praetorians Lychguard, Canoptek Wraiths, Orikan the Diviner, C'tan Shard Of The Void Dragon, Flayed Ones, Canoptek Spyder, Doom Scythe, Illuminor Szeras, Ghost Ark/Doomsday Ark, Ophydian Destroyers, Convergence Of Dominion, Skorpekh Destroyers, Tesseract Vault, Monolith, Canoptek Doomstalker, Szarekh The Silent King (optinally), ...
-    - Space Marines: Combat Patrol
-    - Adepta Sororitas: TBA
+    - Necrons: Lokhust Heavy Destroyer (2x), Triarch Stalker, Triarch Praetorians Lychguard, Canoptek Wraiths, Orikan the Diviner, C'tan Shard Of The Void Dragon, Flayed Ones, Canoptek Spyder, Doom Scythe, Illuminor Szeras, Ghost Ark/Doomsday Ark, Ophydian Destroyers, Convergence Of Dominion, Skorpekh Destroyers, Tesseract Vault, Monolith, Canoptek Doomstalker, Szarekh The Silent King (optinally), ...
     - Adeptus Mechanicus: TBA
+    - Adepta Sororitas: TBA
+- The Army Painter - Speedpaint Mega Set
 - Kingston 480GB 2,5" SATA SSD A400
 - Huion Kamvas Pro 24
 - SPC Gear LIX Plus Onyx White
