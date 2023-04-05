@@ -1,6 +1,6 @@
 Title: About Me
 Date: 2020-12-16 13:16
-Modified: 2020-12-16 13:16
+Modified: 2023-04-05 09:15:46
 Slug: about-me
 Status: published
 
@@ -17,11 +17,10 @@ Hello, folks!
 
 I'm Filip Górczyński and I wear many hats depending on what is required of me but most of the time I jump between **Full Stack Web Developer** and **Family Guy**.
 
-I'm currently working for Canadian automotive company Unhaggle as a Full Stack Engineer using awesome Django and lightweight Vue.js frameworks.
-
 Short career highlights:
 
-- Junior Game Developer at Omnigame ApS (2021.10-present)
+- Full Stack Web Engineer at Neoinstinct (2022.11-present)
+- Junior Game Developer at Omnigame ApS (2021.10-2022.10)
 - Full Stack Engineer at Unhaggle Inc. (2019-2021.09)
 - Full Stack Web Developer at STX Next (2015-2018)
 - PHP develper - just no, never again
