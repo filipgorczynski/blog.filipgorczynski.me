@@ -1,6 +1,6 @@
 Title: Wish list
 Date: 2022-03-21 07:46:00
-Modified: 2023-05-16 07:59:58
+Modified: 2023-05-24 10:42:30
 Slug: wish-list
 Status: published
 
@@ -10,8 +10,11 @@ A "curated" list of my wish list:
 - Warhammer 40K Kill Team Hierotek Circle Dice Set
 - Genesys RPG Podręcznik podstawowy
 - Podręcznik główny Kult: Boskość Utracona
-- Games: Etherfields Stretch Goals Kampanie Wilczycy i Harpii, Creatures of Etherfields, Nemesis: Lockdown, Aeon's End: Nowy Początek, Aeon's End: Tajemnica Dziczy, Aeon's End Legacy, Deep Madness (Drapieżna Omega, Król Włóczęgów), Zew Cthulhu (Maski Nyarlathotepa, Usłysz Zew Cthulhu, Zasobnik strażnika), Blood Rage, Posiadłość Szaleństwa 2 ed (Przerażające podróże, Ścieżka węża, Świątynia świtu, Ulice Arkham), Tainted Grail (Potwory Avalonu, Potwory Avalonu Przeszłość i Przyszłość, Mounted Heroes, Król Artur, Playmat), Wiedźmin: Stary Świat (Big Box, Shaded).
-- Warhammer 40,000 Necrons: C'tan Shard of the Void Dragon, C'tan Shard of The Nightbringer, C'tan Shard of The Deceiver, Doom Scythe, Ghost Ark/Doomsday Ark, Convergence Of Dominion, Tesseract Vault, Monolith, Szarekh The Silent King (optionally), ...
+- Games: Nemesis: Lockdown, Aeon's End: Nowy Początek, Aeon's End: Tajemnica Dziczy, Aeon's End Legacy, Deep Madness (Drapieżna Omega, Król Włóczęgów), Zew Cthulhu (Maski Nyarlathotepa, Usłysz Zew Cthulhu, Zasobnik strażnika), Blood Rage, Posiadłość Szaleństwa 2 ed (Przerażające podróże, Ścieżka węża, Świątynia świtu, Ulice Arkham), Tainted Grail (Potwory Avalonu, Potwory Avalonu Przeszłość i Przyszłość, Mounted Heroes, Król Artur, Playmat), Wiedźmin: Stary Świat (Big Box, Shaded).
+- Warhammer 40,000:
+  - (Xenos) Necrons: C'tan Shard of the Void Dragon, C'tan Shard of The Nightbringer, C'tan Shard of The Deceiver, Doom Scythe, Ghost Ark/Doomsday Ark, Convergence Of Dominion, Tesseract Vault, Monolith, Szarekh The Silent King (optionally), ...
+  - (Imperium) Space Marines/Dark Angels: TBA
+  - (Chaos) ???: TBA
 - The Army Painter - Speedpaint Mega Set 2.0
 - Kingston 480GB 2,5" SATA SSD A400
 - SPC Gear LIX Plus Onyx White
