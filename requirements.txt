@@ -20,8 +20,6 @@ atomicwrites==1.4.1
     # via -r requirements.in
 attrs==23.1.0
     # via -r requirements.in
-awesome-slugify==1.6.5
-    # via -r requirements.in
 babel==2.12.1
     # via
     #   -r requirements.in
@@ -278,8 +276,6 @@ pyyaml==6.0
     # via
     #   -r requirements.in
     #   bandit
-regex==2023.6.3
-    # via awesome-slugify
 requests==2.31.0
     # via
     #   -r requirements.in
@@ -387,10 +383,9 @@ typing-extensions==4.7.1
     # via pydantic
 typogrify==2.0.7
     # via -r requirements.in
-unidecode==0.4.21
+unidecode==1.3.6
     # via
     #   -r requirements.in
-    #   awesome-slugify
     #   pelican
 urllib3==2.0.3
     # via
