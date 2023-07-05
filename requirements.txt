@@ -178,7 +178,7 @@ pbr==5.11.1
     #   stevedore
 pdfkit==1.0.0
     # via -r requirements.in
-pelican==4.5.0
+pelican==4.8.0
     # via
     #   -r requirements.in
     #   pelican-image-process
@@ -284,6 +284,7 @@ requests==2.31.0
 rich==12.6.0
     # via
     #   bandit
+    #   pelican
     #   typer
 rstcheck==6.1.2
     # via -r requirements.in
