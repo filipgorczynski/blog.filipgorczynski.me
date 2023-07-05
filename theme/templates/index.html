@@ -1,9 +1,8 @@
 {% extends 'base.html' %}
 
 {% block content %}
-  {% if articles %}
   <div class="articles">
-    {% for article in articles %}
+    {% for article in articles_page.object_list %}
     <div class="article-preview">
       <h2 class="article-title">
         <span class="date-posted">{{ article.date|strftime('%d %b \'%y') }}</span> <a class="title" href="{{ article.url }}">{{ article.title }}</a>
@@ -12,5 +11,5 @@
     </div>
     {% endfor %}
   </div>
-  {% endif %}
+  {% include 'partial/pagination.html' %}
 {% endblock %}

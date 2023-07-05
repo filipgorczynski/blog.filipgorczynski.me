@@ -7,7 +7,7 @@ SITEURL = 'https://blog.filipgorczynski.me'
 SITETITLE = "Filip Górczyński"
 SITESUBTITLE = "Jack of all trades; Master of none."
 SITEDESCRIPTION = "Jack of all trades; Master of none."
-SITELOGO = SITEURL + "/images/profile.png"
+SITELOGO = f"{SITEURL}/images/profile.png"
 FAVICON = "favicon.png"
 BROWSER_COLOR = "#efefef"
 ROBOTS = "index, follow"
@@ -85,7 +85,7 @@ PLUGINS = [
     # 'i18n_subsites',
 ]
 
-JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
+JINJA_ENVIRONMENT = {"extensions": []}  # "jinja2.ext.i18n"
 
 # https://github.com/getpelican/pelican-plugins/tree/master/post_stats
 
@@ -93,7 +93,7 @@ JINJA_ENVIRONMENT = {"extensions": ["jinja2.ext.i18n"]}
 RELATED_POSTS_MAX = 10
 
 OG_LOCALE = "en_EN"
-LOCALE = "en_EN"
+LOCALE = "en_US"
 
 # Default theme language.
 I18N_TEMPLATES_LANG = "en"
