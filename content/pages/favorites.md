@@ -11,3 +11,5 @@ A curated list of my favorite resources
 * [Optimistic Nihilism](https://tinyclouds.org/optimistic_nihilis)
 * [Write Better Commits, Build Better Projects](https://github.blog/2022-06-30-write-better-commits-build-better-projects/)
 * [The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)
+* [Django Views — The Right Way](https://spookylukey.github.io/django-views-the-right-way/)
+* [Alphabet Superset](https://www.alphabetsuperset.com/)

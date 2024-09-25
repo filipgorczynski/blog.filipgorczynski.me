@@ -2,12 +2,12 @@ Title: AMQP, RabbitMQ and Celery
 Date: 2023-01-20 14:07:30
 Modified: 2023-01-20 14:07:30
 Category: Life
-Tags: #life, #hobby, #diy, #shelf, #paints, #storage
-Slug: diy-shelf-for-hobby-paints
+Tags: #tech
+Slug: amqp-rabbitmq-celery
 Author: filipgorczynski
 Status: draft
 Cover: https://blog.filipgorczynski.me/images/feature/peter-bond-KfvknMhkmw0.jpg
-meta_url: https://blog.filipgorczynski.me/2023/01/diy-shelf-for-hobby-paints
+meta_url: https://blog.filipgorczynski.me/2024/04/amqp-rabbitmq-celery
 Summary: Some time ago I've mentioned that I've started figures painting as a hobby. My paints collection started to grow. Rapidly. And please don't blame me. Those colors are addictive.
 
 ![Photo by Peter Bond](https://blog.filipgorczynski.me/images/feature/peter-bond-KfvknMhkmw0.jpg)

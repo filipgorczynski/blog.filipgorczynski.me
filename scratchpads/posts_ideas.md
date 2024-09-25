@@ -2,6 +2,11 @@
 
 ## General
 
+- How websites work?
+- How web frameworks work?
+- Model-View-Controller vs Model-View-Template
+- 
+
 Categories: Life, Tech, Notes, Shorts (https://neilkakkar.com/categories/)
 
 {# https://gist.github.com/filipgorczynski/7e572ad2b8367eb47baa73d83913fab3 #}
