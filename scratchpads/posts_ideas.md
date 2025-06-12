@@ -14,6 +14,8 @@ Categories: Life, Tech, Notes, Shorts (https://neilkakkar.com/categories/)
 {# [gist:id=7e572ad2b8367eb47baa73d83913fab3,file=extract_css_colors.py] #}
 {# <script src="https://gist.github.com/filipgorczynski/7e572ad2b8367eb47baa73d83913fab3.js"></script> #}
 
+`Cannot find namespace 'AuthContext' - file extension shouold be tsx instead ts.
+
 ## Unsplash
 
 {# <div class="unsplash-featured">
