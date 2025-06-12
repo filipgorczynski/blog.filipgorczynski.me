@@ -2,7 +2,7 @@
 # https://github.com/alexandrevicenzi/Flex/wiki/Configuration-example
 
 AUTHOR = 'Filip Górczyński'
-SITENAME = 'Filip Górczyński'
+SITENAME = 'Filip Górczyński Blog'
 SITEURL = 'https://blog.filipgorczynski.me'
 SITETITLE = "Filip Górczyński"
 SITESUBTITLE = "Jack of all trades; Master of none."
@@ -13,7 +13,7 @@ BROWSER_COLOR = "#efefef"
 ROBOTS = "index, follow"
 # PATH = 'content'
 TIMEZONE = 'UTC'
-# DEFAULT_LANG = 'pl'
+# DEFAULT_LANG = 'en'
 EXTRA_PATH_METADATA = {
     "extra/custom.css": {"path": "static/custom.css"},
 }
@@ -26,7 +26,7 @@ CATEGORY_FEED_ATOM = "feeds/{slug}.atom.xml"
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-COPYRIGHT_YEAR = 2024
+COPYRIGHT_YEAR = 2025
 COPYRIGHT_PERSONAL_NAME = "Filip Górczyński"
 # PAGE_URL = '/pages/{slug}.html'
 PAGE_URL = '/{slug}/'
@@ -42,8 +42,6 @@ ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}/index.html'
 HOME_HIDE_TAGS = True
 MAIN_MENU = True
 
-# ADD_THIS_ID = "ra-77hh6723hhjd"
-# DISQUS_SITENAME = "yoursite"
 GOOGLE_ANALYTICS = "UA-XXX"
 GOOGLE_TAG_MANAGER = "G-6CT399TS6J"
 
@@ -78,8 +76,8 @@ DEFAULT_PAGINATION = 10
 PLUGIN_PATHS = ['/home/filip/src/Vendors/pelican-plugins']
 PLUGINS = [
     'pelican_gist',
-    # 'extended_meta',
     'metadataparsing',
+    # 'extended_meta',
     # 'pelican_htmlmin',
     # 'related_posts',
     # 'post_stats',
