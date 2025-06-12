@@ -17,12 +17,14 @@ Hello, folks!
 
 I'm Filip Górczyński and I wear many hats depending on what is required of me but most of the time I jump between **Full Stack Web Developer** and **Family Guy**.
 
+I paint miniatures once a week—not professionally, just to unwind. I'd love to find time to do it more often.
+
 Short career highlights:
 
-- Full Stack Web Engineer at Neoinstinct (2022.11-present)
-- Junior Game Developer at Omnigame ApS (2021.10-2022.10)
-- Full Stack Engineer at Unhaggle Inc. (2019-2021.09)
-- Full Stack Web Developer at STX Next (2015-2018)
-- PHP develper - just no, never again
+-   Full Stack Web Engineer at Neoinstinct (2022.11-present)
+-   Junior Game Developer at Omnigame ApS (2021.10-2022.10)
+-   Full Stack Engineer at Unhaggle Inc. (2019-2021.09)
+-   Full Stack Web Developer at STX Next (2015-2018)
+-   PHP develper - just no, never again
 
 In case you'd like to buy me something, here is my <a href="https://blog.filipgorczynski.me/pages/wish-list.html">🎁 wish list</a>.
