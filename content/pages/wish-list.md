@@ -1,6 +1,6 @@
 Title: Wish list
 Date: 2022-03-21 07:46:00
-Modified: 2025-06-12 16:06:15
+Modified: 2025-08-05 17:54:48
 Slug: wish-list
 Status: published
 
@@ -10,8 +10,6 @@ A "curated" list of my wish list:
 -   Warhammer 40,000:
     -   (Xenos) Necrons: Tesseract Vault, C'tan Shard of The Deceiver, Lokhust Heavy Destroyer (3x), Convergence of Dominion
     -   (Chaos) Death Guard: Helbrute
--   Zew Cthulhu (Maski Nyarlathotepa)
--   Kingston 480GB 2,5" SATA SSD A400
 -   SPC Gear LIX Plus Onyx White
 -   ROYAL KLUDGE RK61 61 Keys Wireless 60% Mechanical Gaming Keyboard - Hot Swappable Brown Switch
 -   Epson EcoTank L1110
