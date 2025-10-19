@@ -4,12 +4,13 @@
 AUTHOR = "Filip Górczyński"
 SITENAME = "Filip Górczyński Blog"
 SITEURL = "https://blog.filipgorczynski.me"
+# 127.0.0.1:8000"  # for development purposes
 SITETITLE = "Filip Górczyński"
 SITESUBTITLE = (
     "A Jack of all trades but a master of none, but still better than a master of one."
 )
 SITEDESCRIPTION = "Filip Górczyński: A Jack of all trades but a master of none, but still better than a master of one."
-SITELOGO = SITEURL + "/images/profile.png"
+SITELOGO = SITEURL + "/theme/images/profile.jpg"
 FAVICON = "favicon.png"
 BROWSER_COLOR = "#efefef"
 ROBOTS = "index, follow"
@@ -33,7 +34,6 @@ COPYRIGHT_PERSONAL_NAME = "Filip Górczyński"
 # PAGE_URL = '/pages/{slug}.html'
 PAGE_URL = "/{slug}/"
 PAGE_SAVE_AS = "pages/{slug}.html"
-# PAGE_SAVE_AS = '{slug}/index.html'
 CATEGORY_URL = "/category/{slug}.html"
 CATEGORY_SAVE_AS = "category/{slug}.html"
 TAG_URL = "/tag/{slug}.html"
