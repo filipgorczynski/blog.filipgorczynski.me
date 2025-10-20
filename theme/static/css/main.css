@@ -1,9 +1,9 @@
-@import 'normalize.css';
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import "normalize.css";
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 
 body {
-  font-family: 'Ubuntu', Sans-Serif;
+  font-family: "Ubuntu", Sans-Serif;
   font-size: 1.1rem;
   font-size: 1.2em;
   color: #333;
@@ -34,7 +34,7 @@ a:hover {
 
 code,
 pre {
-  font-family: 'Ubuntu Mono', monospace;
+  font-family: "Ubuntu Mono", monospace;
   background-color: #eff6ff;
   color: #5067b9;
   padding: 0.25rem 0.25rem;
@@ -180,4 +180,14 @@ nav header {
 
 .unsplash-reference {
   color: #afafaf;
+}
+
+.gdpr-notice {
+  font-size: 0.8rem;
+  color: gray;
+  background-color: aliceblue;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  padding: 3px;
 }

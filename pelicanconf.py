@@ -47,7 +47,7 @@ MAIN_MENU = True
 GOOGLE_ANALYTICS = "UA-XXX"
 GOOGLE_TAG_MANAGER = "G-6CT399TS6J"
 
-# CSS_FILE = 'main.css'
+CSS_FILE = "main.css"
 # Blogroll
 LINKS = (
     ("Previous Blog", "https://filipgorczynski.wordpress.com/"),

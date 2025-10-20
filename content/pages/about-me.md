@@ -27,4 +27,4 @@ Short career highlights:
 -   Full Stack Web Developer at STX Next (2015-2018)
 -   PHP develper - just no, never again
 
-In case you'd like to buy me something, here is my <a href="{{ SITEURL }}/pages/wish-list.html">🎁 wish list</a>.
+In case you'd like to buy me something, here is my <a href="/pages/wish-list.html">🎁 wish list</a>.

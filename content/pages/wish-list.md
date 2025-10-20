@@ -6,12 +6,11 @@ Status: published
 
 A "curated" list of my wish list:
 
--   [Planszówki](https://planszeo.pl/lista-zakupow?username=fgorczynski)
--   Warhammer 40,000:
-    -   (Xenos) Necrons: Tesseract Vault, C'tan Shard of The Deceiver, Lokhust Heavy Destroyer (3x), Convergence of Dominion
-    -   (Chaos) Death Guard: Helbrute
--   SPC Gear LIX Plus Onyx White
--   ROYAL KLUDGE RK61 61 Keys Wireless 60% Mechanical Gaming Keyboard - Hot Swappable Brown Switch
+-   [Board games](https://planszeo.pl/lista-zakupow?username=fgorczynski)
+-   Warhammer 40,000: (Xenos) Leagues of Votann: Kapricus Defender/Carrier, Cthonian Earthshakers, Ironkin Steeljacks (3x), Kill Team: Hernkyn Yaegirs, Kill Team: Hearthkyn Salvagers, Hekaton Land Fortress
+-   Warhammer 40,000: (Xenos) Necrons: Tesseract Vault, C'tan Shard of The Deceiver, Lokhust Heavy Destroyer (3x), Convergence of Dominion, Flayed Ones, Combat Patrol: Necrons, Necrons Royal Court, Chronomancer, Royal Warden, C'tan Shard of the Void Dragon, Monolith, Canoptek Wraiths, Obelisk & Transcendent C'tan, Kill Team: Hierotek Circle, Canoptek Spyder
+-   Warhammer 40,000: (Chaos) Death Guard: Helbrute
+-   ROYAL KLUDGE RK920 Full Size Mechanical Keyboard
 -   Epson EcoTank L1110
 -   Gamemaster: XPS Scenery Foam Booster Pack, Wilderness & Woodland Terrain Kit, Ruins & Cliffs Terrain Kit, Desert & Arid Wastes Terrain Kit, Snow & Tundra Terrain Kit, Dungeons & Caverns Core Set
 -   Xiaomi Amazfit T-Rex Pro Smartwatch (black)
@@ -22,9 +21,8 @@ A "curated" list of my wish list:
 -   Cold Steel Recon 1 Spear Point S35VN
 -   Ka-Bar USMC The Legend
 -   Walther Outdoor Survival OSK I
--   Walther Premium Skinner
 -   Gerber Gear Gator Combo Axe I
 -   Gerber Gear LMF II Infantry Black
 -   Gerber Gear Bolo
 -   Gerber Gator Kukri
--   "Ergohuman Plus Elite BS KMD31" or "Diablo X-One 2.0 Normal Size: Czarno-Niebieski" or "Diablo X-Player 2.0 Materiałowy Adeptus
+-   "Ergohuman Plus Elite BS KMD31"
