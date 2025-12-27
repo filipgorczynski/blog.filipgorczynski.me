@@ -1,13 +1,13 @@
-Title: Parental controls in Windows is completely broken, like the entire Windows system
+Title: Parental control in Windows is completely broken, like the entire Windows system
 Date: 2025-12-27 15:25:55
 Modified: 2025-12-27 15:25:55
 Category: Tech
 Tags: #tech, #windows, #linux, #hardware
-Slug: parental-controls-in-windows-is-completely-broken-like-the-entire-windows-system
+Slug: parental-control-in-windows-is-completely-broken-like-the-entire-windows-system
 Author: filipgorczynski
 Status: published
 Cover: https://blog.filipgorczynski.me/images/feature/igor-omilaev-xvHl_X9Ojrg.jpg
-meta_url: https://blog.filipgorczynski.me/2025/12/parental-controls-in-windows-is-completely-broken-like-the-entire-windows-system
+meta_url: https://blog.filipgorczynski.me/2025/12/parental-control-in-windows-is-completely-broken-like-the-entire-windows-system
 Summary: We've decided to buy a computer for our kid. Because of the main purpose - gaming - I've ended up choosing Windows 11, as it was the latest OS version.
 
 We've decided to buy a computer for our kid. Because of the main purpose - gaming - I've ended up choosing Windows 11, as it was the latest OS version.
