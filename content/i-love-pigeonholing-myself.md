@@ -1,6 +1,6 @@
 Title: I love pigeonholing myself
 Date: 2022-08-22 08:29:28
-Modified: 2022-08-22 08:29:28
+Modified: 2025-12-28 09:17:18
 Category: Life
 Tags: #16-personalities, #disc, #gallup, #clifton-strengths, #infj-t, #strengths, #weaknesses
 Slug: i-love-pigeonholing-myself
@@ -26,19 +26,19 @@ CliftonStrengths test showed me that my top 5 strengths are:
 
 Awesome. But what does it actually mean?
 
-- Because of Harmony I look for consensus, don't enjoy conflict; rather, I seek areas of agreement.
-- Because of Restorative, I am adept at dealing with problems. I am good at figuring out what is wrong and resolving it.
-- Because of Significance, I want to make a big impact. I am independent and prioritize projects based on how much influence they will have on organization or people around me.
-- Because of Focus, I can take a direction, follow through and make the corrections necessary to stay on track. I prioritize, then act.
-- Because of Competition, I measure my progress against the performance of others. I strive to win first place and revel in contests.
+-   Because of Harmony I look for consensus, don't enjoy conflict; rather, I seek areas of agreement.
+-   Because of Restorative, I am adept at dealing with problems. I am good at figuring out what is wrong and resolving it.
+-   Because of Significance, I want to make a big impact. I am independent and prioritize projects based on how much influence they will have on organization or people around me.
+-   Because of Focus, I can take a direction, follow through and make the corrections necessary to stay on track. I prioritize, then act.
+-   Because of Competition, I measure my progress against the performance of others. I strive to win first place and revel in contests.
 
 Few resources to get more into details with those strengths:
 
-- [The Harmony Theme: How You Can Productively Aim Your CliftonStrengths Talent](https://www.gallup.com/cliftonstrengths/en/249686/productively-aim-harmony-talents.aspx)
-- [The Restorative Theme: How You Can Productively Aim Your CliftonStrengths Talent](https://www.gallup.com/cliftonstrengths/en/249494/productively-aim-restorative-talents.aspx)
-- [How You Can Productively Aim Your Significance Talents](https://www.gallup.com/cliftonstrengths/en/249476/productively-aim-significance-talents.aspx)
-- [The Focus Theme: How You Can Productively Aim Your CliftonStrengths Talent](https://www.gallup.com/cliftonstrengths/en/249728/productively-aim-focus-talents.aspx)
-- [How You Can Productively Aim Your Competition Talents](https://www.gallup.com/cliftonstrengths/en/249857/competition-theme-productively-aim-your-cliftonstrengths-talent.aspx)
+-   [The Harmony Theme: How You Can Productively Aim Your CliftonStrengths Talent](https://www.gallup.com/cliftonstrengths/en/249686/productively-aim-harmony-talents.aspx)
+-   [The Restorative Theme: How You Can Productively Aim Your CliftonStrengths Talent](https://www.gallup.com/cliftonstrengths/en/249494/productively-aim-restorative-talents.aspx)
+-   [How You Can Productively Aim Your Significance Talents](https://www.gallup.com/cliftonstrengths/en/249476/productively-aim-significance-talents.aspx)
+-   [The Focus Theme: How You Can Productively Aim Your CliftonStrengths Talent](https://www.gallup.com/cliftonstrengths/en/249728/productively-aim-focus-talents.aspx)
+-   [How You Can Productively Aim Your Competition Talents](https://www.gallup.com/cliftonstrengths/en/249857/competition-theme-productively-aim-your-cliftonstrengths-talent.aspx)
 
 ## 16 Personalities
 
@@ -54,18 +54,18 @@ Additional T suffix stands from Turbulent which means I am likely to question my
 
 [specific strengths & weaknesses](https://www.16personalities.com/infj-strengths-and-weaknesses) according to this personality:
 
-- Strengths
-    - Creative
-    - Insightful
-    - Principled
-    - Passionate
-    - Altruistic
-- Weaknesses
-    - Sensitive to Criticism
-    - Reluctant to Open Up
-    - Perfectionistic
-    - Avoiding the Ordinary
-    - Prone to Burnout
+-   Strengths
+    -   Creative
+    -   Insightful
+    -   Principled
+    -   Passionate
+    -   Altruistic
+-   Weaknesses
+    -   Sensitive to Criticism
+    -   Reluctant to Open Up
+    -   Perfectionistic
+    -   Avoiding the Ordinary
+    -   Prone to Burnout
 
 > Advocates' gifts include idealism, determination, and the ability to envision a better future – but they don’t just want to hear what makes them great. Advocates are committed to actually using these gifts to become better people and serve a greater purpose in this world.
 
@@ -81,54 +81,54 @@ My personal DiSC style is: **C/S**
 
 What does it mean?
 
-- Compliant
-    - Cautious
-    - Careful
-    - Conscientious
-    - Calculating
-    - Condescending
-- Steady
-    - Stable
-    - Supportive
-    - Sincere
-    - Slow
-    - Sensitive
-- Conscientiousness
-    - Analytical
-    - Reserved
-    - Precise
-    - Private
-    - Systematic
-- Steadiness
-    - Even-tempered
-    - Accommodating
-    - Patient
-    - Humble
-    - Tactful
+-   Compliant
+    -   Cautious
+    -   Careful
+    -   Conscientious
+    -   Calculating
+    -   Condescending
+-   Steady
+    -   Stable
+    -   Supportive
+    -   Sincere
+    -   Slow
+    -   Sensitive
+-   Conscientiousness
+    -   Analytical
+    -   Reserved
+    -   Precise
+    -   Private
+    -   Systematic
+-   Steadiness
+    -   Even-tempered
+    -   Accommodating
+    -   Patient
+    -   Humble
+    -   Tactful
 
 What motivates me? I will probably enjoy many of the following aspects of work:
 
-- Catching errors or flaws in design
-- Maintaining high standards
-- Bringing order to a project
-- Supporting people when they face a challenge
-- Solving problems through logic
-- Providing in-depth analysis
-- Ensuring accuracy and precision
-- Working steadily toward a goal
-- Being an expert
+-   Catching errors or flaws in design
+-   Maintaining high standards
+-   Bringing order to a project
+-   Supporting people when they face a challenge
+-   Solving problems through logic
+-   Providing in-depth analysis
+-   Ensuring accuracy and precision
+-   Working steadily toward a goal
+-   Being an expert
 
 So what is stressing me out?
 
-- Working without clear guidelines
-- Making decisions without time for analysis
-- Having to mingle with strangers
-- Dealing with a chaotic environment
-- Being wrong or unprepared
-- Dealing with emotional or erratic people
-- Operating in a political atmosphere
-- Being forceful or insistent
-- Initiating change and taking risks
+-   Working without clear guidelines
+-   Making decisions without time for analysis
+-   Having to mingle with strangers
+-   Dealing with a chaotic environment
+-   Being wrong or unprepared
+-   Dealing with emotional or erratic people
+-   Operating in a political atmosphere
+-   Being forceful or insistent
+-   Initiating change and taking risks
 
 Summaray of that DiSC
 
@@ -146,12 +146,32 @@ Shortly, it means that I am described as: "Meets outer expectations, resists inn
 
 What does it mean?
 
-- Reliable
-- Responsible
-- Easy to get along with
-- Not following through with own goals
-- Overwork & Burnout
-- 'Obliger Rebellion'
+-   Reliable
+-   Responsible
+-   Easy to get along with
+-   Not following through with own goals
+-   Overwork & Burnout
+-   'Obliger Rebellion'
+
+## The Predictive Index: Behavioral Assessment & Cognitive Assessment
+
+Another tests I've took was [Predictive Index Behavioral Assessment](https://www.predictiveindex.com/assessments/behavioral-assessment/) and [Predictive Index Cognitive Assessment](https://www.predictiveindex.com/assessments/cognitive-assessment/).
+
+According to the Behavioral report my primary behavioral drives are: Altruism.
+
+And to summarize (from the report):
+
+Filip is humble; he is not selfish and is genuinely interested in other people, understanding them well and intuitively. Open and friendly; he enjoys collaborating with others and is a lively, warm companion.
+
+He is a pleasant and extroverted person who communicates effectively. Filip is capable of stimulating and motivating others while being aware of their needs and concerns and responding to them. His pleasant, friendly, and caring approach makes him very approachable. He collaborates easily with a wide range of people.
+
+He strives to work with and for others. He derives particular satisfaction from doing things for others: for the company, management, team, and clients. He is eager to collaborate; he can teach and communicate company policies, programs, and systems particularly effectively.
+
+He works at an above-average pace; he pays attention to detail and works on them quickly and thoroughly. Despite this, he is too impatient to enjoy working on details, whether within repetitive routines or his core responsibilities.
+
+He zealously ensures that tasks are carried out exactly as they should be; if his work requires delegating individual tasks to others, Filip will conduct careful and thorough monitoring. If he must be critical, he will do so in a constructive and supportive manner. His sense of urgency and sense of duty make him actively concerned with deadlines and the accuracy of every job for which he is responsible.
+
+Fundamentally, Filip is a cautious and attentive person, respecting superiors and tradition; he is a specialist who ensures that tasks are completed correctly and in accordance with the company's formal organizational structure, avoiding risk and uncertainty.
 
 ## Summary
 
