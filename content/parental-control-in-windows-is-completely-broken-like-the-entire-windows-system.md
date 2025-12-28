@@ -27,4 +27,4 @@ CPU cooler has a temperature sensor and display, but drivers require installatio
 
 Trying to start anything on the system by starting to write program name and press Enter? Nope, not that easy without knowing the complete name. Windows will search Internet for that program instead of starting it if you made a typo. With Edge, which I decided not to use.
 
-So, finally I had to make my kid Administrator too. But at least I was able to run game on this "OS" (of course I still need to enter password for Steam every time kid want to play as "Remember me" option doesn't work for some reason).
+So, finally I had to make my kid Administrator too. But at least I was able to run game on this "OS".
