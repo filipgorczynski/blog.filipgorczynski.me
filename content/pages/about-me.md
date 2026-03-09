@@ -9,6 +9,7 @@ Status: published
 [<img src="/theme/images/logos/linkedin_0077B5.svg" alt="LinkedIn" title="LinkedIn" width="32px" height="32px" />](https://www.linkedin.com/in/filip-g%C3%B3rczy%C5%84ski-52b08270/)&nbsp;
 [<img src="/theme/images/logos/facebook_1877F2.svg" alt="Facebook" title="Facebook" width="32px" height="32px" />](https://www.facebook.com/filipgorczynski/)&nbsp;
 [<img src="/theme/images/logos/twitter_1DA1F2.svg" alt="Twitter" title="Twitter" width="32px" height="32px" />](https://twitter.com/filipgorczynski)&nbsp;
+[<img src="/theme/images/logos/codecrafters_171920.svg" alt="CodeCrafters" title="Codecrafters" width="32px" height="32px" />](https://app.codecrafters.io/users/filipgorczynski)&nbsp;
 [<img src="/theme/images/logos/exercism_009CAB.svg" alt="Exercism" title="Exercism" width="32px" height="32px" />](https://exercism.io/profiles/filipgorczynski)&nbsp;
 [<img src="/theme/images/logos/codewars_AD2C27.svg" alt="CodeWars" title="CodeWars" width="32px" height="32px" />](https://www.codewars.com/users/filipgorczynski)&nbsp;
 [<img src="/theme/images/logos/checkio_008DB6.svg" alt="CheckiO" title="CheckiO" width="32px" height="32px" />](https://py.checkio.org/user/filipgorczynski/)
@@ -21,10 +22,10 @@ I paint miniatures once a week—not professionally, just to unwind. I'd love to
 
 Short career highlights:
 
--   Full Stack Web Engineer at Neoinstinct (2022.11-present)
--   Junior Game Developer at Omnigame ApS (2021.10-2022.10)
--   Full Stack Engineer at Unhaggle Inc. (2019-2021.09)
--   Full Stack Web Developer at STX Next (2015-2018)
--   PHP develper - just no, never again
+- Full Stack Web Engineer at Neoinstinct (2022.11-present)
+- Junior Game Developer at Omnigame ApS (2021.10-2022.10)
+- Full Stack Engineer at Unhaggle Inc. (2019-2021.09)
+- Full Stack Web Developer at STX Next (2015-2018)
+- PHP develper - just no, never again
 
 In case you'd like to buy me something, here is my <a href="/pages/wish-list.html">🎁 wish list</a>.
