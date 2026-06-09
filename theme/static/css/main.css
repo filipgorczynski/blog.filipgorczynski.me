@@ -1,10 +1,8 @@
 @import "normalize.css";
-@import url("https://cdn.jsdelivr.net/npm/@fontsource/iosevka@5/index.css");
-@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,700;1,400;1,700&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import "fonts.css";
 
 body {
-  font-family: "Iosevka", "Ubuntu", Sans-Serif;
+  font-family: "Iosevka", Sans-Serif;
   font-size: 1.1rem;
   font-size: 1.2em;
   color: #333;
@@ -35,7 +33,7 @@ a:hover {
 
 code,
 pre {
-  font-family: "Iosevka", "Ubuntu Mono", monospace;
+  font-family: "Iosevka", monospace;
   background-color: #eff6ff;
   color: #5067b9;
   padding: 0.25rem 0.25rem;
