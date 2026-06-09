@@ -1,6 +1,6 @@
 Title: About Me
 Date: 2020-12-16 13:16
-Modified: 2023-04-05 09:15:46
+Modified: 2026-06-09 07:32
 Slug: about-me
 Status: published
 
@@ -16,16 +16,19 @@ Status: published
 
 Hello, folks!
 
-I'm Filip Górczyński and I wear many hats depending on what is required of me but most of the time I jump between **Full Stack Web Developer** and **Family Guy**.
+I'm Filip Górczyński and I wear many hats depending on what is required of me but most of the time I jump between **Software Engineer (Web)** and **Family Guy**.
 
 I paint miniatures once a week—not professionally, just to unwind. I'd love to find time to do it more often.
+3 times a week I spend time on the gym, mostly with kettlebells.
+I'm a Main Barbeque Operator for my family and friends.
 
 Short career highlights:
 
-- Full Stack Web Engineer at Neoinstinct (2022.11-present)
+- Software Engineer at Egnyte (2022.04-present)
+- Full Stack Web Engineer at Neoinstinct (2022.11-2026.03)
 - Junior Game Developer at Omnigame ApS (2021.10-2022.10)
 - Full Stack Engineer at Unhaggle Inc. (2019-2021.09)
 - Full Stack Web Developer at STX Next (2015-2018)
-- PHP develper - just no, never again
+- PHP develper - just no, never again (about a decade)
 
 In case you'd like to buy me something, here is my <a href="/pages/wish-list.html">🎁 wish list</a>.
