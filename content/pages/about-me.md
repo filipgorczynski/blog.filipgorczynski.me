@@ -24,7 +24,7 @@ I'm a Main Barbeque Operator for my family and friends.
 
 Short career highlights:
 
-- Software Engineer at Egnyte (2022.04-present)
+- Software Engineer at Egnyte (2026.04-present)
 - Full Stack Web Engineer at Neoinstinct (2022.11-2026.03)
 - Junior Game Developer at Omnigame ApS (2021.10-2022.10)
 - Full Stack Engineer at Unhaggle Inc. (2019-2021.09)
