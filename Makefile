@@ -12,6 +12,9 @@ FTP_HOST=filipgorczynski.me
 FTP_USER=publisher@filipgorczynski.me
 FTP_TARGET_DIR=/
 
+# -include .env
+# export FTP_PASSWORD
+
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -78,11 +81,10 @@ publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 ftp_upload: publish
-	# lftp ftp://$(FTP_USER)@$(FTP_HOST) -e "mirror -R $(OUTPUTDIR) $(FTP_TARGET_DIR) ; quit"
 	lftp ftp://$(FTP_USER)@$(FTP_HOST) -e "set ftp:ssl-allow no; mirror -R $(OUTPUTDIR) $(FTP_TARGET_DIR) ; quit"
 
 drafts:
 	$(PELICAN) -l $(INPUTDIR) -o $(OUTPUTDIR)
 
 
-.PHONY: html help clean regenerate serve serve-global devserver publish ftp_upload
+.PHONY: html help clean regenerate serve serve-global devserver publish ftp_upload _ftp_upload_internal

@@ -1,5 +1,6 @@
-pelican==4.11.0
-Markdown==3.8
+pelican==4.12.0
+Markdown==3.10.2
 pelican-gist==0.3.4
 pelican-metadataparsing==0.1.0
-pip-tools==7.4.1
+pip-tools==7.5.3
+pygments==2.19.2
