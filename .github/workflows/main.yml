@@ -9,15 +9,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 🦄 Code checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: 🐍 Install Python 3.10
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-
-      - name: ♻️ Create Python virtualenv
-        uses: syphar/restore-virtualenv@v1.2
+          cache: 'pip'
 
       - name: 📦 Install Python dependencies
         run: pip install -r requirements.txt
